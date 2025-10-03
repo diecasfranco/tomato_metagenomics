@@ -1,0 +1,4 @@
+2023-09-04 12:31:01 - MEGAHIT v1.2.9
+2023-09-04 12:31:01 - Using megahit_core with POPCNT support
+2023-09-04 12:31:01 - Convert reads to binary library
+2023-09-04 12:31:01 - command /home/diego.franco/.conda/envs/anvio/bin/megahit_core_popcnt buildlib /mnt/qnap/users/diego.franco/tomato_metagenomics/assemblies/T2_CHQ_assembly/tmp/reads.lib /mnt/qnap/users/diego.franco/tomato_metagenomics/assemblies/T2_CHQ_assembly/tmp/reads.lib

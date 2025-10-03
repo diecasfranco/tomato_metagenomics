@@ -1,0 +1,186 @@
+Metagenomics Tomato
+2x100
+
+Software requirements
+
+fastQC
+PhyloFlash
+trim_galore (cutadapt)
+anvio (this includes most of the dependences)
+
+
+## Samples
+
+## trimming adapters - according to fastQC results, it's not necessary
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; trim_galore --gzip --paired raw_data/"$sample"_R1.fastq.gz raw_data/"$sample"_R2.fastq.gz -o trimmed_seqs/"$sample" -j 60 --trim1 --retain_unpaired -r1 100 -r2 100 --length 100 -phred33 -q 30; done
+
+### rename files after trim_galore
+
+find trimmed_seqs/ -name "*.gz" -exec rename -n 's/_val_1//' "{}" \;
+find trimmed_seqs/ -name "*.gz" -exec rename -n 's/_val_2//' "{}" \;
+
+## phyloflash
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; phyloFlash.pl -lib phylo_"$sample" -read1 raw_data/"$sample"_R1.fastq.gz -read2 raw_data/"$sample"_R2.fastq.gz -CPUs 60 -everything -taxlevel 8; done
+
+## assembly megahit
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; megahit -1 raw_data/"$sample"_R1.fastq.gz -2 raw_data/"$sample"_R2.fastq.gz --min-contig-len 1000 -m 0.85 -o assemblies/"$sample"_assembly --out-prefix "$sample" -t 60; done
+
+## Anvio
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-script-reformat-fasta assemblies/"$sample"_assembly/"$sample".contigs.fa -o assemblies/"$sample"_assembly/"$sample"_contigs.fasta --simplify-names --prefix "$sample" --report-file assemblies/"$sample"_assembly/"$sample"_contigs_info.txt; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-gen-contigs-database --contigs-fasta assemblies/"$sample"_assembly/"$sample"_contigs.fasta --output-db-path assemblies/"$sample"_assembly/"$sample".db --project-name "$sample" --num-threads 60; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-run-hmms -c assemblies/"$sample"_assembly/"$sample".db -T 80; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-get-sequences-for-hmm-hits -c assemblies/"$sample"_assembly/"$sample".db --hmm-sources Ribosomal_RNA_16S -o assemblies/"$sample"_assembly/"$sample"_16S.fasta; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-get-sequences-for-hmm-hits -c assemblies/"$sample"_assembly/"$sample".db --hmm-sources Ribosomal_RNA_28S -o assemblies/"$sample"_assembly/"$sample"_28S.fasta; done
+
+## mapping reads and sam files
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; bowtie2-build assemblies/"$sample"_assembly/"$sample"_contigs.fasta assemblies/"$sample"_assembly/"$sample"_ref --threads 60; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; bowtie2 -x assemblies/"$sample"_assembly/"$sample"_ref -1 raw_data/"$sample"_R1.fastq.gz -2 raw_data/"$sample"_R2.fastq.gz --no-unal -S assemblies/"$sample"_assembly/"$sample".sam --threads 60; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; samtools view -F 4 -bS -@ 80 assemblies/"$sample"_assembly/"$sample".sam > assemblies/"$sample"_assembly/"$sample"-RAW.bam; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-init-bam assemblies/"$sample"_assembly/"$sample"-RAW.bam -o assemblies/"$sample"_assembly/"$sample".bam; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-run-pfams -c assemblies/"$sample"_assembly/"$sample".db -T 35; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-run-kegg-kofams -c assemblies/"$sample"_assembly/"$sample".db -T 35; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-run-ncbi-cogs -c assemblies/"$sample"_assembly/"$sample".db -T 35; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-estimate-metabolism -c assemblies/"$sample"_assembly/"$sample".db --kegg-output-modes modules_custom --custom-output-headers kegg_module,module_name,module_category,module_subcategory,kofam_hits_in_module,module_is_complete --metagenome-mode -O assemblies/"$sample"_assembly/"$sample"_kegg.txt; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-get-sequences-for-gene-calls -c assemblies/"$sample"_assembly/"$sample".db -o assemblies/"$sample"_assembly/"$sample"_gene-calls.fa; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; anvi-get-sequences-for-gene-calls -c assemblies/"$sample"_assembly/"$sample".db -o assemblies/"$sample"_assembly/"$sample"_gene-calls_aa.fa --get-aa-sequences; done
+
+####
+### Kraken2 - Bracken
+for file in *_R1.fq.gz; do SampleName=`basename $file _R1.fq.gz`; kraken2 -db ~/symbio/db/kraken-db/ ../assemblies/"$SampleName"_assembly/"$SampleName"_contigs.fasta --threads 70 --output ../assemblies/"$SampleName"_assembly/"$SampleName".kraken --use-names --report ../assemblies/"$SampleName"_assembly/"$SampleName".kreport; done
+
+for file in *_R1.fq.gz; do SampleName=`basename $file _R1.fq.gz`; bracken -d ~/symbio/db/kraken-db/ -i ../assemblies/"$SampleName"_assembly/"$SampleName".kreport -o ../assemblies/"$SampleName"_assembly/"$SampleName"_genera.bracken -r 150 -l G; done
+
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; kraken2 -db ~/qnap/kraken-db/ assemblies/"$sample"_assembly/"$sample"_contigs.fasta --threads 50 --output assemblies/"$sample"_assembly/"$sample"_kraken.txt --use-names --report assemblies/"$sample"_assembly/"$sample".kreport; done
+
+31820 sequences (134.39 Mbp) processed in 40.544s (47.1 Kseq/m, 198.89 Mbp/m).
+  27491 sequences classified (86.40%)
+  4329 sequences unclassified (13.60%)
+Loading database information... done.
+11250 sequences (60.31 Mbp) processed in 2.863s (235.7 Kseq/m, 1263.70 Mbp/m).
+  9258 sequences classified (82.29%)
+  1992 sequences unclassified (17.71%)
+Loading database information... done.
+6497 sequences (23.87 Mbp) processed in 0.597s (653.1 Kseq/m, 2399.93 Mbp/m).
+  5986 sequences classified (92.13%)
+  511 sequences unclassified (7.87%)
+Loading database information... done.
+4405 sequences (20.53 Mbp) processed in 0.501s (527.4 Kseq/m, 2458.60 Mbp/m).
+  3863 sequences classified (87.70%)
+  542 sequences unclassified (12.30%)
+Loading database information... done.
+5109 sequences (16.89 Mbp) processed in 1.675s (183.0 Kseq/m, 605.11 Mbp/m).
+  4181 sequences classified (81.84%)
+  928 sequences unclassified (18.16%)
+Loading database information... done.
+19594 sequences (89.06 Mbp) processed in 3.541s (332.1 Kseq/m, 1509.20 Mbp/m).
+  18064 sequences classified (92.19%)
+  1530 sequences unclassified (7.81%)
+Loading database information... done.
+5297 sequences (25.96 Mbp) processed in 1.590s (199.9 Kseq/m, 979.54 Mbp/m).
+  4512 sequences classified (85.18%)
+  785 sequences unclassified (14.82%)
+Loading database information... done.
+6923 sequences (22.06 Mbp) processed in 1.384s (300.1 Kseq/m, 956.23 Mbp/m).
+  6092 sequences classified (88.00%)
+  831 sequences unclassified (12.00%)
+Loading database information... done.
+6616 sequences (22.67 Mbp) processed in 1.494s (265.7 Kseq/m, 910.39 Mbp/m).
+  5524 sequences classified (83.49%)
+  1092 sequences unclassified (16.51%)
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; bracken -d ~/qnap/kraken-db/ -i assemblies/"$sample"_assembly/"$sample".kreport -o assemblies/"$sample"_assembly/"$sample".bracken -l G; done
+
+####
+####
+
+## Binning
+
+## Metabat (conda activate metawrap)
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; jgi_summarize_bam_contig_depths --outputDepth assemblies/"$sample"_assembly/"$sample"_metabat2_depth.txt assemblies/"$sample"_assembly/"$sample".bam; done
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; metabat2 -i assemblies/"$sample"_assembly/"$sample"_contigs.fasta -a assemblies/"$sample"_assembly/"$sample"_metabat2_depth.txt -o assemblies/"$sample"_assembly/"$sample"_metabat2_results/"$sample" -m 2000 -t 60; done
+
+
+
+## MaxBin2 (installed locally on symbio)
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; pileup.sh in=assemblies/"$sample"_assembly/"$sample".bam  out=assemblies/"$sample"_assembly/cov_"$sample".txt; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; awk '{print $1"\t"$5}' assemblies/"$sample"_assembly/cov_"$sample".txt | grep -v '^#' > assemblies/"$sample"_assembly/"$sample"_abundance.txt; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; mkdir assemblies/"$sample"_assembly/"$sample"_maxbin_results; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; run_MaxBin.pl -contig assemblies/"$sample"_assembly/"$sample"_contigs.fasta -abund assemblies/"$sample"_assembly/"$sample"_abundance.txt -out assemblies/"$sample"_assembly/"$sample"_maxbin_results/"$sample" -thread 60; done
+
+
+### concoct
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; cut_up_fasta.py assemblies/"$sample"_assembly/"$sample"_contigs.fasta -c 10000 -o 0 --merge_last -b assemblies/"$sample"_assembly/"$sample"_contigs.bed > assemblies/"$sample"_assembly/"$sample"_10k_contigs.fasta; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; concoct_coverage_table.py assemblies/"$sample"_assembly/"$sample"_contigs.bed assemblies/"$sample"_assembly/"$sample".bam > assemblies/"$sample"_assembly/"$sample"_cov_table.tsv; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; concoct --composition_file assemblies/"$sample"_assembly/"$sample"_10k_contigs.fasta --coverage_file assemblies/"$sample"_assembly/"$sample"_cov_table.tsv -b assemblies/"$sample"_assembly/"$sample"_concoct_output/ --threads 20; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; merge_cutup_clustering.py assemblies/"$sample"_assembly/"$sample"_concoct_output/clustering_gt1000.csv > assemblies/"$sample"_assembly/"$sample"_concoct_output/clustering_merged.csv; done
+ 
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; mkdir assemblies/"$sample"_assembly/"$sample"_concoct_output/"$sample"_bins; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; extract_fasta_bins.py assemblies/"$sample"_assembly/"$sample"_contigs.fasta assemblies/"$sample"_assembly/"$sample"_concoct_output/clustering_merged.csv --output_path assemblies/"$sample"_assembly/"$sample"_concoct_output/"$sample"_bins; done
+
+###### DAS Tool
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; perl -pe "s/,/\tconcoct./g;" assemblies/"$sample"_assembly/"$sample"_concoct_output/clustering_merged.csv | tail -n +2 > assemblies/"$sample"_assembly/"$sample"_concoct_output/"$sample"_concoct_scaffolds2bin.tsv; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; Fasta_to_Scaffolds2Bin.sh -i assemblies/"$sample"_assembly/"$sample"_maxbin_results/ -e fasta > assemblies/"$sample"_assembly/"$sample"_maxbin_results/"$sample"_maxbin_scaffolds2bin.tsv; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; Fasta_to_Scaffolds2Bin.sh -i assemblies/"$sample"_assembly/"$sample"_metabat2_results/ -e fa > assemblies/"$sample"_assembly/"$sample"_metabat2_results/"$sample"_metabat_scaffolds2bin.tsv; done
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; DAS_Tool -i assemblies/"$sample"_assembly/"$sample"_concoct_output/"$sample"_concoct_scaffolds2bin.tsv,assemblies/"$sample"_assembly/"$sample"_maxbin_results/"$sample"_maxbin_scaffolds2bin.tsv,assemblies/"$sample"_assembly/"$sample"_metabat2_results/"$sample"_metabat_scaffolds2bin.tsv -c assemblies/"$sample"_assembly/"$sample"_contigs.fasta -o assemblies/"$sample"_assembly/"$sample"_dastools/"$sample"_bin --search_engine diamond -t 50 -l concoct,maxbin2,metabat --score_threshold 0.5 --write_bins --write_unbinned; done
+
+
+#### Checkm2
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; checkm2 predict --input assemblies/"$sample"_assembly/"$sample"_dastools/"$sample"_bin/ --output-directory assemblies/"$sample"_assembly/"$sample"_checkm2 --allmodels -x fa --database_path ~/qnap/checkm2_db/CheckM2_database/uniref100.KO.1.dmnd; done
+
+### GTDBTK
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; gtdbtk classify_wf --genome_dir assemblies/"$sample"_assembly/"$sample"_dastools/"$sample"_bin_DASTool_bins/ --out_dir assemblies/"$sample"_assembly/"$sample"_gtdbtk_results --cpus 50 -x fa; done
+
+### Blastn 
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; blastn -task megablast -query assemblies/"$sample"_assembly/"$sample"_contigs.fasta -db ~/qnap/db/nt -outfmt '6 qseqid staxids bitscore std sscinames sskingdoms stitle' -max_target_seqs 1 -max_hsps 1 -num_threads 50 -evalue 1e-10 > assemblies/"$sample"_assembly/blastn_"$sample".txt; done
+
+
+for sample in `awk '{print $1}' samples_list.txt`; do     if [ "$sample" == "sample" ]; then continue; fi; merge.py -c cov_"$sample".txt -b blastn_"$sample".txt -o "$sample"_cov_tax.txt;done
+
+### annotation MAGs bakta & prokka
+
+for file in *fa; do SampleName=`basename $file .fa`; bakta "$SampleName".fa --complete --translation-table 11 --keep-contig-headers --compliant --threads 40 --output bakta/bakta_"$SampleName"; done
+
+for file in *fa; do sample=`basename $file .fa`; prokka "$sample".fa --outdir prokka/prokka_"$sample" --prefix "$sample" --compliant --cpus 40; done
+
+

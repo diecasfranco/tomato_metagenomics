@@ -1,0 +1,9 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Solanum	4107	G	141994	29	142023	0.98672
+Capsicum	4071	G	11	0	11	0.00008
+Leuconostoc	1243	G	653	19	672	0.00467
+Weissella	46255	G	326	2	328	0.00228
+Lactococcus	1357	G	748	67	815	0.00566
+Lactobacillus	1578	G	18	2	20	0.00014
+Ligilactobacillus	2767887	G	11	0	11	0.00008
+Lactiplantibacillus	2767842	G	11	40	51	0.00035

@@ -1,0 +1,4 @@
+name	taxonomy_id	taxonomy_lvl	kraken_assigned_reads	added_reads	new_est_reads	fraction_total_reads
+Solanum	4107	G	145318	8	145326	0.99429
+Weissella	46255	G	442	1	443	0.00303
+Leuconostoc	1243	G	385	6	391	0.00268

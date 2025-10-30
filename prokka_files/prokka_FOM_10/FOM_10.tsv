@@ -1,0 +1,633 @@
+locus_tag	ftype	length_bp	gene	EC_number	COG	product
+FOM_10_00001	gene	477	dgkA			
+FOM_10_00001	CDS	477	dgkA	2.7.1.66	COG0818	Undecaprenol kinase
+FOM_10_00002	gene	483	ybeY			
+FOM_10_00002	CDS	483	ybeY	3.1.-.-	COG0319	Endoribonuclease YbeY
+FOM_10_00003	gene	987				
+FOM_10_00003	CDS	987			COG1702	PhoH-like protein
+FOM_10_00004	gene	1197	nrgA			
+FOM_10_00004	CDS	1197	nrgA			Ammonium transporter
+FOM_10_00005	gene	1422	pyk			
+FOM_10_00005	CDS	1422	pyk	2.7.1.40	COG0469	Pyruvate kinase
+FOM_10_00006	gene	3342	dnaE			
+FOM_10_00006	CDS	3342	dnaE	2.7.7.7	COG0587	DNA polymerase III subunit alpha
+FOM_10_00007	gene	198				
+FOM_10_00007	CDS	198				hypothetical protein
+FOM_10_00008	gene	885	aroD			
+FOM_10_00008	CDS	885	aroD	4.2.1.10	COG0710	3-dehydroquinate dehydratase
+FOM_10_00009	gene	555				
+FOM_10_00009	CDS	555				hypothetical protein
+FOM_10_00010	gene	804	aroK			
+FOM_10_00010	CDS	804	aroK	2.7.1.71		Shikimate kinase
+FOM_10_00011	gene	843	tyrC			
+FOM_10_00011	CDS	843	tyrC	1.3.1.43		Cyclohexadienyl dehydrogenase
+FOM_10_00012	gene	1296	aroA1			
+FOM_10_00012	CDS	1296	aroA1	2.5.1.19	COG0128	3-phosphoshikimate 1-carboxyvinyltransferase 1
+FOM_10_00013	gene	1179	aroC			
+FOM_10_00013	CDS	1179	aroC	4.2.3.5	COG0082	Chorismate synthase
+FOM_10_00014	gene	1083	aroB			
+FOM_10_00014	CDS	1083	aroB	4.2.3.4	COG0337	3-dehydroquinate synthase
+FOM_10_00015	gene	996	kdsA			
+FOM_10_00015	CDS	996	kdsA	2.5.1.55		2-dehydro-3-deoxyphosphooctonate aldolase
+FOM_10_00016	gene	846	aroE			
+FOM_10_00016	CDS	846	aroE	1.1.1.25	COG0169	Shikimate dehydrogenase (NADP(+))
+FOM_10_00017	gene	1938	tkt			
+FOM_10_00017	CDS	1938	tkt	2.2.1.1		Transketolase
+FOM_10_00018	gene	546				
+FOM_10_00018	CDS	546				hypothetical protein
+FOM_10_00019	gene	996	rihA			
+FOM_10_00019	CDS	996	rihA	3.2.-.-	COG1957	Pyrimidine-specific ribonucleoside hydrolase RihA
+FOM_10_00020	gene	852				
+FOM_10_00020	CDS	852			COG1307	DegV domain-containing protein
+FOM_10_00021	gene	501	dhfR			
+FOM_10_00021	CDS	501	dhfR	1.5.1.3	COG0262	Dihydrofolate reductase
+FOM_10_00022	gene	1212	cca			
+FOM_10_00022	CDS	1212	cca	2.7.7.72		CCA-adding enzyme
+FOM_10_00023	gene	1263	bepA			
+FOM_10_00023	CDS	1263	bepA	3.4.-.-		Beta-barrel assembly-enhancing protease
+FOM_10_00024	gene	228				
+FOM_10_00024	CDS	228				hypothetical protein
+FOM_10_00025	gene	834	dkgB			
+FOM_10_00025	CDS	834	dkgB	1.1.1.274		2,5-diketo-D-gluconic acid reductase B
+FOM_10_00026	gene	249				
+FOM_10_00026	CDS	249				hypothetical protein
+FOM_10_00027	gene	276	hup			
+FOM_10_00027	CDS	276	hup			DNA-binding protein HU
+FOM_10_00028	gene	1314	der			
+FOM_10_00028	CDS	1314	der		COG1160	GTPase Der
+FOM_10_00029	gene	1191	rps1			
+FOM_10_00029	CDS	1191	rps1		COG0539	30S ribosomal protein S1
+FOM_10_00030	gene	678	cmk			
+FOM_10_00030	CDS	678	cmk	2.7.4.25	COG0283	Cytidylate kinase
+FOM_10_00031	gene	549				
+FOM_10_00031	CDS	549				hypothetical protein
+FOM_10_00032	gene	585	ribU			
+FOM_10_00032	CDS	585	ribU		COG3601	Riboflavin transporter RibU
+FOM_10_00033	gene	750	rluB			
+FOM_10_00033	CDS	750	rluB	5.4.99.22	COG1187	Ribosomal large subunit pseudouridine synthase B
+FOM_10_00034	gene	603	scpB			
+FOM_10_00034	CDS	603	scpB			Segregation and condensation protein B
+FOM_10_00035	gene	762	scpA			
+FOM_10_00035	CDS	762	scpA		COG1354	Segregation and condensation protein A
+FOM_10_00036	gene	354				
+FOM_10_00036	CDS	354				hypothetical protein
+FOM_10_00037	gene	897	xerD			
+FOM_10_00037	CDS	897	xerD			Tyrosine recombinase XerD
+FOM_10_00038	gene	882	cvfB			
+FOM_10_00038	CDS	882	cvfB			Conserved virulence factor B
+FOM_10_00039	gene	444	yqeY			
+FOM_10_00039	CDS	444	yqeY		COG1610	putative protein YqeY
+FOM_10_00040	gene	186	rpsU			
+FOM_10_00040	CDS	186	rpsU			30S ribosomal protein S21
+FOM_10_00041	gene	1269	kgtP			
+FOM_10_00041	CDS	1269	kgtP			Alpha-ketoglutarate permease
+FOM_10_00042	gene	1548	pucR			
+FOM_10_00042	CDS	1548	pucR		COG2508	Purine catabolism regulatory protein
+FOM_10_00043	gene	1395	serP2_1			
+FOM_10_00043	CDS	1395	serP2_1		COG1113	DL-alanine permease SerP2
+FOM_10_00044	gene	843				
+FOM_10_00044	CDS	843				hypothetical protein
+FOM_10_00045	gene	1770	aspS			
+FOM_10_00045	CDS	1770	aspS	6.1.1.12		Aspartate--tRNA ligase
+FOM_10_00046	gene	1305	hisS			
+FOM_10_00046	CDS	1305	hisS	6.1.1.21		Histidine--tRNA ligase
+FOM_10_00047	gene	1677	malL_1			
+FOM_10_00047	CDS	1677	malL_1	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+FOM_10_00048	gene	1368				
+FOM_10_00048	CDS	1368				hypothetical protein
+FOM_10_00049	gene	1671	malL_2			
+FOM_10_00049	CDS	1671	malL_2	3.2.1.10	COG0366	Oligo-1,6-glucosidase
+FOM_10_00050	gene	999	ccpA_1			
+FOM_10_00050	CDS	999	ccpA_1		COG1609	Catabolite control protein A
+FOM_10_00051	gene	333	ycjU			
+FOM_10_00051	CDS	333	ycjU	5.4.2.6	COG0637	Beta-phosphoglucomutase
+FOM_10_00052	gene	393				
+FOM_10_00052	CDS	393				hypothetical protein
+FOM_10_00053	gene	2262	malP			
+FOM_10_00053	CDS	2262	malP	2.4.1.8		Maltose phosphorylase
+FOM_10_00054	gene	1344				
+FOM_10_00054	CDS	1344				hypothetical protein
+FOM_10_00055	gene	948	cytR			
+FOM_10_00055	CDS	948	cytR		COG1609	HTH-type transcriptional repressor CytR
+FOM_10_00056	gene	135				
+FOM_10_00056	CDS	135				hypothetical protein
+FOM_10_00057	gene	459				
+FOM_10_00057	CDS	459				hypothetical protein
+FOM_10_00058	gene	2553				
+FOM_10_00058	CDS	2553				hypothetical protein
+FOM_10_00059	gene	600				
+FOM_10_00059	CDS	600				hypothetical protein
+FOM_10_00060	gene	510				
+FOM_10_00060	CDS	510				hypothetical protein
+FOM_10_00061	gene	1188	dapX			
+FOM_10_00061	CDS	1188	dapX	2.6.1.-	COG0436	putative N-acetyl-LL-diaminopimelate aminotransferase
+FOM_10_00062	gene	1134	rlmL			
+FOM_10_00062	CDS	1134	rlmL	2.1.1.173	COG0116	Ribosomal RNA large subunit methyltransferase L
+FOM_10_00063	gene	288				
+FOM_10_00063	CDS	288				hypothetical protein
+FOM_10_00064	gene	639	dnaD			
+FOM_10_00064	CDS	639	dnaD		COG3935	DNA replication protein DnaD
+FOM_10_00065	gene	1308	asnS			
+FOM_10_00065	CDS	1308	asnS	6.1.1.22	COG0017	Asparagine--tRNA ligase
+FOM_10_00066	gene	1182	aspB			
+FOM_10_00066	CDS	1182	aspB	2.6.1.14	COG0436	Asparagine--oxo-acid transaminase
+FOM_10_00067	gene	534				
+FOM_10_00067	CDS	534				hypothetical protein
+FOM_10_00068	gene	2406	dinG			
+FOM_10_00068	CDS	2406	dinG	3.1.-.-		3'-5' exonuclease DinG
+FOM_10_00069	gene	933	galK			
+FOM_10_00069	CDS	933	galK	2.7.1.6		Galactokinase
+FOM_10_00070	gene	1020				
+FOM_10_00070	CDS	1020				hypothetical protein
+FOM_10_00071	gene	618				
+FOM_10_00071	CDS	618				hypothetical protein
+FOM_10_00072	gene	444	rhaR			
+FOM_10_00072	CDS	444	rhaR			HTH-type transcriptional activator RhaR
+FOM_10_00073	gene	990	gpr			
+FOM_10_00073	CDS	990	gpr	1.1.1.-	COG0667	L-glyceraldehyde 3-phosphate reductase
+FOM_10_00074	gene	900				
+FOM_10_00074	CDS	900				hypothetical protein
+FOM_10_00075	gene	975	prs			
+FOM_10_00075	CDS	975	prs	2.7.6.1	COG0462	Ribose-phosphate pyrophosphokinase
+FOM_10_00076	gene	2400	recD2			
+FOM_10_00076	CDS	2400	recD2	3.6.4.12	COG0507	ATP-dependent RecD-like DNA helicase
+FOM_10_00077	gene	654	gpmB			
+FOM_10_00077	CDS	654	gpmB	5.4.2.-		phosphoglycerate mutase GpmB
+FOM_10_00078	gene	339				
+FOM_10_00078	CDS	339				hypothetical protein
+FOM_10_00079	gene	1116	tmpC			
+FOM_10_00079	CDS	1116	tmpC		COG1744	Membrane lipoprotein TmpC
+FOM_10_00080	gene	1440	rsmF			
+FOM_10_00080	CDS	1440	rsmF	2.1.1.-	COG0144	Ribosomal RNA small subunit methyltransferase F
+FOM_10_00081	gene	945	rbsK/rbiA			
+FOM_10_00081	CDS	945	rbsK/rbiA			Bifunctional ribokinase/ribose-5-phosphate isomerase A
+FOM_10_00082	gene	426	psiE			
+FOM_10_00082	CDS	426	psiE			Protein PsiE
+FOM_10_00083	gene	4314	polC_1			
+FOM_10_00083	CDS	4314	polC_1	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FOM_10_00084	gene	1716	proS			
+FOM_10_00084	CDS	1716	proS	6.1.1.15	COG0442	Proline--tRNA ligase
+FOM_10_00085	gene	1257	rasP			
+FOM_10_00085	CDS	1257	rasP	3.4.24.-	COG0750	Regulator of sigma-W protease RasP
+FOM_10_00086	gene	795				
+FOM_10_00086	CDS	795				hypothetical protein
+FOM_10_00087	gene	786	uppS			
+FOM_10_00087	CDS	786	uppS	2.5.1.31	COG0020	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+FOM_10_00088	gene	1806	glmS			
+FOM_10_00088	CDS	1806	glmS	2.6.1.16	COG0449	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+FOM_10_00089	gene	1656	adeC			
+FOM_10_00089	CDS	1656	adeC	3.5.4.2		Adenine deaminase
+FOM_10_00090	gene	507				
+FOM_10_00090	CDS	507				hypothetical protein
+FOM_10_00091	gene	2412	ftsK			
+FOM_10_00091	CDS	2412	ftsK		COG1674	DNA translocase FtsK
+FOM_10_00092	gene	74				
+FOM_10_00092	tRNA	74				tRNA-Glu(ttc)
+FOM_10_00093	gene	513	trmL			
+FOM_10_00093	CDS	513	trmL	2.1.1.207	COG0219	tRNA (cytidine(34)-2'-O)-methyltransferase
+FOM_10_00094	gene	1158				
+FOM_10_00094	CDS	1158				hypothetical protein
+FOM_10_00095	gene	951				
+FOM_10_00095	CDS	951				hypothetical protein
+FOM_10_00096	gene	1020				
+FOM_10_00096	CDS	1020		2.7.4.2		Phosphomevalonate kinase
+FOM_10_00097	gene	1062	fni			
+FOM_10_00097	CDS	1062	fni	5.3.3.2		Isopentenyl-diphosphate delta-isomerase
+FOM_10_00098	gene	564	hpt			
+FOM_10_00098	CDS	564	hpt	2.4.2.8		Hypoxanthine-guanine phosphoribosyltransferase
+FOM_10_00099	gene	1296	purB			
+FOM_10_00099	CDS	1296	purB	4.3.2.2	COG0015	Adenylosuccinate lyase
+FOM_10_00100	gene	1218	yhjX			
+FOM_10_00100	CDS	1218	yhjX			putative MFS-type transporter YhjX
+FOM_10_00101	gene	804	axe1-6A			
+FOM_10_00101	CDS	804	axe1-6A		COG2382	Carbohydrate acetyl esterase/feruloyl esterase
+FOM_10_00102	gene	1665	fhs1			
+FOM_10_00102	CDS	1665	fhs1	6.3.4.3		Formate--tetrahydrofolate ligase 1
+FOM_10_00103	gene	1254	purD			
+FOM_10_00103	CDS	1254	purD	6.3.4.13	COG0151	Phosphoribosylamine--glycine ligase
+FOM_10_00104	gene	462				
+FOM_10_00104	CDS	462				hypothetical protein
+FOM_10_00105	gene	1527	purH			
+FOM_10_00105	CDS	1527	purH			Bifunctional purine biosynthesis protein PurH
+FOM_10_00106	gene	591	purN			
+FOM_10_00106	CDS	591	purN	2.1.2.2		Phosphoribosylglycinamide formyltransferase
+FOM_10_00107	gene	1038	purM			
+FOM_10_00107	CDS	1038	purM	6.3.3.1	COG0150	Phosphoribosylformylglycinamidine cyclo-ligase
+FOM_10_00108	gene	1623	purF			
+FOM_10_00108	CDS	1623	purF	2.4.2.14		Amidophosphoribosyltransferase
+FOM_10_00109	gene	2223	purL			
+FOM_10_00109	CDS	2223	purL	6.3.5.3	COG0046	Phosphoribosylformylglycinamidine synthase subunit PurL
+FOM_10_00110	gene	669	purQ			
+FOM_10_00110	CDS	669	purQ	6.3.5.3	COG0047	Phosphoribosylformylglycinamidine synthase subunit PurQ
+FOM_10_00111	gene	267	purS			
+FOM_10_00111	CDS	267	purS	6.3.5.3	COG1828	Phosphoribosylformylglycinamidine synthase subunit PurS
+FOM_10_00112	gene	744	purC			
+FOM_10_00112	CDS	744	purC	6.3.2.6	COG0152	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+FOM_10_00113	gene	1116	purK			
+FOM_10_00113	CDS	1116	purK	6.3.4.18		N5-carboxyaminoimidazole ribonucleotide synthase
+FOM_10_00114	gene	486	purE			
+FOM_10_00114	CDS	486	purE	5.4.99.18	COG0041	N5-carboxyaminoimidazole ribonucleotide mutase
+FOM_10_00115	gene	1476	mltF			
+FOM_10_00115	CDS	1476	mltF	4.2.2.-		Membrane-bound lytic murein transglycosylase F
+FOM_10_00116	gene	381	gpsB_1			
+FOM_10_00116	CDS	381	gpsB_1		COG3599	Cell cycle protein GpsB
+FOM_10_00117	gene	570				
+FOM_10_00117	CDS	570				hypothetical protein
+FOM_10_00118	gene	2157	ponA			
+FOM_10_00118	CDS	2157	ponA		COG0744	Penicillin-binding protein 1A
+FOM_10_00119	gene	618	recU			
+FOM_10_00119	CDS	618	recU	3.1.22.4	COG3331	Holliday junction resolvase RecU
+FOM_10_00120	gene	675	graR			
+FOM_10_00120	CDS	675	graR		COG0745	Response regulator protein GraR
+FOM_10_00121	gene	996	graS			
+FOM_10_00121	CDS	996	graS	2.7.13.3		Sensor histidine kinase GraS
+FOM_10_00122	gene	765	yxdL			
+FOM_10_00122	CDS	765	yxdL		COG1136	ABC transporter ATP-binding protein YxdL
+FOM_10_00123	gene	1914	yxdM			
+FOM_10_00123	CDS	1914	yxdM			ABC transporter permease protein YxdM
+FOM_10_00124	gene	483				
+FOM_10_00124	CDS	483				hypothetical protein
+FOM_10_00125	gene	447				
+FOM_10_00125	CDS	447				hypothetical protein
+FOM_10_00126	gene	1095				
+FOM_10_00126	CDS	1095				hypothetical protein
+FOM_10_00127	gene	1548	guaA			
+FOM_10_00127	CDS	1548	guaA	6.3.5.2		GMP synthase [glutamine-hydrolyzing]
+FOM_10_00128	gene	981	guaB			
+FOM_10_00128	CDS	981	guaB	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+FOM_10_00129	gene	1173	IMPDH			
+FOM_10_00129	CDS	1173	IMPDH	1.1.1.205		Inosine-5'-monophosphate dehydrogenase
+FOM_10_00130	gene	891	htpX			
+FOM_10_00130	CDS	891	htpX	3.4.24.-	COG0501	Protease HtpX 
+FOM_10_00131	gene	549	lemA			
+FOM_10_00131	CDS	549	lemA		COG1704	Protein LemA
+FOM_10_00132	gene	918				
+FOM_10_00132	CDS	918				hypothetical protein
+FOM_10_00133	gene	828				
+FOM_10_00133	CDS	828				hypothetical protein
+FOM_10_00134	gene	1965	murJ			
+FOM_10_00134	CDS	1965	murJ		COG2244	Lipid II flippase MurJ
+FOM_10_00135	gene	2412	leuS			
+FOM_10_00135	CDS	2412	leuS	6.1.1.4		Leucine--tRNA ligase
+FOM_10_00136	gene	639				
+FOM_10_00136	CDS	639				hypothetical protein
+FOM_10_00137	gene	522				
+FOM_10_00137	CDS	522				hypothetical protein
+FOM_10_00138	gene	789				
+FOM_10_00138	CDS	789				hypothetical protein
+FOM_10_00139	gene	438				
+FOM_10_00139	CDS	438				Putative universal stress protein
+FOM_10_00140	gene	705	rpiA			
+FOM_10_00140	CDS	705	rpiA	5.3.1.6	COG0120	Ribose-5-phosphate isomerase A
+FOM_10_00141	gene	735	artM			
+FOM_10_00141	CDS	735	artM		COG1126	Arginine transport ATP-binding protein ArtM
+FOM_10_00142	gene	144				
+FOM_10_00142	CDS	144				hypothetical protein
+FOM_10_00143	gene	1188	tuf			
+FOM_10_00143	CDS	1188	tuf			Elongation factor Tu
+FOM_10_00144	gene	930				
+FOM_10_00144	CDS	930				hypothetical protein
+FOM_10_00145	gene	1818	rnj2			
+FOM_10_00145	CDS	1818	rnj2	3.1.-.-		Ribonuclease J 2
+FOM_10_00146	gene	642				
+FOM_10_00146	CDS	642				hypothetical protein
+FOM_10_00147	gene	420	rplT			
+FOM_10_00147	CDS	420	rplT		COG0292	50S ribosomal protein L20
+FOM_10_00148	gene	198	rpmI			
+FOM_10_00148	CDS	198	rpmI		COG0291	50S ribosomal protein L35
+FOM_10_00149	gene	432	infC			
+FOM_10_00149	CDS	432	infC			Translation initiation factor IF-3
+FOM_10_00150	gene	636				
+FOM_10_00150	CDS	636				hypothetical protein
+FOM_10_00151	gene	1374	serP2_2			
+FOM_10_00151	CDS	1374	serP2_2		COG1113	DL-alanine permease SerP2
+FOM_10_00152	gene	1962	thrS			
+FOM_10_00152	CDS	1962	thrS	6.1.1.3	COG0441	Threonine--tRNA ligase
+FOM_10_00153	gene	123				
+FOM_10_00153	CDS	123				hypothetical protein
+FOM_10_00154	gene	720	larD			
+FOM_10_00154	CDS	720	larD		COG0580	D/L-lactic acid transporter
+FOM_10_00155	gene	453				
+FOM_10_00155	CDS	453				hypothetical protein
+FOM_10_00156	gene	723	pmpR			
+FOM_10_00156	CDS	723	pmpR		COG0217	Transcriptional regulatory protein PmpR
+FOM_10_00157	gene	489	ypjQ			
+FOM_10_00157	CDS	489	ypjQ		COG1267	putative protein YpjQ
+FOM_10_00158	gene	1179	serA			
+FOM_10_00158	CDS	1179	serA	1.1.1.95	COG0111	D-3-phosphoglycerate dehydrogenase
+FOM_10_00159	gene	1092	serC			
+FOM_10_00159	CDS	1092	serC	2.6.1.52	COG1932	Phosphoserine aminotransferase
+FOM_10_00160	gene	87				
+FOM_10_00160	tRNA	87				tRNA-Leu(cag)
+FOM_10_00161	gene	120				
+FOM_10_00161	CDS	120				hypothetical protein
+FOM_10_00162	gene	1776	msbA			
+FOM_10_00162	CDS	1776	msbA	7.5.2.6	COG1132	Lipid A export ATP-binding/permease protein MsbA
+FOM_10_00163	gene	234				
+FOM_10_00163	CDS	234				hypothetical protein
+FOM_10_00164	gene	987	pta			
+FOM_10_00164	CDS	987	pta	2.3.1.8	COG0280	Phosphate acetyltransferase
+FOM_10_00165	gene	660	ung			
+FOM_10_00165	CDS	660	ung	3.2.2.27	COG0692	Uracil-DNA glycosylase
+FOM_10_00166	gene	540				
+FOM_10_00166	CDS	540				hypothetical protein
+FOM_10_00167	gene	915	mmuM			
+FOM_10_00167	CDS	915	mmuM	2.1.1.10	COG2040	Homocysteine S-methyltransferase
+FOM_10_00168	gene	1413	rocC			
+FOM_10_00168	CDS	1413	rocC		COG0833	Amino-acid permease RocC
+FOM_10_00169	gene	729	livF			
+FOM_10_00169	CDS	729	livF		COG0410	High-affinity branched-chain amino acid transport ATP-binding protein LivF
+FOM_10_00170	gene	786	lptB			
+FOM_10_00170	CDS	786	lptB	3.6.3.-	COG1137	Lipopolysaccharide export system ATP-binding protein LptB
+FOM_10_00171	gene	981				
+FOM_10_00171	CDS	981				hypothetical protein
+FOM_10_00172	gene	879	livH			
+FOM_10_00172	CDS	879	livH		COG0559	High-affinity branched-chain amino acid transport system permease protein LivH
+FOM_10_00173	gene	1173	livK			
+FOM_10_00173	CDS	1173	livK		COG0683	Leucine-specific-binding protein
+FOM_10_00174	gene	1143				
+FOM_10_00174	CDS	1143				hypothetical protein
+FOM_10_00175	gene	630	upp			
+FOM_10_00175	CDS	630	upp	2.4.2.9		Uracil phosphoribosyltransferase
+FOM_10_00176	gene	1365	brnQ			
+FOM_10_00176	CDS	1365	brnQ		COG1114	Branched-chain amino acid transport system 2 carrier protein
+FOM_10_00177	gene	804	mhpD			
+FOM_10_00177	CDS	804	mhpD	4.2.1.80		2-keto-4-pentenoate hydratase
+FOM_10_00178	gene	75				
+FOM_10_00178	tRNA	75				tRNA-Arg(cct)
+FOM_10_00179	gene	615	panT			
+FOM_10_00179	CDS	615	panT			Pantothenate transporter PanT
+FOM_10_00180	gene	321	ptcA			
+FOM_10_00180	CDS	321	ptcA		COG1447	PTS system cellobiose-specific EIIA component
+FOM_10_00181	gene	321	ptcB			
+FOM_10_00181	CDS	321	ptcB	2.7.1.204	COG1440	PTS system galactose-specific EIIB component
+FOM_10_00182	gene	2793	ileS			
+FOM_10_00182	CDS	2793	ileS	6.1.1.5	COG0060	Isoleucine--tRNA ligase
+FOM_10_00183	gene	669	gpsB_2			
+FOM_10_00183	CDS	669	gpsB_2			Cell cycle protein GpsB
+FOM_10_00184	gene	792				
+FOM_10_00184	CDS	792				hypothetical protein
+FOM_10_00185	gene	264				
+FOM_10_00185	CDS	264				hypothetical protein
+FOM_10_00186	gene	471	sepF			
+FOM_10_00186	CDS	471	sepF			Cell division protein SepF
+FOM_10_00187	gene	1314	ftsZ			
+FOM_10_00187	CDS	1314	ftsZ		COG0206	Cell division protein FtsZ
+FOM_10_00188	gene	1374	ftsA			
+FOM_10_00188	CDS	1374	ftsA		COG0849	Cell division protein FtsA
+FOM_10_00189	gene	708	divIB			
+FOM_10_00189	CDS	708	divIB		COG1589	Cell division protein DivIB
+FOM_10_00190	gene	1110	murG			
+FOM_10_00190	CDS	1110	murG	2.4.1.227	COG0707	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+FOM_10_00191	gene	1350	murD			
+FOM_10_00191	CDS	1350	murD	6.3.2.9		UDP-N-acetylmuramoylalanine--D-glutamate ligase
+FOM_10_00192	gene	963	mraY			
+FOM_10_00192	CDS	963	mraY	2.7.8.13	COG0472	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+FOM_10_00193	gene	2181	pbpB			
+FOM_10_00193	CDS	2181	pbpB		COG0768	Penicillin-binding protein 2B
+FOM_10_00194	gene	357	ftsL			
+FOM_10_00194	CDS	357	ftsL			Cell division protein FtsL
+FOM_10_00195	gene	942	rsmH			
+FOM_10_00195	CDS	942	rsmH	2.1.1.199		Ribosomal RNA small subunit methyltransferase H
+FOM_10_00196	gene	432	mraZ			
+FOM_10_00196	CDS	432	mraZ			Transcriptional regulator MraZ
+FOM_10_00197	gene	345				
+FOM_10_00197	CDS	345				hypothetical protein
+FOM_10_00198	gene	207				
+FOM_10_00198	CDS	207				hypothetical protein
+FOM_10_00199	gene	1698				
+FOM_10_00199	CDS	1698				putative protein
+FOM_10_00200	gene	360				
+FOM_10_00200	CDS	360				putative protein
+FOM_10_00201	gene	201	rpmB			
+FOM_10_00201	CDS	201	rpmB			50S ribosomal protein L28
+FOM_10_00202	gene	315	trxA			
+FOM_10_00202	CDS	315	trxA		COG0526	Thioredoxin
+FOM_10_00203	gene	639	thiN			
+FOM_10_00203	CDS	639	thiN	2.7.6.2	COG1564	Thiamine pyrophosphokinase
+FOM_10_00204	gene	657	rpe			
+FOM_10_00204	CDS	657	rpe	5.1.3.1		Ribulose-phosphate 3-epimerase
+FOM_10_00205	gene	906	rsgA			
+FOM_10_00205	CDS	906	rsgA	3.6.1.-	COG1162	Small ribosomal subunit biogenesis GTPase RsgA
+FOM_10_00206	gene	1893	prkC			
+FOM_10_00206	CDS	1893	prkC	2.7.11.1	COG0515	Serine/threonine-protein kinase PrkC
+FOM_10_00207	gene	747	stp			
+FOM_10_00207	CDS	747	stp	3.1.3.16	COG0631	Serine/threonine phosphatase stp
+FOM_10_00208	gene	1353	rsmB			
+FOM_10_00208	CDS	1353	rsmB	2.1.1.176	COG0144	Ribosomal RNA small subunit methyltransferase B
+FOM_10_00209	gene	972	fmt			
+FOM_10_00209	CDS	972	fmt	2.1.2.9	COG0223	Methionyl-tRNA formyltransferase
+FOM_10_00210	gene	2421	priA			
+FOM_10_00210	CDS	2421	priA	3.6.4.-		primosomal protein N'
+FOM_10_00211	gene	585	engB			
+FOM_10_00211	CDS	585	engB		COG0218	putative GTP-binding protein EngB
+FOM_10_00212	gene	1248	clpX			
+FOM_10_00212	CDS	1248	clpX			ATP-dependent Clp protease ATP-binding subunit ClpX
+FOM_10_00213	gene	1296	tig			
+FOM_10_00213	CDS	1296	tig	5.2.1.8	COG0544	Trigger factor
+FOM_10_00214	gene	1344	pucI			
+FOM_10_00214	CDS	1344	pucI		COG1953	putative allantoin permease
+FOM_10_00215	gene	777	budC			
+FOM_10_00215	CDS	777	budC	1.1.1.304		Diacetyl reductase [(S)-acetoin forming]
+FOM_10_00216	gene	1149	nadR			
+FOM_10_00216	CDS	1149	nadR		COG1056	Trifunctional NAD biosynthesis/regulator protein NadR
+FOM_10_00217	gene	1416				
+FOM_10_00217	CDS	1416		3.4.13.-		Putative dipeptidase
+FOM_10_00218	gene	162				
+FOM_10_00218	CDS	162				hypothetical protein
+FOM_10_00219	gene	834	nnrD			
+FOM_10_00219	CDS	834	nnrD	4.2.1.136	COG0063	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+FOM_10_00220	gene	825	exoA			
+FOM_10_00220	CDS	825	exoA	3.1.11.2	COG0708	Exodeoxyribonuclease
+FOM_10_00221	gene	534	polC_2			
+FOM_10_00221	CDS	534	polC_2	2.7.7.7	COG2176	DNA polymerase III PolC-type
+FOM_10_00222	gene	504				
+FOM_10_00222	CDS	504				hypothetical protein
+FOM_10_00223	gene	450	tsaE			
+FOM_10_00223	CDS	450	tsaE		COG0802	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+FOM_10_00224	gene	1350	pncB2			
+FOM_10_00224	CDS	1350	pncB2	6.3.4.21	COG1488	Nicotinate phosphoribosyltransferase pncB2
+FOM_10_00225	gene	828	nadE			
+FOM_10_00225	CDS	828	nadE	6.3.1.5	COG0171	NH(3)-dependent NAD(+) synthetase
+FOM_10_00226	gene	690				
+FOM_10_00226	CDS	690				hypothetical protein
+FOM_10_00227	gene	1263				
+FOM_10_00227	CDS	1263				hypothetical protein
+FOM_10_00228	gene	735	ecsA			
+FOM_10_00228	CDS	735	ecsA		COG1131	ABC-type transporter ATP-binding protein EcsA
+FOM_10_00229	gene	426	hit			
+FOM_10_00229	CDS	426	hit		COG0537	Protein hit
+FOM_10_00230	gene	240				
+FOM_10_00230	CDS	240				hypothetical protein
+FOM_10_00231	gene	912	prsA			
+FOM_10_00231	CDS	912	prsA	5.2.1.8		Foldase protein PrsA
+FOM_10_00232	gene	960	yhaM			
+FOM_10_00232	CDS	960	yhaM	3.1.-.-	COG3481	3'-5' exoribonuclease YhaM
+FOM_10_00233	gene	2391				
+FOM_10_00233	CDS	2391				hypothetical protein
+FOM_10_00234	gene	1167				
+FOM_10_00234	CDS	1167				hypothetical protein
+FOM_10_00235	gene	1032	pgl			
+FOM_10_00235	CDS	1032	pgl	3.1.1.31	COG2706	6-phosphogluconolactonase
+FOM_10_00236	gene	1023				
+FOM_10_00236	CDS	1023				hypothetical protein
+FOM_10_00237	gene	873	rarD			
+FOM_10_00237	CDS	873	rarD		COG2962	Protein RarD
+FOM_10_00238	gene	261				
+FOM_10_00238	CDS	261				hypothetical protein
+FOM_10_00239	gene	1269	scrB			
+FOM_10_00239	CDS	1269	scrB	3.2.1.26	COG1621	Sucrose-6-phosphate hydrolase
+FOM_10_00240	gene	1959				
+FOM_10_00240	CDS	1959				hypothetical protein
+FOM_10_00241	gene	975	ccpA_2			
+FOM_10_00241	CDS	975	ccpA_2			Catabolite control protein A
+FOM_10_00242	gene	186				
+FOM_10_00242	CDS	186		5.3.2.-		putative tautomerase
+FOM_10_00243	gene	981				
+FOM_10_00243	CDS	981				hypothetical protein
+FOM_10_00244	gene	1347	glnA			
+FOM_10_00244	CDS	1347	glnA	6.3.1.2	COG0174	Glutamine synthetase
+FOM_10_00245	gene	336	glnR			
+FOM_10_00245	CDS	336	glnR		COG0789	HTH-type transcriptional regulator GlnR
+FOM_10_00246	gene	2682	polA			
+FOM_10_00246	CDS	2682	polA	2.7.7.7		DNA polymerase I
+FOM_10_00247	gene	720	ybhL			
+FOM_10_00247	CDS	720	ybhL		COG0670	Inner membrane protein YbhL
+FOM_10_00248	gene	1335	murC			
+FOM_10_00248	CDS	1335	murC	6.3.2.8		UDP-N-acetylmuramate--L-alanine ligase
+FOM_10_00249	gene	141				
+FOM_10_00249	CDS	141				hypothetical protein
+FOM_10_00250	gene	657				
+FOM_10_00250	CDS	657				hypothetical protein
+FOM_10_00251	gene	675	mtnN			
+FOM_10_00251	CDS	675	mtnN	3.2.2.9		5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+FOM_10_00252	gene	297				
+FOM_10_00252	CDS	297				hypothetical protein
+FOM_10_00253	gene	552	nudF			
+FOM_10_00253	CDS	552	nudF	3.6.1.13	COG0494	ADP-ribose pyrophosphatase
+FOM_10_00254	gene	225	cspV			
+FOM_10_00254	CDS	225	cspV		COG1278	Cold shock protein CspV
+FOM_10_00255	gene	1536	adeP			
+FOM_10_00255	CDS	1536	adeP		COG2252	Adenine permease AdeP
+FOM_10_00256	gene	957				
+FOM_10_00256	CDS	957				hypothetical protein
+FOM_10_00257	gene	432	tarD			
+FOM_10_00257	CDS	432	tarD	2.7.7.39	COG0615	Glycerol-3-phosphate cytidylyltransferase
+FOM_10_00258	gene	945	yfdH			
+FOM_10_00258	CDS	945	yfdH	2.4.1.-	COG0463	Prophage bactoprenol glucosyl transferase 
+FOM_10_00259	gene	1191	glf			
+FOM_10_00259	CDS	1191	glf	5.4.99.9	COG0562	UDP-galactopyranose mutase
+FOM_10_00260	gene	1575				
+FOM_10_00260	CDS	1575				hypothetical protein
+FOM_10_00261	gene	783				
+FOM_10_00261	CDS	783				hypothetical protein
+FOM_10_00262	gene	636	wcaJ			
+FOM_10_00262	CDS	636	wcaJ	2.7.8.31	COG2148	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+FOM_10_00263	gene	789	map			
+FOM_10_00263	CDS	789	map	3.4.11.18	COG0024	Methionine aminopeptidase 1
+FOM_10_00264	gene	960	glcK			
+FOM_10_00264	CDS	960	glcK	2.7.1.2	COG1940	Glucokinase
+FOM_10_00265	gene	213				
+FOM_10_00265	CDS	213				hypothetical protein
+FOM_10_00266	gene	606	gluP			
+FOM_10_00266	CDS	606	gluP	3.4.21.105	COG0705	Rhomboid protease GluP
+FOM_10_00267	gene	3711	addA			
+FOM_10_00267	CDS	3711	addA	3.1.-.-	COG1074	ATP-dependent helicase/nuclease subunit A
+FOM_10_00268	gene	3516	addB			
+FOM_10_00268	CDS	3516	addB	3.1.-.-	COG3857	ATP-dependent helicase/deoxyribonuclease subunit B
+FOM_10_00269	gene	570				
+FOM_10_00269	CDS	570				hypothetical protein
+FOM_10_00270	gene	273				
+FOM_10_00270	CDS	273				hypothetical protein
+FOM_10_00271	gene	819	recX			
+FOM_10_00271	CDS	819	recX			Regulatory protein RecX
+FOM_10_00272	gene	726	dapB			
+FOM_10_00272	CDS	726	dapB	1.17.1.8	COG0289	4-hydroxy-tetrahydrodipicolinate reductase
+FOM_10_00273	gene	876	dapA			
+FOM_10_00273	CDS	876	dapA	4.3.3.7	COG0329	4-hydroxy-tetrahydrodipicolinate synthase
+FOM_10_00274	gene	1164	ykuR			
+FOM_10_00274	CDS	1164	ykuR	3.5.1.47	COG1473	N-acetyldiaminopimelate deacetylase
+FOM_10_00275	gene	705	dapH			
+FOM_10_00275	CDS	705	dapH	2.3.1.89	COG2171	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+FOM_10_00276	gene	1302	lysA			
+FOM_10_00276	CDS	1302	lysA	4.1.1.20	COG0019	Diaminopimelate decarboxylase
+FOM_10_00277	gene	336				
+FOM_10_00277	CDS	336				hypothetical protein
+FOM_10_00278	gene	210				
+FOM_10_00278	CDS	210				hypothetical protein
+FOM_10_00279	gene	1203				
+FOM_10_00279	CDS	1203				hypothetical protein
+FOM_10_00280	gene	549				
+FOM_10_00280	CDS	549				hypothetical protein
+FOM_10_00281	gene	678	dedA			
+FOM_10_00281	CDS	678	dedA		COG0586	Protein DedA
+FOM_10_00282	gene	537				
+FOM_10_00282	CDS	537				hypothetical protein
+FOM_10_00283	gene	816				
+FOM_10_00283	CDS	816				hypothetical protein
+FOM_10_00284	gene	171	rpmF			
+FOM_10_00284	CDS	171	rpmF		COG0333	50S ribosomal protein L32
+FOM_10_00285	gene	636	cutC			
+FOM_10_00285	CDS	636	cutC		COG3142	Copper homeostasis protein CutC
+FOM_10_00286	gene	1698	rqcH			
+FOM_10_00286	CDS	1698	rqcH		COG1293	Rqc2 RqcH
+FOM_10_00287	gene	1344	ribZ			
+FOM_10_00287	CDS	1344	ribZ			Riboflavin transporter RibZ
+FOM_10_00288	gene	1017	arcB			
+FOM_10_00288	CDS	1017	arcB	2.1.3.3		Ornithine carbamoyltransferase, catabolic
+FOM_10_00289	gene	1389	argH			
+FOM_10_00289	CDS	1389	argH	4.3.2.1	COG0165	Argininosuccinate lyase
+FOM_10_00290	gene	1233	argG			
+FOM_10_00290	CDS	1233	argG	6.3.4.5		Argininosuccinate synthase
+FOM_10_00291	gene	981	brpA			
+FOM_10_00291	CDS	981	brpA		COG1316	Biofilm regulatory protein A
+FOM_10_00292	gene	1365	mgtE			
+FOM_10_00292	CDS	1365	mgtE		COG2239	Magnesium transporter MgtE
+FOM_10_00293	gene	903				
+FOM_10_00293	CDS	903				hypothetical protein
+FOM_10_00294	gene	798	nadK			
+FOM_10_00294	CDS	798	nadK	2.7.1.23	COG0061	NAD kinase
+FOM_10_00295	gene	579	yjbM			
+FOM_10_00295	CDS	579	yjbM	2.7.6.5	COG2357	GTP pyrophosphokinase YjbM
+FOM_10_00296	gene	585				
+FOM_10_00296	CDS	585				hypothetical protein
+FOM_10_00297	gene	717				
+FOM_10_00297	CDS	717				hypothetical protein
+FOM_10_00298	gene	573	apt			
+FOM_10_00298	CDS	573	apt	2.4.2.7	COG0503	Adenine phosphoribosyltransferase
+FOM_10_00299	gene	1965				
+FOM_10_00299	CDS	1965				hypothetical protein
+FOM_10_00300	gene	969	rnz			
+FOM_10_00300	CDS	969	rnz	3.1.26.11	COG1234	Ribonuclease Z
+FOM_10_00301	gene	525	msrA			
+FOM_10_00301	CDS	525	msrA	1.8.4.11	COG0225	Peptide methionine sulfoxide reductase MsrA
+FOM_10_00302	gene	1065				
+FOM_10_00302	CDS	1065				hypothetical protein
+FOM_10_00303	gene	723	araD			
+FOM_10_00303	CDS	723	araD	5.1.3.4	COG0235	L-ribulose-5-phosphate 4-epimerase AraD
+FOM_10_00304	gene	1623	xylB			
+FOM_10_00304	CDS	1623	xylB	2.7.1.17		Xylulose kinase
+FOM_10_00305	gene	1383	xylT			
+FOM_10_00305	CDS	1383	xylT			D-xylose transporter
+FOM_10_00306	gene	1425	araA			
+FOM_10_00306	CDS	1425	araA	5.3.1.4		L-arabinose isomerase
+FOM_10_00307	gene	1092	araR			
+FOM_10_00307	CDS	1092	araR		COG1609	Arabinose metabolism transcriptional repressor
+FOM_10_00308	gene	1338				
+FOM_10_00308	CDS	1338				hypothetical protein
+FOM_10_00309	gene	1437	phrB			
+FOM_10_00309	CDS	1437	phrB	4.1.99.3	COG0415	Deoxyribodipyrimidine photo-lyase
+FOM_10_00310	gene	1062				
+FOM_10_00310	CDS	1062				hypothetical protein
+FOM_10_00311	gene	558				
+FOM_10_00311	CDS	558				hypothetical protein
+FOM_10_00312	gene	129				
+FOM_10_00312	CDS	129				hypothetical protein
+FOM_10_00313	gene	1695				
+FOM_10_00313	CDS	1695		4.2.1.53	COG4716	Oleate hydratase
+FOM_10_00314	gene	840	rmlD			
+FOM_10_00314	CDS	840	rmlD	1.1.1.133		dTDP-4-dehydrorhamnose reductase
+FOM_10_00315	gene	1038	rmlB			
+FOM_10_00315	CDS	1038	rmlB	4.2.1.46	COG1088	dTDP-glucose 4,6-dehydratase
+FOM_10_00316	gene	462	rfbC			
+FOM_10_00316	CDS	462	rfbC	5.1.3.-		Protein RmlC 

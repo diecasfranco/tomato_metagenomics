@@ -1,0 +1,4854 @@
+>Feature gnl|Prokka|UBT_2_1
+4	480	gene
+			gene	clpP
+			locus_tag	UBT_2_00001
+4	480	CDS
+			EC_number	3.4.21.92
+			db_xref	COG:COG0740
+			gene	clpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9ZAB0
+			locus_tag	UBT_2_00001
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gnl|Prokka|UBT_2_00001
+827	1822	gene
+			gene	ldhA
+			locus_tag	UBT_2_00002
+827	1822	CDS
+			EC_number	1.1.1.28
+			db_xref	COG:COG1052
+			gene	ldhA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P26297
+			locus_tag	UBT_2_00002
+			product	D-lactate dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00002
+1962	3104	gene
+			locus_tag	UBT_2_00003
+1962	3104	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00003
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00003
+3193	3546	gene
+			locus_tag	UBT_2_00004
+3193	3546	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00004
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00004
+>Feature gnl|Prokka|UBT_2_2
+945	160	gene
+			gene	cysQ
+			locus_tag	UBT_2_00005
+945	160	CDS
+			EC_number	3.1.3.7
+			gene	cysQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02095
+			locus_tag	UBT_2_00005
+			product	3'(2'),5'-bisphosphate nucleotidase CysQ
+			protein_id	gnl|Prokka|UBT_2_00005
+1214	942	gene
+			locus_tag	UBT_2_00006
+1214	942	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9K9K7
+			locus_tag	UBT_2_00006
+			note	UPF0223 protein BH2638
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00006
+1270	1848	gene
+			gene	def2
+			locus_tag	UBT_2_00007
+1270	1848	CDS
+			EC_number	3.5.1.88
+			db_xref	COG:COG0242
+			gene	def2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q819K2
+			locus_tag	UBT_2_00007
+			product	Peptide deformylase 2
+			protein_id	gnl|Prokka|UBT_2_00007
+2422	1853	gene
+			locus_tag	UBT_2_00008
+2422	1853	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00008
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00008
+3438	2524	gene
+			gene	dnaJ
+			locus_tag	UBT_2_00009
+3438	2524	CDS
+			db_xref	COG:COG0484
+			gene	dnaJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O87778
+			locus_tag	UBT_2_00009
+			product	Chaperone protein DnaJ
+			protein_id	gnl|Prokka|UBT_2_00009
+5378	3540	gene
+			gene	dnaK
+			locus_tag	UBT_2_00010
+5378	3540	CDS
+			db_xref	COG:COG0443
+			gene	dnaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O87777
+			locus_tag	UBT_2_00010
+			product	Chaperone protein DnaK
+			protein_id	gnl|Prokka|UBT_2_00010
+6063	5467	gene
+			gene	grpE
+			locus_tag	UBT_2_00011
+6063	5467	CDS
+			gene	grpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01151
+			locus_tag	UBT_2_00011
+			product	Protein GrpE
+			protein_id	gnl|Prokka|UBT_2_00011
+7109	6081	gene
+			gene	hrcA
+			locus_tag	UBT_2_00012
+7109	6081	CDS
+			db_xref	COG:COG1420
+			gene	hrcA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30727
+			locus_tag	UBT_2_00012
+			product	Heat-inducible transcription repressor HrcA
+			protein_id	gnl|Prokka|UBT_2_00012
+8113	7232	gene
+			gene	ribF
+			locus_tag	UBT_2_00013
+8113	7232	CDS
+			gene	ribF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59263
+			locus_tag	UBT_2_00013
+			product	Bifunctional riboflavin kinase/FMN adenylyltransferase
+			protein_id	gnl|Prokka|UBT_2_00013
+9093	8185	gene
+			gene	truB
+			locus_tag	UBT_2_00014
+9093	8185	CDS
+			EC_number	5.4.99.25
+			db_xref	COG:COG0130
+			gene	truB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97QJ3
+			locus_tag	UBT_2_00014
+			product	tRNA pseudouridine synthase B
+			protein_id	gnl|Prokka|UBT_2_00014
+9595	9080	gene
+			locus_tag	UBT_2_00015
+9595	9080	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00015
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00015
+10788	9610	gene
+			gene	dapX
+			locus_tag	UBT_2_00016
+10788	9610	CDS
+			EC_number	2.6.1.-
+			db_xref	COG:COG0436
+			gene	dapX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16524
+			locus_tag	UBT_2_00016
+			product	putative N-acetyl-LL-diaminopimelate aminotransferase
+			protein_id	gnl|Prokka|UBT_2_00016
+11238	10885	gene
+			gene	rbfA
+			locus_tag	UBT_2_00017
+11238	10885	CDS
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65967
+			locus_tag	UBT_2_00017
+			product	Ribosome-binding factor A
+			protein_id	gnl|Prokka|UBT_2_00017
+13775	11289	gene
+			gene	infB
+			locus_tag	UBT_2_00018
+13775	11289	CDS
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00100_B
+			locus_tag	UBT_2_00018
+			product	Translation initiation factor IF-2
+			protein_id	gnl|Prokka|UBT_2_00018
+>Feature gnl|Prokka|UBT_2_3
+31	636	gene
+			gene	rps1_1
+			locus_tag	UBT_2_00019
+31	636	CDS
+			db_xref	COG:COG0539
+			gene	rps1_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50889
+			locus_tag	UBT_2_00019
+			product	30S ribosomal protein S1
+			protein_id	gnl|Prokka|UBT_2_00019
+820	2130	gene
+			gene	der_1
+			locus_tag	UBT_2_00020
+820	2130	CDS
+			db_xref	COG:COG1160
+			gene	der_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50743
+			locus_tag	UBT_2_00020
+			product	GTPase Der
+			protein_id	gnl|Prokka|UBT_2_00020
+2408	2683	gene
+			gene	hup
+			locus_tag	UBT_2_00021
+2408	2683	CDS
+			db_xref	COG:COG0776
+			gene	hup
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9XB21
+			locus_tag	UBT_2_00021
+			product	DNA-binding protein HU
+			protein_id	gnl|Prokka|UBT_2_00021
+2822	3616	gene
+			gene	pdxK
+			locus_tag	UBT_2_00022
+2822	3616	CDS
+			EC_number	2.7.1.35
+			db_xref	COG:COG0351
+			gene	pdxK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39610
+			locus_tag	UBT_2_00022
+			product	Pyridoxine kinase
+			protein_id	gnl|Prokka|UBT_2_00022
+3618	4127	gene
+			gene	hmpT
+			locus_tag	UBT_2_00023
+3618	4127	CDS
+			db_xref	COG:COG4720
+			gene	hmpT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RIH3
+			locus_tag	UBT_2_00023
+			product	Thiamine precursor transporter HmpT
+			protein_id	gnl|Prokka|UBT_2_00023
+4230	5417	gene
+			gene	yycB_1
+			locus_tag	UBT_2_00024
+4230	5417	CDS
+			db_xref	COG:COG2807
+			gene	yycB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37482
+			locus_tag	UBT_2_00024
+			product	putative transporter YycB
+			protein_id	gnl|Prokka|UBT_2_00024
+5502	6434	gene
+			locus_tag	UBT_2_00025
+5502	6434	CDS
+			EC_number	1.1.1.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14295
+			locus_tag	UBT_2_00025
+			product	L-2-hydroxyisocaproate dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00025
+6504	7673	gene
+			gene	sbcD
+			locus_tag	UBT_2_00026
+6504	7673	CDS
+			gene	sbcD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A6QGP7
+			locus_tag	UBT_2_00026
+			product	Nuclease SbcCD subunit D
+			protein_id	gnl|Prokka|UBT_2_00026
+7675	10860	gene
+			gene	sbcC
+			locus_tag	UBT_2_00027
+7675	10860	CDS
+			gene	sbcC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A5S6
+			locus_tag	UBT_2_00027
+			product	Nuclease SbcCD subunit C
+			protein_id	gnl|Prokka|UBT_2_00027
+10975	11505	gene
+			locus_tag	UBT_2_00028
+10975	11505	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00028
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00028
+11546	11689	gene
+			locus_tag	UBT_2_00029
+11546	11689	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00029
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00029
+12210	11740	gene
+			locus_tag	UBT_2_00030
+12210	11740	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00030
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00030
+12342	12728	gene
+			locus_tag	UBT_2_00031
+12342	12728	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00031
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00031
+12744	13379	gene
+			locus_tag	UBT_2_00032
+12744	13379	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00032
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00032
+13483	15186	gene
+			locus_tag	UBT_2_00033
+13483	15186	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00033
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00033
+15238	15387	gene
+			locus_tag	UBT_2_00034
+15238	15387	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00034
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00034
+15480	16763	gene
+			gene	bepA
+			locus_tag	UBT_2_00035
+15480	16763	CDS
+			EC_number	3.4.-.-
+			gene	bepA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	UBT_2_00035
+			product	Beta-barrel assembly-enhancing protease
+			protein_id	gnl|Prokka|UBT_2_00035
+16926	17276	gene
+			locus_tag	UBT_2_00036
+16926	17276	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00036
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00036
+17413	18180	gene
+			locus_tag	UBT_2_00037
+17413	18180	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00037
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00037
+18199	19041	gene
+			locus_tag	UBT_2_00038
+18199	19041	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00038
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00038
+19119	20351	gene
+			locus_tag	UBT_2_00039
+19119	20351	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00039
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00039
+20341	21120	gene
+			locus_tag	UBT_2_00040
+20341	21120	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00040
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00040
+21451	23403	gene
+			locus_tag	UBT_2_00041
+21451	23403	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00041
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00041
+23573	23989	gene
+			locus_tag	UBT_2_00042
+23573	23989	CDS
+			db_xref	COG:COG0071
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03928
+			locus_tag	UBT_2_00042
+			product	18 kDa heat shock protein
+			protein_id	gnl|Prokka|UBT_2_00042
+24081	24773	gene
+			gene	trmK
+			locus_tag	UBT_2_00043
+24081	24773	CDS
+			EC_number	2.1.1.217
+			db_xref	COG:COG2384
+			gene	trmK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54471
+			locus_tag	UBT_2_00043
+			product	tRNA (adenine(22)-N(1))-methyltransferase
+			protein_id	gnl|Prokka|UBT_2_00043
+24770	25567	gene
+			locus_tag	UBT_2_00044
+24770	25567	CDS
+			db_xref	COG:COG0327
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97PK0
+			locus_tag	UBT_2_00044
+			product	GTP cyclohydrolase 1 type 2 
+			protein_id	gnl|Prokka|UBT_2_00044
+25587	26822	gene
+			gene	pepT
+			locus_tag	UBT_2_00045
+25587	26822	CDS
+			EC_number	3.4.11.4
+			gene	pepT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q84BV2
+			locus_tag	UBT_2_00045
+			product	Peptidase T
+			protein_id	gnl|Prokka|UBT_2_00045
+26960	28153	gene
+			gene	ackA
+			locus_tag	UBT_2_00046
+26960	28153	CDS
+			EC_number	2.7.2.1
+			db_xref	COG:COG0282
+			gene	ackA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37877
+			locus_tag	UBT_2_00046
+			product	Acetate kinase
+			protein_id	gnl|Prokka|UBT_2_00046
+28211	28390	gene
+			locus_tag	UBT_2_00047
+28211	28390	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00047
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00047
+28543	31980	gene
+			gene	pycA
+			locus_tag	UBT_2_00048
+28543	31980	CDS
+			EC_number	6.4.1.1
+			gene	pycA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H3JRU9
+			locus_tag	UBT_2_00048
+			product	Pyruvate carboxylase
+			protein_id	gnl|Prokka|UBT_2_00048
+32068	32391	gene
+			locus_tag	UBT_2_00049
+32068	32391	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00049
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00049
+32471	33103	gene
+			locus_tag	UBT_2_00050
+32471	33103	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00050
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00050
+33204	33569	gene
+			locus_tag	UBT_2_00051
+33204	33569	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00051
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00051
+33705	34307	gene
+			locus_tag	UBT_2_00052
+33705	34307	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00052
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00052
+34396	35076	gene
+			gene	ywaC
+			locus_tag	UBT_2_00053
+34396	35076	CDS
+			EC_number	2.7.6.5
+			db_xref	COG:COG2357
+			gene	ywaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39583
+			locus_tag	UBT_2_00053
+			product	GTP pyrophosphokinase YwaC
+			protein_id	gnl|Prokka|UBT_2_00053
+35523	36860	gene
+			gene	dapE
+			locus_tag	UBT_2_00054
+35523	36860	CDS
+			EC_number	3.5.1.18
+			gene	dapE
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01690
+			locus_tag	UBT_2_00054
+			product	Succinyl-diaminopimelate desuccinylase
+			protein_id	gnl|Prokka|UBT_2_00054
+36872	37711	gene
+			gene	metQ
+			locus_tag	UBT_2_00055
+36872	37711	CDS
+			db_xref	COG:COG1464
+			gene	metQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28635
+			locus_tag	UBT_2_00055
+			product	D-methionine-binding lipoprotein MetQ
+			protein_id	gnl|Prokka|UBT_2_00055
+>Feature gnl|Prokka|UBT_2_4
+45	965	gene
+			gene	rps1_2
+			locus_tag	UBT_2_00056
+45	965	CDS
+			db_xref	COG:COG0539
+			gene	rps1_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50889
+			locus_tag	UBT_2_00056
+			product	30S ribosomal protein S1
+			protein_id	gnl|Prokka|UBT_2_00056
+1068	2381	gene
+			gene	der_2
+			locus_tag	UBT_2_00057
+1068	2381	CDS
+			db_xref	COG:COG1160
+			gene	der_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P50743
+			locus_tag	UBT_2_00057
+			product	GTPase Der
+			protein_id	gnl|Prokka|UBT_2_00057
+>Feature gnl|Prokka|UBT_2_5
+1237	929	gene
+			locus_tag	UBT_2_00058
+1237	929	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00058
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00058
+1962	1342	gene
+			gene	argO
+			locus_tag	UBT_2_00059
+1962	1342	CDS
+			db_xref	COG:COG1279
+			gene	argO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11667
+			locus_tag	UBT_2_00059
+			product	Arginine exporter protein ArgO
+			protein_id	gnl|Prokka|UBT_2_00059
+2113	2766	gene
+			locus_tag	UBT_2_00060
+2113	2766	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67153
+			locus_tag	UBT_2_00060
+			note	UPF0073 inner membrane protein YqfA
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00060
+3488	2811	gene
+			locus_tag	UBT_2_00061
+3488	2811	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00061
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00061
+3585	3658	gene
+			locus_tag	UBT_2_00062
+3585	3658	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00062
+			product	tRNA-Lys(ttt)
+4497	3721	gene
+			locus_tag	UBT_2_00063
+4497	3721	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00063
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00063
+5086	4631	gene
+			locus_tag	UBT_2_00064
+5086	4631	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A551
+			locus_tag	UBT_2_00064
+			product	Putative universal stress protein
+			protein_id	gnl|Prokka|UBT_2_00064
+5498	5220	gene
+			locus_tag	UBT_2_00065
+5498	5220	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00065
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00065
+7087	5804	gene
+			locus_tag	UBT_2_00066
+7087	5804	CDS
+			db_xref	COG:COG2256
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQN1
+			locus_tag	UBT_2_00066
+			product	putative AAA domain-containing protein
+			protein_id	gnl|Prokka|UBT_2_00066
+7552	7109	gene
+			locus_tag	UBT_2_00067
+7552	7109	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00067
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00067
+7860	7651	gene
+			locus_tag	UBT_2_00068
+7860	7651	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00068
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00068
+9428	7857	gene
+			gene	prfC
+			locus_tag	UBT_2_00069
+9428	7857	CDS
+			gene	prfC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99V72
+			locus_tag	UBT_2_00069
+			product	Peptide chain release factor 3
+			protein_id	gnl|Prokka|UBT_2_00069
+10293	9553	gene
+			locus_tag	UBT_2_00070
+10293	9553	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00070
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00070
+10935	10384	gene
+			locus_tag	UBT_2_00071
+10935	10384	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97NV6
+			locus_tag	UBT_2_00071
+			note	UPF0374 protein SP_1903
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00071
+11891	11088	gene
+			gene	recX
+			locus_tag	UBT_2_00072
+11891	11088	CDS
+			gene	recX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66003
+			locus_tag	UBT_2_00072
+			product	Regulatory protein RecX
+			protein_id	gnl|Prokka|UBT_2_00072
+12686	12012	gene
+			gene	phoU
+			locus_tag	UBT_2_00073
+12686	12012	CDS
+			db_xref	COG:COG0704
+			gene	phoU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A3Y7
+			locus_tag	UBT_2_00073
+			product	Phosphate-specific transport system accessory protein PhoU 
+			protein_id	gnl|Prokka|UBT_2_00073
+13496	12738	gene
+			gene	pstB3_1
+			locus_tag	UBT_2_00074
+13496	12738	CDS
+			EC_number	7.3.2.1
+			db_xref	COG:COG1117
+			gene	pstB3_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2V9
+			locus_tag	UBT_2_00074
+			product	Phosphate import ATP-binding protein PstB 3
+			protein_id	gnl|Prokka|UBT_2_00074
+14336	13512	gene
+			gene	pstB3_2
+			locus_tag	UBT_2_00075
+14336	13512	CDS
+			EC_number	7.3.2.1
+			db_xref	COG:COG1117
+			gene	pstB3_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A2V9
+			locus_tag	UBT_2_00075
+			product	Phosphate import ATP-binding protein PstB 3
+			protein_id	gnl|Prokka|UBT_2_00075
+15243	14353	gene
+			locus_tag	UBT_2_00076
+15243	14353	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00076
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00076
+16162	15245	gene
+			gene	pstC1
+			locus_tag	UBT_2_00077
+16162	15245	CDS
+			db_xref	COG:COG0573
+			gene	pstC1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WG07
+			locus_tag	UBT_2_00077
+			product	Phosphate transport system permease protein PstC 1
+			protein_id	gnl|Prokka|UBT_2_00077
+17048	16176	gene
+			gene	pstS1
+			locus_tag	UBT_2_00078
+17048	16176	CDS
+			db_xref	COG:COG0226
+			gene	pstS1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DPB1
+			locus_tag	UBT_2_00078
+			product	Phosphate-binding protein PstS 1
+			protein_id	gnl|Prokka|UBT_2_00078
+18390	17188	gene
+			locus_tag	UBT_2_00079
+18390	17188	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00079
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00079
+19097	18387	gene
+			gene	nagR_1
+			locus_tag	UBT_2_00080
+19097	18387	CDS
+			db_xref	COG:COG2188
+			gene	nagR_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34817
+			locus_tag	UBT_2_00080
+			product	HTH-type transcriptional repressor NagR
+			protein_id	gnl|Prokka|UBT_2_00080
+20109	19189	gene
+			gene	rihA
+			locus_tag	UBT_2_00081
+20109	19189	CDS
+			EC_number	3.2.-.-
+			db_xref	COG:COG1957
+			gene	rihA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41409
+			locus_tag	UBT_2_00081
+			product	Pyrimidine-specific ribonucleoside hydrolase RihA
+			protein_id	gnl|Prokka|UBT_2_00081
+21177	20125	gene
+			gene	yhhX
+			locus_tag	UBT_2_00082
+21177	20125	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG0673
+			gene	yhhX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46853
+			locus_tag	UBT_2_00082
+			product	putative oxidoreductase YhhX
+			protein_id	gnl|Prokka|UBT_2_00082
+22990	21365	gene
+			gene	ygiS
+			locus_tag	UBT_2_00083
+22990	21365	CDS
+			db_xref	COG:COG4166
+			gene	ygiS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q46863
+			locus_tag	UBT_2_00083
+			product	putative deoxycholate-binding periplasmic protein YgiS
+			protein_id	gnl|Prokka|UBT_2_00083
+23061	23210	gene
+			locus_tag	UBT_2_00084
+23061	23210	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00084
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00084
+23983	23216	gene
+			gene	yutF
+			locus_tag	UBT_2_00085
+23983	23216	CDS
+			EC_number	3.1.3.-
+			db_xref	COG:COG0647
+			gene	yutF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32125
+			locus_tag	UBT_2_00085
+			product	Acid sugar phosphatase
+			protein_id	gnl|Prokka|UBT_2_00085
+24637	23996	gene
+			locus_tag	UBT_2_00086
+24637	23996	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00086
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00086
+26047	24656	gene
+			gene	mggB
+			locus_tag	UBT_2_00087
+26047	24656	CDS
+			EC_number	3.1.3.-
+			db_xref	COG:COG0737
+			gene	mggB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A9BJC1
+			locus_tag	UBT_2_00087
+			product	Mannosylglucosyl-3-phosphoglycerate phosphatase
+			protein_id	gnl|Prokka|UBT_2_00087
+26673	26053	gene
+			locus_tag	UBT_2_00088
+26673	26053	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00088
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00088
+27139	26690	gene
+			locus_tag	UBT_2_00089
+27139	26690	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00089
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00089
+28226	27141	gene
+			gene	ypdF
+			locus_tag	UBT_2_00090
+28226	27141	CDS
+			EC_number	3.4.11.-
+			db_xref	COG:COG0006
+			gene	ypdF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P76524
+			locus_tag	UBT_2_00090
+			product	Aminopeptidase YpdF
+			protein_id	gnl|Prokka|UBT_2_00090
+29467	28349	gene
+			gene	menC
+			locus_tag	UBT_2_00091
+29467	28349	CDS
+			EC_number	4.2.1.113
+			db_xref	COG:COG4948
+			gene	menC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34514
+			locus_tag	UBT_2_00091
+			product	o-succinylbenzoate synthase
+			protein_id	gnl|Prokka|UBT_2_00091
+30257	29448	gene
+			gene	menH
+			locus_tag	UBT_2_00092
+30257	29448	CDS
+			EC_number	4.2.99.20
+			db_xref	COG:COG0596
+			gene	menH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37355
+			locus_tag	UBT_2_00092
+			product	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+			protein_id	gnl|Prokka|UBT_2_00092
+31926	30250	gene
+			gene	menD
+			locus_tag	UBT_2_00093
+31926	30250	CDS
+			EC_number	2.2.1.9
+			gene	menD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q71YZ2
+			locus_tag	UBT_2_00093
+			product	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+			protein_id	gnl|Prokka|UBT_2_00093
+33080	31923	gene
+			gene	menF
+			locus_tag	UBT_2_00094
+33080	31923	CDS
+			EC_number	5.4.4.2
+			gene	menF
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01935
+			locus_tag	UBT_2_00094
+			product	Isochorismate synthase MenF
+			protein_id	gnl|Prokka|UBT_2_00094
+35173	33380	gene
+			locus_tag	UBT_2_00095
+35173	33380	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99T13
+			locus_tag	UBT_2_00095
+			product	Putative multidrug export ATP-binding/permease protein
+			protein_id	gnl|Prokka|UBT_2_00095
+36260	35292	gene
+			locus_tag	UBT_2_00096
+36260	35292	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00096
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00096
+37163	36267	gene
+			locus_tag	UBT_2_00097
+37163	36267	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00097
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00097
+38184	37300	gene
+			locus_tag	UBT_2_00098
+38184	37300	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00098
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00098
+39478	38198	gene
+			locus_tag	UBT_2_00099
+39478	38198	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00099
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00099
+>Feature gnl|Prokka|UBT_2_6
+137	517	gene
+			locus_tag	UBT_2_00100
+137	517	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00100
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00100
+530	964	gene
+			locus_tag	UBT_2_00101
+530	964	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00101
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00101
+1862	1011	gene
+			gene	uppP
+			locus_tag	UBT_2_00102
+1862	1011	CDS
+			EC_number	3.6.1.27
+			gene	uppP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5WNX2
+			locus_tag	UBT_2_00102
+			product	Undecaprenyl-diphosphatase
+			protein_id	gnl|Prokka|UBT_2_00102
+2831	1950	gene
+			locus_tag	UBT_2_00103
+2831	1950	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00103
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00103
+3462	2824	gene
+			locus_tag	UBT_2_00104
+3462	2824	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00104
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00104
+3778	3452	gene
+			locus_tag	UBT_2_00105
+3778	3452	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00105
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00105
+3903	4163	gene
+			locus_tag	UBT_2_00106
+3903	4163	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00106
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00106
+5461	4220	gene
+			gene	nupG
+			locus_tag	UBT_2_00107
+5461	4220	CDS
+			db_xref	COG:COG1972
+			gene	nupG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42312
+			locus_tag	UBT_2_00107
+			product	Purine nucleoside transport protein NupG
+			protein_id	gnl|Prokka|UBT_2_00107
+6921	5635	gene
+			gene	tagU
+			locus_tag	UBT_2_00108
+6921	5635	CDS
+			EC_number	2.7.8.-
+			gene	tagU
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01140
+			locus_tag	UBT_2_00108
+			product	Polyisoprenyl-teichoic acid--peptidoglycan teichoic acid transferase TagU
+			protein_id	gnl|Prokka|UBT_2_00108
+8081	7125	gene
+			gene	thyA
+			locus_tag	UBT_2_00109
+8081	7125	CDS
+			EC_number	2.1.1.45
+			db_xref	COG:COG0207
+			gene	thyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q834R3
+			locus_tag	UBT_2_00109
+			product	Thymidylate synthase
+			protein_id	gnl|Prokka|UBT_2_00109
+8579	8094	gene
+			gene	tadA
+			locus_tag	UBT_2_00110
+8579	8094	CDS
+			EC_number	3.5.4.33
+			gene	tadA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00972
+			locus_tag	UBT_2_00110
+			product	tRNA-specific adenosine deaminase
+			protein_id	gnl|Prokka|UBT_2_00110
+9001	9234	gene
+			gene	veg
+			locus_tag	UBT_2_00111
+9001	9234	CDS
+			db_xref	COG:COG4466
+			gene	veg
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37466
+			locus_tag	UBT_2_00111
+			product	Protein Veg
+			protein_id	gnl|Prokka|UBT_2_00111
+10644	9277	gene
+			locus_tag	UBT_2_00112
+10644	9277	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WFP3
+			locus_tag	UBT_2_00112
+			note	UPF0053 protein Rv1842c
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00112
+12096	10735	gene
+			locus_tag	UBT_2_00113
+12096	10735	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WFP3
+			locus_tag	UBT_2_00113
+			note	UPF0053 protein Rv1842c
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00113
+13049	12153	gene
+			gene	rsmA
+			locus_tag	UBT_2_00114
+13049	12153	CDS
+			EC_number	2.1.1.182
+			db_xref	COG:COG0030
+			gene	rsmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37468
+			locus_tag	UBT_2_00114
+			product	Ribosomal RNA small subunit methyltransferase A
+			protein_id	gnl|Prokka|UBT_2_00114
+13607	13050	gene
+			gene	rnmV
+			locus_tag	UBT_2_00115
+13607	13050	CDS
+			EC_number	3.1.26.8
+			db_xref	COG:COG1658
+			gene	rnmV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37547
+			locus_tag	UBT_2_00115
+			product	Ribonuclease M5
+			protein_id	gnl|Prokka|UBT_2_00115
+14413	13607	gene
+			gene	ycfH
+			locus_tag	UBT_2_00116
+14413	13607	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0084
+			gene	ycfH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFQ7
+			locus_tag	UBT_2_00116
+			product	putative metal-dependent hydrolase YcfH
+			protein_id	gnl|Prokka|UBT_2_00116
+16680	14527	gene
+			locus_tag	UBT_2_00117
+16680	14527	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00117
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00117
+18762	16768	gene
+			gene	metG
+			locus_tag	UBT_2_00118
+18762	16768	CDS
+			EC_number	6.1.1.10
+			gene	metG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67579
+			locus_tag	UBT_2_00118
+			product	Methionine--tRNA ligase
+			protein_id	gnl|Prokka|UBT_2_00118
+19053	18945	gene
+			locus_tag	UBT_2_00119
+19053	18945	rRNA
+			locus_tag	UBT_2_00119
+			product	5S ribosomal RNA
+			score	4.4e-12
+>Feature gnl|Prokka|UBT_2_7
+921	199	gene
+			gene	atpB
+			locus_tag	UBT_2_00120
+921	199	CDS
+			gene	atpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P09218
+			locus_tag	UBT_2_00120
+			product	ATP synthase subunit a
+			protein_id	gnl|Prokka|UBT_2_00120
+2543	1266	gene
+			gene	pyrP
+			locus_tag	UBT_2_00121
+2543	1266	CDS
+			gene	pyrP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39766
+			locus_tag	UBT_2_00121
+			product	Uracil permease
+			protein_id	gnl|Prokka|UBT_2_00121
+3411	2767	gene
+			gene	yhfK
+			locus_tag	UBT_2_00122
+3411	2767	CDS
+			EC_number	4.-.-.-
+			db_xref	COG:COG0702
+			gene	yhfK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07609
+			locus_tag	UBT_2_00122
+			product	putative sugar epimerase YhfK
+			protein_id	gnl|Prokka|UBT_2_00122
+4146	3517	gene
+			gene	upp
+			locus_tag	UBT_2_00123
+4146	3517	CDS
+			EC_number	2.4.2.9
+			gene	upp
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P70881
+			locus_tag	UBT_2_00123
+			product	Uracil phosphoribosyltransferase
+			protein_id	gnl|Prokka|UBT_2_00123
+5440	4190	gene
+			gene	glyA
+			locus_tag	UBT_2_00124
+5440	4190	CDS
+			EC_number	2.1.2.1
+			gene	glyA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5M0B4
+			locus_tag	UBT_2_00124
+			product	Serine hydroxymethyltransferase
+			protein_id	gnl|Prokka|UBT_2_00124
+6517	5489	gene
+			gene	ywlC
+			locus_tag	UBT_2_00125
+6517	5489	CDS
+			EC_number	2.7.7.87
+			db_xref	COG:COG0009
+			gene	ywlC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39153
+			locus_tag	UBT_2_00125
+			product	Threonylcarbamoyl-AMP synthase
+			protein_id	gnl|Prokka|UBT_2_00125
+7382	6519	gene
+			gene	prmC
+			locus_tag	UBT_2_00126
+7382	6519	CDS
+			EC_number	2.1.1.297
+			gene	prmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02126
+			locus_tag	UBT_2_00126
+			product	Release factor glutamine methyltransferase
+			protein_id	gnl|Prokka|UBT_2_00126
+8474	7389	gene
+			gene	prfA
+			locus_tag	UBT_2_00127
+8474	7389	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DU64
+			locus_tag	UBT_2_00127
+			product	Peptide chain release factor 1
+			protein_id	gnl|Prokka|UBT_2_00127
+9105	8506	gene
+			gene	tdk
+			locus_tag	UBT_2_00128
+9105	8506	CDS
+			EC_number	2.7.1.21
+			db_xref	COG:COG1435
+			gene	tdk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q81JX0
+			locus_tag	UBT_2_00128
+			product	Thymidine kinase
+			protein_id	gnl|Prokka|UBT_2_00128
+10334	9225	gene
+			locus_tag	UBT_2_00129
+10334	9225	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00129
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00129
+10539	10408	gene
+			locus_tag	UBT_2_00130
+10539	10408	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00130
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00130
+11718	10687	gene
+			locus_tag	UBT_2_00131
+11718	10687	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00131
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00131
+11939	11718	gene
+			locus_tag	UBT_2_00132
+11939	11718	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00132
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00132
+12992	12282	gene
+			gene	gatD
+			locus_tag	UBT_2_00133
+12992	12282	CDS
+			EC_number	6.3.5.13
+			db_xref	COG:COG3442
+			gene	gatD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DNZ8
+			locus_tag	UBT_2_00133
+			product	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit GatD
+			protein_id	gnl|Prokka|UBT_2_00133
+14350	12998	gene
+			gene	murT
+			locus_tag	UBT_2_00134
+14350	12998	CDS
+			EC_number	6.3.5.13
+			db_xref	COG:COG0769
+			gene	murT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DNZ9
+			locus_tag	UBT_2_00134
+			product	Lipid II isoglutaminyl synthase (glutamine-hydrolyzing) subunit MurT
+			protein_id	gnl|Prokka|UBT_2_00134
+15579	14545	gene
+			locus_tag	UBT_2_00135
+15579	14545	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00135
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00135
+15762	15586	gene
+			locus_tag	UBT_2_00136
+15762	15586	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00136
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00136
+16865	15900	gene
+			gene	manA
+			locus_tag	UBT_2_00137
+16865	15900	CDS
+			EC_number	5.3.1.8
+			db_xref	COG:COG1482
+			gene	manA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31646
+			locus_tag	UBT_2_00137
+			product	Mannose-6-phosphate isomerase ManA
+			protein_id	gnl|Prokka|UBT_2_00137
+17625	16903	gene
+			locus_tag	UBT_2_00138
+17625	16903	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00138
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00138
+17827	17898	gene
+			locus_tag	UBT_2_00139
+17827	17898	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00139
+			product	tRNA-Asn(gtt)
+21066	18001	gene
+			locus_tag	UBT_2_00140
+21066	18001	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00140
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00140
+23715	21262	gene
+			locus_tag	UBT_2_00141
+23715	21262	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00141
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00141
+24842	23700	gene
+			locus_tag	UBT_2_00142
+24842	23700	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00142
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00142
+26971	25187	gene
+			locus_tag	UBT_2_00143
+26971	25187	CDS
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WYC4
+			locus_tag	UBT_2_00143
+			product	putative ABC transporter ATP-binding protein
+			protein_id	gnl|Prokka|UBT_2_00143
+28687	26975	gene
+			locus_tag	UBT_2_00144
+28687	26975	CDS
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQJ1
+			locus_tag	UBT_2_00144
+			product	putative ABC transporter ATP-binding protein
+			protein_id	gnl|Prokka|UBT_2_00144
+29876	28827	gene
+			locus_tag	UBT_2_00145
+29876	28827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00145
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00145
+31171	29888	gene
+			gene	hflX
+			locus_tag	UBT_2_00146
+31171	29888	CDS
+			db_xref	COG:COG2262
+			gene	hflX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25519
+			locus_tag	UBT_2_00146
+			product	GTPase HflX
+			protein_id	gnl|Prokka|UBT_2_00146
+31855	31184	gene
+			gene	gpmA_1
+			locus_tag	UBT_2_00147
+31855	31184	CDS
+			EC_number	5.4.2.11
+			db_xref	COG:COG0588
+			gene	gpmA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P62707
+			locus_tag	UBT_2_00147
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+			protein_id	gnl|Prokka|UBT_2_00147
+32061	32134	gene
+			locus_tag	UBT_2_00148
+32061	32134	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00148
+			product	tRNA-Glu(ctc)
+32164	32238	gene
+			locus_tag	UBT_2_00149
+32164	32238	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00149
+			product	tRNA-Glu(ctc)
+33074	32340	gene
+			locus_tag	UBT_2_00150
+33074	32340	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00150
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00150
+33810	33064	gene
+			gene	natA
+			locus_tag	UBT_2_00151
+33810	33064	CDS
+			EC_number	7.2.2.4
+			db_xref	COG:COG4555
+			gene	natA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46903
+			locus_tag	UBT_2_00151
+			product	ABC transporter ATP-binding protein NatA
+			protein_id	gnl|Prokka|UBT_2_00151
+33964	34794	gene
+			gene	exoA
+			locus_tag	UBT_2_00152
+33964	34794	CDS
+			EC_number	3.1.11.2
+			db_xref	COG:COG0708
+			gene	exoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37454
+			locus_tag	UBT_2_00152
+			product	Exodeoxyribonuclease
+			protein_id	gnl|Prokka|UBT_2_00152
+36043	34838	gene
+			locus_tag	UBT_2_00153
+36043	34838	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00153
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00153
+36308	36159	gene
+			locus_tag	UBT_2_00154
+36308	36159	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00154
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00154
+39194	36498	gene
+			gene	adhE
+			locus_tag	UBT_2_00155
+39194	36498	CDS
+			db_xref	COG:COG1012
+			gene	adhE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q7
+			locus_tag	UBT_2_00155
+			product	Aldehyde-alcohol dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00155
+40147	39722	gene
+			locus_tag	UBT_2_00156
+40147	39722	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00156
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00156
+42140	40248	gene
+			gene	pepO
+			locus_tag	UBT_2_00157
+42140	40248	CDS
+			EC_number	3.4.24.-
+			db_xref	COG:COG3590
+			gene	pepO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q07744
+			locus_tag	UBT_2_00157
+			product	Neutral endopeptidase
+			protein_id	gnl|Prokka|UBT_2_00157
+43191	42295	gene
+			locus_tag	UBT_2_00158
+43191	42295	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00158
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00158
+45828	43261	gene
+			locus_tag	UBT_2_00159
+45828	43261	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00159
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00159
+49191	46183	gene
+			locus_tag	UBT_2_00160
+49191	46183	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00160
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00160
+49579	49391	gene
+			locus_tag	UBT_2_00161
+49579	49391	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00161
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00161
+51184	49613	gene
+			locus_tag	UBT_2_00162
+51184	49613	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00162
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00162
+52128	51181	gene
+			locus_tag	UBT_2_00163
+52128	51181	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00163
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00163
+52338	52153	gene
+			locus_tag	UBT_2_00164
+52338	52153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00164
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00164
+53244	52528	gene
+			locus_tag	UBT_2_00165
+53244	52528	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00165
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00165
+53596	53291	gene
+			locus_tag	UBT_2_00166
+53596	53291	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00166
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00166
+54765	53707	gene
+			gene	yxaB
+			locus_tag	UBT_2_00167
+54765	53707	CDS
+			EC_number	2.-.-.-
+			db_xref	COG:COG5039
+			gene	yxaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42101
+			locus_tag	UBT_2_00167
+			product	General stress protein 30
+			protein_id	gnl|Prokka|UBT_2_00167
+>Feature gnl|Prokka|UBT_2_8
+841	290	gene
+			locus_tag	UBT_2_00168
+841	290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00168
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00168
+1066	860	gene
+			locus_tag	UBT_2_00169
+1066	860	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00169
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00169
+1597	1460	gene
+			locus_tag	UBT_2_00170
+1597	1460	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00170
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00170
+3068	1602	gene
+			gene	ffh
+			locus_tag	UBT_2_00171
+3068	1602	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37105
+			locus_tag	UBT_2_00171
+			product	Signal recognition particle protein
+			protein_id	gnl|Prokka|UBT_2_00171
+3413	3072	gene
+			locus_tag	UBT_2_00172
+3413	3072	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97QD1
+			locus_tag	UBT_2_00172
+			note	UPF0122 protein SP_1288
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00172
+4615	3413	gene
+			gene	ftsY
+			locus_tag	UBT_2_00173
+4615	3413	CDS
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00920
+			locus_tag	UBT_2_00173
+			product	Signal recognition particle receptor FtsY
+			protein_id	gnl|Prokka|UBT_2_00173
+8186	4629	gene
+			gene	smc_1
+			locus_tag	UBT_2_00174
+8186	4629	CDS
+			db_xref	COG:COG1196
+			gene	smc_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P51834
+			locus_tag	UBT_2_00174
+			product	Chromosome partition protein Smc
+			protein_id	gnl|Prokka|UBT_2_00174
+8894	8196	gene
+			gene	rnc
+			locus_tag	UBT_2_00175
+8894	8196	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66670
+			locus_tag	UBT_2_00175
+			product	Ribonuclease 3
+			protein_id	gnl|Prokka|UBT_2_00175
+9310	9071	gene
+			gene	acpP
+			locus_tag	UBT_2_00176
+9310	9071	CDS
+			db_xref	COG:COG0236
+			gene	acpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SL79
+			locus_tag	UBT_2_00176
+			product	Acyl carrier protein
+			protein_id	gnl|Prokka|UBT_2_00176
+10413	9355	gene
+			gene	plsX
+			locus_tag	UBT_2_00177
+10413	9355	CDS
+			EC_number	2.3.1.274
+			db_xref	COG:COG0416
+			gene	plsX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q82ZE8
+			locus_tag	UBT_2_00177
+			product	Phosphate acyltransferase
+			protein_id	gnl|Prokka|UBT_2_00177
+12549	10513	gene
+			gene	recG
+			locus_tag	UBT_2_00178
+12549	10513	CDS
+			EC_number	3.6.4.12
+			gene	recG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64325
+			locus_tag	UBT_2_00178
+			product	ATP-dependent DNA helicase RecG
+			protein_id	gnl|Prokka|UBT_2_00178
+>Feature gnl|Prokka|UBT_2_9
+128	2209	gene
+			gene	glyS
+			locus_tag	UBT_2_00179
+128	2209	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0751
+			gene	glyS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P00961
+			locus_tag	UBT_2_00179
+			product	Glycine--tRNA ligase beta subunit
+			protein_id	gnl|Prokka|UBT_2_00179
+2335	3039	gene
+			locus_tag	UBT_2_00180
+2335	3039	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00180
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00180
+3170	4129	gene
+			gene	alx
+			locus_tag	UBT_2_00181
+3170	4129	CDS
+			db_xref	COG:COG0861
+			gene	alx
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42601
+			locus_tag	UBT_2_00181
+			product	Putative membrane-bound redox modulator Alx
+			protein_id	gnl|Prokka|UBT_2_00181
+4228	4614	gene
+			gene	yabJ
+			locus_tag	UBT_2_00182
+4228	4614	CDS
+			EC_number	3.5.99.10
+			db_xref	COG:COG0251
+			gene	yabJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37552
+			locus_tag	UBT_2_00182
+			product	2-iminobutanoate/2-iminopropanoate deaminase
+			protein_id	gnl|Prokka|UBT_2_00182
+4711	5736	gene
+			gene	pgl
+			locus_tag	UBT_2_00183
+4711	5736	CDS
+			EC_number	3.1.1.31
+			db_xref	COG:COG2706
+			gene	pgl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34499
+			locus_tag	UBT_2_00183
+			product	6-phosphogluconolactonase
+			protein_id	gnl|Prokka|UBT_2_00183
+5801	6946	gene
+			locus_tag	UBT_2_00184
+5801	6946	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00184
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00184
+7065	7580	gene
+			gene	trmL
+			locus_tag	UBT_2_00185
+7065	7580	CDS
+			EC_number	2.1.1.207
+			db_xref	COG:COG0219
+			gene	trmL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q74Y93
+			locus_tag	UBT_2_00185
+			product	tRNA (cytidine(34)-2'-O)-methyltransferase
+			protein_id	gnl|Prokka|UBT_2_00185
+7621	10395	gene
+			gene	spoIIIE
+			locus_tag	UBT_2_00186
+7621	10395	CDS
+			db_xref	COG:COG1674
+			gene	spoIIIE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21458
+			locus_tag	UBT_2_00186
+			product	DNA translocase SpoIIIE
+			protein_id	gnl|Prokka|UBT_2_00186
+10428	10712	gene
+			locus_tag	UBT_2_00187
+10428	10712	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00187
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00187
+10867	11769	gene
+			gene	btuD
+			locus_tag	UBT_2_00188
+10867	11769	CDS
+			EC_number	7.6.2.8
+			gene	btuD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01005
+			locus_tag	UBT_2_00188
+			product	Vitamin B12 import ATP-binding protein BtuD
+			protein_id	gnl|Prokka|UBT_2_00188
+11762	13006	gene
+			gene	yhaP
+			locus_tag	UBT_2_00189
+11762	13006	CDS
+			db_xref	COG:COG1668
+			gene	yhaP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07523
+			locus_tag	UBT_2_00189
+			product	putative protein YhaP
+			protein_id	gnl|Prokka|UBT_2_00189
+13190	13059	gene
+			locus_tag	UBT_2_00190
+13190	13059	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00190
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00190
+13341	15266	gene
+			locus_tag	UBT_2_00191
+13341	15266	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00191
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00191
+15360	15551	gene
+			locus_tag	UBT_2_00192
+15360	15551	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00192
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00192
+15684	17477	gene
+			gene	uvrC
+			locus_tag	UBT_2_00193
+15684	17477	CDS
+			db_xref	COG:COG0322
+			gene	uvrC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5KWH6
+			locus_tag	UBT_2_00193
+			product	UvrABC system protein C
+			protein_id	gnl|Prokka|UBT_2_00193
+17572	18882	gene
+			gene	obg
+			locus_tag	UBT_2_00194
+17572	18882	CDS
+			EC_number	3.6.5.-
+			db_xref	COG:COG0536
+			gene	obg
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P20964
+			locus_tag	UBT_2_00194
+			product	GTPase Obg
+			protein_id	gnl|Prokka|UBT_2_00194
+18936	19637	gene
+			gene	yigZ
+			locus_tag	UBT_2_00195
+18936	19637	CDS
+			db_xref	COG:COG1739
+			gene	yigZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27862
+			locus_tag	UBT_2_00195
+			product	IMPACT family member YigZ
+			protein_id	gnl|Prokka|UBT_2_00195
+19757	20320	gene
+			locus_tag	UBT_2_00196
+19757	20320	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00196
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00196
+21604	20372	gene
+			gene	sbnD
+			locus_tag	UBT_2_00197
+21604	20372	CDS
+			gene	sbnD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1N0
+			locus_tag	UBT_2_00197
+			product	Staphyloferrin B transporter
+			protein_id	gnl|Prokka|UBT_2_00197
+21972	23117	gene
+			gene	IMPDH
+			locus_tag	UBT_2_00198
+21972	23117	CDS
+			EC_number	1.1.1.205
+			gene	IMPDH
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01964
+			locus_tag	UBT_2_00198
+			product	Inosine-5'-monophosphate dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00198
+23132	23998	gene
+			gene	guaB
+			locus_tag	UBT_2_00199
+23132	23998	CDS
+			EC_number	1.1.1.205
+			db_xref	COG:COG0516
+			gene	guaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C0H6
+			locus_tag	UBT_2_00199
+			product	Inosine-5'-monophosphate dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00199
+24055	25479	gene
+			gene	adeC
+			locus_tag	UBT_2_00200
+24055	25479	CDS
+			EC_number	3.5.4.2
+			gene	adeC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39761
+			locus_tag	UBT_2_00200
+			product	Adenine deaminase
+			protein_id	gnl|Prokka|UBT_2_00200
+25519	25719	gene
+			gene	ade
+			locus_tag	UBT_2_00201
+25519	25719	CDS
+			EC_number	3.5.4.2
+			gene	ade
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01518
+			locus_tag	UBT_2_00201
+			product	Adenine deaminase
+			protein_id	gnl|Prokka|UBT_2_00201
+26095	26697	gene
+			gene	ruvA
+			locus_tag	UBT_2_00202
+26095	26697	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0632
+			gene	ruvA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A809
+			locus_tag	UBT_2_00202
+			product	Holliday junction ATP-dependent DNA helicase RuvA
+			protein_id	gnl|Prokka|UBT_2_00202
+26720	27730	gene
+			gene	ruvB
+			locus_tag	UBT_2_00203
+26720	27730	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG2255
+			gene	ruvB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97SR6
+			locus_tag	UBT_2_00203
+			product	Holliday junction ATP-dependent DNA helicase RuvB
+			protein_id	gnl|Prokka|UBT_2_00203
+27736	28782	gene
+			gene	queA
+			locus_tag	UBT_2_00204
+27736	28782	CDS
+			EC_number	2.4.99.17
+			db_xref	COG:COG0809
+			gene	queA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A8AYK5
+			locus_tag	UBT_2_00204
+			product	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+			protein_id	gnl|Prokka|UBT_2_00204
+28891	28962	gene
+			locus_tag	UBT_2_00205
+28891	28962	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00205
+			product	tRNA-Gly(tcc)
+>Feature gnl|Prokka|UBT_2_10
+13	462	gene
+			gene	fus_1
+			locus_tag	UBT_2_00206
+13	462	CDS
+			gene	fus_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XDW4
+			locus_tag	UBT_2_00206
+			product	Elongation factor G
+			protein_id	gnl|Prokka|UBT_2_00206
+804	2600	gene
+			locus_tag	UBT_2_00207
+804	2600	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00207
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00207
+2716	3834	gene
+			gene	potA_1
+			locus_tag	UBT_2_00208
+2716	3834	CDS
+			EC_number	7.6.2.11
+			gene	potA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A679
+			locus_tag	UBT_2_00208
+			product	Spermidine/putrescine import ATP-binding protein PotA
+			protein_id	gnl|Prokka|UBT_2_00208
+3824	4642	gene
+			gene	potB_1
+			locus_tag	UBT_2_00209
+3824	4642	CDS
+			db_xref	COG:COG1176
+			gene	potB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK4
+			locus_tag	UBT_2_00209
+			product	Spermidine/putrescine transport system permease protein PotB
+			protein_id	gnl|Prokka|UBT_2_00209
+4635	5465	gene
+			gene	ydcV_1
+			locus_tag	UBT_2_00210
+4635	5465	CDS
+			gene	ydcV_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFR9
+			locus_tag	UBT_2_00210
+			product	Inner membrane ABC transporter permease protein YdcV
+			protein_id	gnl|Prokka|UBT_2_00210
+5465	6550	gene
+			gene	potD_1
+			locus_tag	UBT_2_00211
+5465	6550	CDS
+			db_xref	COG:COG0687
+			gene	potD_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK9
+			locus_tag	UBT_2_00211
+			product	Spermidine/putrescine-binding periplasmic protein
+			protein_id	gnl|Prokka|UBT_2_00211
+6987	7715	gene
+			locus_tag	UBT_2_00212
+6987	7715	CDS
+			EC_number	5.2.1.8
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6I1
+			locus_tag	UBT_2_00212
+			product	Putative peptidyl-prolyl cis-trans isomerase
+			protein_id	gnl|Prokka|UBT_2_00212
+8126	7767	gene
+			locus_tag	UBT_2_00213
+8126	7767	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00213
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00213
+8756	8307	gene
+			locus_tag	UBT_2_00214
+8756	8307	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A551
+			locus_tag	UBT_2_00214
+			product	Putative universal stress protein
+			protein_id	gnl|Prokka|UBT_2_00214
+9331	9501	gene
+			locus_tag	UBT_2_00215
+9331	9501	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00215
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00215
+9608	9994	gene
+			locus_tag	UBT_2_00216
+9608	9994	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00216
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00216
+10009	10941	gene
+			gene	hprK_1
+			locus_tag	UBT_2_00217
+10009	10941	CDS
+			EC_number	2.7.11.-
+			db_xref	COG:COG1493
+			gene	hprK_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RE09
+			locus_tag	UBT_2_00217
+			product	HPr kinase/phosphorylase
+			protein_id	gnl|Prokka|UBT_2_00217
+11072	12091	gene
+			gene	gpsA_1
+			locus_tag	UBT_2_00218
+11072	12091	CDS
+			EC_number	1.1.1.94
+			db_xref	COG:COG0240
+			gene	gpsA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97NF1
+			locus_tag	UBT_2_00218
+			product	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+			protein_id	gnl|Prokka|UBT_2_00218
+12098	12973	gene
+			gene	gtaB_1
+			locus_tag	UBT_2_00219
+12098	12973	CDS
+			EC_number	2.7.7.9
+			db_xref	COG:COG1210
+			gene	gtaB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q05852
+			locus_tag	UBT_2_00219
+			product	UTP--glucose-1-phosphate uridylyltransferase
+			protein_id	gnl|Prokka|UBT_2_00219
+13218	17285	gene
+			locus_tag	UBT_2_00220
+13218	17285	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00220
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00220
+17504	19465	gene
+			locus_tag	UBT_2_00221
+17504	19465	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00221
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00221
+19688	21463	gene
+			locus_tag	UBT_2_00222
+19688	21463	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00222
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00222
+23045	21693	gene
+			locus_tag	UBT_2_00223
+23045	21693	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00223
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00223
+23794	24744	gene
+			gene	trxB_1
+			locus_tag	UBT_2_00224
+23794	24744	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P80880
+			locus_tag	UBT_2_00224
+			product	Thioredoxin reductase
+			protein_id	gnl|Prokka|UBT_2_00224
+24866	25840	gene
+			gene	fabH_1
+			locus_tag	UBT_2_00225
+24866	25840	CDS
+			EC_number	2.3.1.180
+			db_xref	COG:COG0332
+			gene	fabH_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67185
+			locus_tag	UBT_2_00225
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 3
+			protein_id	gnl|Prokka|UBT_2_00225
+25973	26155	gene
+			locus_tag	UBT_2_00226
+25973	26155	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00226
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00226
+26357	26623	gene
+			gene	ptsH_1
+			locus_tag	UBT_2_00227
+26357	26623	CDS
+			db_xref	COG:COG1925
+			gene	ptsH_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24366
+			locus_tag	UBT_2_00227
+			product	Phosphocarrier protein HPr
+			protein_id	gnl|Prokka|UBT_2_00227
+26674	28401	gene
+			gene	ptsI_1
+			locus_tag	UBT_2_00228
+26674	28401	CDS
+			EC_number	2.7.3.9
+			db_xref	COG:COG1080
+			gene	ptsI_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23530
+			locus_tag	UBT_2_00228
+			product	Phosphoenolpyruvate-protein phosphotransferase
+			protein_id	gnl|Prokka|UBT_2_00228
+28528	29316	gene
+			gene	tpiA_1
+			locus_tag	UBT_2_00229
+28528	29316	CDS
+			EC_number	5.3.1.1
+			gene	tpiA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q93GB7
+			locus_tag	UBT_2_00229
+			product	Triosephosphate isomerase
+			protein_id	gnl|Prokka|UBT_2_00229
+29431	29628	gene
+			locus_tag	UBT_2_00230
+29431	29628	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00230
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00230
+29897	29664	gene
+			locus_tag	UBT_2_00231
+29897	29664	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00231
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00231
+>Feature gnl|Prokka|UBT_2_11
+16	699	gene
+			gene	ldh
+			locus_tag	UBT_2_00232
+16	699	CDS
+			EC_number	1.1.1.27
+			gene	ldh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56511
+			locus_tag	UBT_2_00232
+			product	L-lactate dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00232
+928	2616	gene
+			gene	alsS
+			locus_tag	UBT_2_00233
+928	2616	CDS
+			EC_number	2.2.1.6
+			db_xref	COG:COG0028
+			gene	alsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q04789
+			locus_tag	UBT_2_00233
+			product	Acetolactate synthase
+			protein_id	gnl|Prokka|UBT_2_00233
+2669	3385	gene
+			locus_tag	UBT_2_00234
+2669	3385	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00234
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00234
+3485	4492	gene
+			locus_tag	UBT_2_00235
+3485	4492	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99173
+			locus_tag	UBT_2_00235
+			product	Zinc-type alcohol dehydrogenase-like protein
+			protein_id	gnl|Prokka|UBT_2_00235
+4867	5922	gene
+			gene	sle1
+			locus_tag	UBT_2_00236
+4867	5922	CDS
+			EC_number	3.5.1.28
+			gene	sle1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A7E0
+			locus_tag	UBT_2_00236
+			product	N-acetylmuramoyl-L-alanine amidase sle1
+			protein_id	gnl|Prokka|UBT_2_00236
+5976	6518	gene
+			locus_tag	UBT_2_00237
+5976	6518	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00237
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00237
+6532	6810	gene
+			locus_tag	UBT_2_00238
+6532	6810	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00238
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00238
+6911	7453	gene
+			gene	dut
+			locus_tag	UBT_2_00239
+6911	7453	CDS
+			EC_number	3.6.1.23
+			gene	dut
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00116
+			locus_tag	UBT_2_00239
+			product	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+			protein_id	gnl|Prokka|UBT_2_00239
+7467	8840	gene
+			gene	radA
+			locus_tag	UBT_2_00240
+7467	8840	CDS
+			EC_number	3.6.4.-
+			db_xref	COG:COG1066
+			gene	radA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37572
+			locus_tag	UBT_2_00240
+			product	DNA repair protein RadA
+			protein_id	gnl|Prokka|UBT_2_00240
+8852	9955	gene
+			gene	yacL
+			locus_tag	UBT_2_00241
+8852	9955	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG4956
+			gene	yacL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06754
+			locus_tag	UBT_2_00241
+			product	putative PIN and TRAM-domain containing protein YacL
+			protein_id	gnl|Prokka|UBT_2_00241
+>Feature gnl|Prokka|UBT_2_12
+308	93	gene
+			gene	infA
+			locus_tag	UBT_2_00242
+308	93	CDS
+			db_xref	COG:COG0361
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P20458
+			locus_tag	UBT_2_00242
+			product	Translation initiation factor IF-1
+			protein_id	gnl|Prokka|UBT_2_00242
+980	417	gene
+			gene	adk
+			locus_tag	UBT_2_00243
+980	417	CDS
+			EC_number	2.7.4.3
+			db_xref	COG:COG0563
+			gene	adk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97SU1
+			locus_tag	UBT_2_00243
+			product	Adenylate kinase
+			protein_id	gnl|Prokka|UBT_2_00243
+2307	973	gene
+			gene	secY
+			locus_tag	UBT_2_00244
+2307	973	CDS
+			gene	secY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A468
+			locus_tag	UBT_2_00244
+			product	Protein translocase subunit SecY
+			protein_id	gnl|Prokka|UBT_2_00244
+2741	2307	gene
+			gene	rplO
+			locus_tag	UBT_2_00245
+2741	2307	CDS
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0F6
+			locus_tag	UBT_2_00245
+			product	50S ribosomal protein L15
+			protein_id	gnl|Prokka|UBT_2_00245
+2952	2770	gene
+			gene	rpmD
+			locus_tag	UBT_2_00246
+2952	2770	CDS
+			db_xref	COG:COG1841
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNN5
+			locus_tag	UBT_2_00246
+			product	50S ribosomal protein L30
+			protein_id	gnl|Prokka|UBT_2_00246
+3470	2964	gene
+			gene	rpsE
+			locus_tag	UBT_2_00247
+3470	2964	CDS
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02357
+			locus_tag	UBT_2_00247
+			product	30S ribosomal protein S5
+			protein_id	gnl|Prokka|UBT_2_00247
+3842	3489	gene
+			gene	rplR
+			locus_tag	UBT_2_00248
+3842	3489	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNN7
+			locus_tag	UBT_2_00248
+			product	50S ribosomal protein L18
+			protein_id	gnl|Prokka|UBT_2_00248
+4478	3942	gene
+			gene	rplF
+			locus_tag	UBT_2_00249
+4478	3942	CDS
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02391
+			locus_tag	UBT_2_00249
+			product	50S ribosomal protein L6
+			protein_id	gnl|Prokka|UBT_2_00249
+4901	4503	gene
+			gene	rpsH
+			locus_tag	UBT_2_00250
+4901	4503	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12879
+			locus_tag	UBT_2_00250
+			product	30S ribosomal protein S8
+			protein_id	gnl|Prokka|UBT_2_00250
+5586	5044	gene
+			gene	rplE
+			locus_tag	UBT_2_00251
+5586	5044	CDS
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08895
+			locus_tag	UBT_2_00251
+			product	50S ribosomal protein L5
+			protein_id	gnl|Prokka|UBT_2_00251
+5918	5610	gene
+			gene	rplX
+			locus_tag	UBT_2_00252
+5918	5610	CDS
+			gene	rplX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60735
+			locus_tag	UBT_2_00252
+			product	50S ribosomal protein L24
+			protein_id	gnl|Prokka|UBT_2_00252
+6310	5942	gene
+			gene	rplN
+			locus_tag	UBT_2_00253
+6310	5942	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A473
+			locus_tag	UBT_2_00253
+			product	50S ribosomal protein L14
+			protein_id	gnl|Prokka|UBT_2_00253
+6629	6363	gene
+			gene	rpsQ
+			locus_tag	UBT_2_00254
+6629	6363	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12874
+			locus_tag	UBT_2_00254
+			product	30S ribosomal protein S17
+			protein_id	gnl|Prokka|UBT_2_00254
+6858	6652	gene
+			gene	rpmC
+			locus_tag	UBT_2_00255
+6858	6652	CDS
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04457
+			locus_tag	UBT_2_00255
+			product	50S ribosomal protein L29
+			protein_id	gnl|Prokka|UBT_2_00255
+7271	6858	gene
+			gene	rplP
+			locus_tag	UBT_2_00256
+7271	6858	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A475
+			locus_tag	UBT_2_00256
+			product	50S ribosomal protein L16
+			protein_id	gnl|Prokka|UBT_2_00256
+7957	7286	gene
+			gene	rpsC
+			locus_tag	UBT_2_00257
+7957	7286	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNP9
+			locus_tag	UBT_2_00257
+			product	30S ribosomal protein S3
+			protein_id	gnl|Prokka|UBT_2_00257
+8313	7957	gene
+			gene	rplV
+			locus_tag	UBT_2_00258
+8313	7957	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61182
+			locus_tag	UBT_2_00258
+			product	50S ribosomal protein L22
+			protein_id	gnl|Prokka|UBT_2_00258
+8611	8330	gene
+			gene	rpsS
+			locus_tag	UBT_2_00259
+8611	8330	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNQ1
+			locus_tag	UBT_2_00259
+			product	30S ribosomal protein S19
+			protein_id	gnl|Prokka|UBT_2_00259
+9462	8629	gene
+			gene	rplB
+			locus_tag	UBT_2_00260
+9462	8629	CDS
+			gene	rplB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60432
+			locus_tag	UBT_2_00260
+			product	50S ribosomal protein L2
+			protein_id	gnl|Prokka|UBT_2_00260
+9772	9485	gene
+			gene	rplW
+			locus_tag	UBT_2_00261
+9772	9485	CDS
+			gene	rplW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04454
+			locus_tag	UBT_2_00261
+			product	50S ribosomal protein L23
+			protein_id	gnl|Prokka|UBT_2_00261
+10395	9772	gene
+			gene	rplD
+			locus_tag	UBT_2_00262
+10395	9772	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNQ4
+			locus_tag	UBT_2_00262
+			product	50S ribosomal protein L4
+			protein_id	gnl|Prokka|UBT_2_00262
+11114	10428	gene
+			gene	rplC
+			locus_tag	UBT_2_00263
+11114	10428	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42920
+			locus_tag	UBT_2_00263
+			product	50S ribosomal protein L3
+			protein_id	gnl|Prokka|UBT_2_00263
+11492	11184	gene
+			gene	rpsJ
+			locus_tag	UBT_2_00264
+11492	11184	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21471
+			locus_tag	UBT_2_00264
+			product	30S ribosomal protein S10
+			protein_id	gnl|Prokka|UBT_2_00264
+12873	11794	gene
+			gene	potD_2
+			locus_tag	UBT_2_00265
+12873	11794	CDS
+			db_xref	COG:COG0687
+			gene	potD_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK9
+			locus_tag	UBT_2_00265
+			product	Spermidine/putrescine-binding periplasmic protein
+			protein_id	gnl|Prokka|UBT_2_00265
+13702	12875	gene
+			locus_tag	UBT_2_00266
+13702	12875	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00266
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00266
+14537	13707	gene
+			gene	potB_2
+			locus_tag	UBT_2_00267
+14537	13707	CDS
+			db_xref	COG:COG1176
+			gene	potB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK4
+			locus_tag	UBT_2_00267
+			product	Spermidine/putrescine transport system permease protein PotB
+			protein_id	gnl|Prokka|UBT_2_00267
+15696	14521	gene
+			gene	potA_2
+			locus_tag	UBT_2_00268
+15696	14521	CDS
+			EC_number	7.6.2.11
+			gene	potA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A679
+			locus_tag	UBT_2_00268
+			product	Spermidine/putrescine import ATP-binding protein PotA
+			protein_id	gnl|Prokka|UBT_2_00268
+16906	15713	gene
+			gene	yycB_2
+			locus_tag	UBT_2_00269
+16906	15713	CDS
+			db_xref	COG:COG2807
+			gene	yycB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37482
+			locus_tag	UBT_2_00269
+			product	putative transporter YycB
+			protein_id	gnl|Prokka|UBT_2_00269
+17474	17031	gene
+			gene	fus_2
+			locus_tag	UBT_2_00270
+17474	17031	CDS
+			gene	fus_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XDW4
+			locus_tag	UBT_2_00270
+			product	Elongation factor G
+			protein_id	gnl|Prokka|UBT_2_00270
+>Feature gnl|Prokka|UBT_2_13
+1225	656	gene
+			gene	yheI
+			locus_tag	UBT_2_00271
+1225	656	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			gene	yheI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07550
+			locus_tag	UBT_2_00271
+			product	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+			protein_id	gnl|Prokka|UBT_2_00271
+3140	1299	gene
+			gene	appA
+			locus_tag	UBT_2_00272
+3140	1299	CDS
+			gene	appA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42061
+			locus_tag	UBT_2_00272
+			product	Oligopeptide-binding protein AppA
+			protein_id	gnl|Prokka|UBT_2_00272
+>Feature gnl|Prokka|UBT_2_14
+1042	293	gene
+			gene	truA
+			locus_tag	UBT_2_00273
+1042	293	CDS
+			EC_number	5.4.99.12
+			db_xref	COG:COG0101
+			gene	truA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07649
+			locus_tag	UBT_2_00273
+			product	tRNA pseudouridine synthase A
+			protein_id	gnl|Prokka|UBT_2_00273
+1857	1057	gene
+			gene	ecfT
+			locus_tag	UBT_2_00274
+1857	1057	CDS
+			gene	ecfT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q035B4
+			locus_tag	UBT_2_00274
+			product	Energy-coupling factor transporter transmembrane protein EcfT
+			protein_id	gnl|Prokka|UBT_2_00274
+2713	1850	gene
+			gene	ecfA2
+			locus_tag	UBT_2_00275
+2713	1850	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1122
+			gene	ecfA2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03PY6
+			locus_tag	UBT_2_00275
+			product	Energy-coupling factor transporter ATP-binding protein EcfA2
+			protein_id	gnl|Prokka|UBT_2_00275
+3531	2689	gene
+			gene	ecfA1
+			locus_tag	UBT_2_00276
+3531	2689	CDS
+			EC_number	7.-.-.-
+			gene	ecfA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q035B2
+			locus_tag	UBT_2_00276
+			product	Energy-coupling factor transporter ATP-binding protein EcfA1
+			protein_id	gnl|Prokka|UBT_2_00276
+3645	4238	gene
+			gene	trmH
+			locus_tag	UBT_2_00277
+3645	4238	CDS
+			EC_number	2.1.1.34
+			db_xref	COG:COG0566
+			gene	trmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SM16
+			locus_tag	UBT_2_00277
+			product	tRNA (guanosine(18)-2'-O)-methyltransferase
+			protein_id	gnl|Prokka|UBT_2_00277
+5959	4286	gene
+			gene	norW
+			locus_tag	UBT_2_00278
+5959	4286	CDS
+			EC_number	1.18.1.-
+			gene	norW
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01313
+			locus_tag	UBT_2_00278
+			product	Nitric oxide reductase FlRd-NAD(+) reductase
+			protein_id	gnl|Prokka|UBT_2_00278
+7177	6233	gene
+			gene	mntA
+			locus_tag	UBT_2_00279
+7177	6233	CDS
+			db_xref	COG:COG0803
+			gene	mntA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y653
+			locus_tag	UBT_2_00279
+			product	Manganese-binding lipoprotein MntA
+			protein_id	gnl|Prokka|UBT_2_00279
+8021	7170	gene
+			gene	mntB
+			locus_tag	UBT_2_00280
+8021	7170	CDS
+			gene	mntB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q55282
+			locus_tag	UBT_2_00280
+			product	Manganese transport system membrane protein MntB
+			protein_id	gnl|Prokka|UBT_2_00280
+8759	8025	gene
+			gene	scaC
+			locus_tag	UBT_2_00281
+8759	8025	CDS
+			EC_number	7.2.2.5
+			db_xref	COG:COG1121
+			gene	scaC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42360
+			locus_tag	UBT_2_00281
+			product	Manganese import ATP-binding protein ScaC
+			protein_id	gnl|Prokka|UBT_2_00281
+9794	8967	gene
+			locus_tag	UBT_2_00282
+9794	8967	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00282
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00282
+>Feature gnl|Prokka|UBT_2_15
+968	333	gene
+			gene	divIVA
+			locus_tag	UBT_2_00283
+968	333	CDS
+			db_xref	COG:COG3599
+			gene	divIVA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P71021
+			locus_tag	UBT_2_00283
+			product	Septum site-determining protein DivIVA
+			protein_id	gnl|Prokka|UBT_2_00283
+1768	983	gene
+			locus_tag	UBT_2_00284
+1768	983	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00284
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00284
+2044	1781	gene
+			locus_tag	UBT_2_00285
+2044	1781	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00285
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00285
+2529	2056	gene
+			gene	sepF
+			locus_tag	UBT_2_00286
+2529	2056	CDS
+			gene	sepF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A615
+			locus_tag	UBT_2_00286
+			product	Cell division protein SepF
+			protein_id	gnl|Prokka|UBT_2_00286
+3797	2541	gene
+			gene	ftsZ
+			locus_tag	UBT_2_00287
+3797	2541	CDS
+			gene	ftsZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00909
+			locus_tag	UBT_2_00287
+			product	Cell division protein FtsZ
+			protein_id	gnl|Prokka|UBT_2_00287
+5201	3837	gene
+			gene	ftsA
+			locus_tag	UBT_2_00288
+5201	3837	CDS
+			db_xref	COG:COG0849
+			gene	ftsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28264
+			locus_tag	UBT_2_00288
+			product	Cell division protein FtsA
+			protein_id	gnl|Prokka|UBT_2_00288
+6292	5345	gene
+			gene	divIB
+			locus_tag	UBT_2_00289
+6292	5345	CDS
+			gene	divIB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00912
+			locus_tag	UBT_2_00289
+			product	Cell division protein DivIB
+			protein_id	gnl|Prokka|UBT_2_00289
+7420	6323	gene
+			gene	murG
+			locus_tag	UBT_2_00290
+7420	6323	CDS
+			EC_number	2.4.1.227
+			db_xref	COG:COG0707
+			gene	murG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9HW01
+			locus_tag	UBT_2_00290
+			product	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+			protein_id	gnl|Prokka|UBT_2_00290
+8775	7432	gene
+			gene	murD
+			locus_tag	UBT_2_00291
+8775	7432	CDS
+			EC_number	6.3.2.9
+			db_xref	COG:COG0771
+			gene	murD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97RU8
+			locus_tag	UBT_2_00291
+			product	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+			protein_id	gnl|Prokka|UBT_2_00291
+9873	8881	gene
+			gene	mraY
+			locus_tag	UBT_2_00292
+9873	8881	CDS
+			EC_number	2.7.8.13
+			db_xref	COG:COG0472
+			gene	mraY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2FZ93
+			locus_tag	UBT_2_00292
+			product	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+			protein_id	gnl|Prokka|UBT_2_00292
+12095	9903	gene
+			gene	pbpB
+			locus_tag	UBT_2_00293
+12095	9903	CDS
+			db_xref	COG:COG0768
+			gene	pbpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q07868
+			locus_tag	UBT_2_00293
+			product	Penicillin-binding protein 2B
+			protein_id	gnl|Prokka|UBT_2_00293
+12468	12097	gene
+			gene	ftsL
+			locus_tag	UBT_2_00294
+12468	12097	CDS
+			gene	ftsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00910
+			locus_tag	UBT_2_00294
+			product	Cell division protein FtsL
+			protein_id	gnl|Prokka|UBT_2_00294
+13457	12513	gene
+			gene	rsmH
+			locus_tag	UBT_2_00295
+13457	12513	CDS
+			EC_number	2.1.1.199
+			gene	rsmH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60392
+			locus_tag	UBT_2_00295
+			product	Ribosomal RNA small subunit methyltransferase H
+			protein_id	gnl|Prokka|UBT_2_00295
+13939	13505	gene
+			gene	mraZ
+			locus_tag	UBT_2_00296
+13939	13505	CDS
+			gene	mraZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65439
+			locus_tag	UBT_2_00296
+			product	Transcriptional regulator MraZ
+			protein_id	gnl|Prokka|UBT_2_00296
+14822	14442	gene
+			locus_tag	UBT_2_00297
+14822	14442	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00297
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00297
+15617	14871	gene
+			gene	rsmE
+			locus_tag	UBT_2_00298
+15617	14871	CDS
+			EC_number	2.1.1.193
+			db_xref	COG:COG1385
+			gene	rsmE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54461
+			locus_tag	UBT_2_00298
+			product	Ribosomal RNA small subunit methyltransferase E
+			protein_id	gnl|Prokka|UBT_2_00298
+16570	15617	gene
+			gene	prmA
+			locus_tag	UBT_2_00299
+16570	15617	CDS
+			EC_number	2.1.1.-
+			db_xref	COG:COG2264
+			gene	prmA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45558
+			locus_tag	UBT_2_00299
+			product	Ribosomal protein L11 methyltransferase
+			protein_id	gnl|Prokka|UBT_2_00299
+17453	16680	gene
+			gene	pyk
+			locus_tag	UBT_2_00300
+17453	16680	CDS
+			EC_number	2.7.1.40
+			db_xref	COG:COG0469
+			gene	pyk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P34038
+			locus_tag	UBT_2_00300
+			product	Pyruvate kinase
+			protein_id	gnl|Prokka|UBT_2_00300
+>Feature gnl|Prokka|UBT_2_16
+1121	192	gene
+			gene	ppx1_1
+			locus_tag	UBT_2_00301
+1121	192	CDS
+			EC_number	3.6.1.11
+			db_xref	COG:COG0248
+			gene	ppx1_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WHV5
+			locus_tag	UBT_2_00301
+			product	Exopolyphosphatase 1
+			protein_id	gnl|Prokka|UBT_2_00301
+2177	1158	gene
+			gene	trpS2_1
+			locus_tag	UBT_2_00302
+2177	1158	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS2_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RVD6
+			locus_tag	UBT_2_00302
+			product	Tryptophan--tRNA ligase 2
+			protein_id	gnl|Prokka|UBT_2_00302
+4585	2285	gene
+			gene	helD_1
+			locus_tag	UBT_2_00303
+4585	2285	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG3973
+			gene	helD_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32215
+			locus_tag	UBT_2_00303
+			product	DNA helicase IV
+			protein_id	gnl|Prokka|UBT_2_00303
+>Feature gnl|Prokka|UBT_2_17
+13	462	gene
+			gene	fus_3
+			locus_tag	UBT_2_00304
+13	462	CDS
+			gene	fus_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XDW4
+			locus_tag	UBT_2_00304
+			product	Elongation factor G
+			protein_id	gnl|Prokka|UBT_2_00304
+593	1477	gene
+			locus_tag	UBT_2_00305
+593	1477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00305
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00305
+1616	2734	gene
+			gene	potA_3
+			locus_tag	UBT_2_00306
+1616	2734	CDS
+			EC_number	7.6.2.11
+			gene	potA_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A679
+			locus_tag	UBT_2_00306
+			product	Spermidine/putrescine import ATP-binding protein PotA
+			protein_id	gnl|Prokka|UBT_2_00306
+2724	3539	gene
+			gene	potB_3
+			locus_tag	UBT_2_00307
+2724	3539	CDS
+			db_xref	COG:COG1176
+			gene	potB_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK4
+			locus_tag	UBT_2_00307
+			product	Spermidine/putrescine transport system permease protein PotB
+			protein_id	gnl|Prokka|UBT_2_00307
+3532	4362	gene
+			gene	ydcV_2
+			locus_tag	UBT_2_00308
+3532	4362	CDS
+			gene	ydcV_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFR9
+			locus_tag	UBT_2_00308
+			product	Inner membrane ABC transporter permease protein YdcV
+			protein_id	gnl|Prokka|UBT_2_00308
+4362	5447	gene
+			gene	potD_3
+			locus_tag	UBT_2_00309
+4362	5447	CDS
+			db_xref	COG:COG0687
+			gene	potD_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0AFK9
+			locus_tag	UBT_2_00309
+			product	Spermidine/putrescine-binding periplasmic protein
+			protein_id	gnl|Prokka|UBT_2_00309
+5580	6365	gene
+			locus_tag	UBT_2_00310
+5580	6365	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00310
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00310
+6771	6409	gene
+			locus_tag	UBT_2_00311
+6771	6409	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00311
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00311
+7404	6955	gene
+			locus_tag	UBT_2_00312
+7404	6955	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A551
+			locus_tag	UBT_2_00312
+			product	Putative universal stress protein
+			protein_id	gnl|Prokka|UBT_2_00312
+7967	8134	gene
+			locus_tag	UBT_2_00313
+7967	8134	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00313
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00313
+8239	8634	gene
+			locus_tag	UBT_2_00314
+8239	8634	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00314
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00314
+8639	9571	gene
+			gene	hprK_2
+			locus_tag	UBT_2_00315
+8639	9571	CDS
+			EC_number	2.7.11.-
+			db_xref	COG:COG1493
+			gene	hprK_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RE09
+			locus_tag	UBT_2_00315
+			product	HPr kinase/phosphorylase
+			protein_id	gnl|Prokka|UBT_2_00315
+9702	10721	gene
+			gene	gpsA_2
+			locus_tag	UBT_2_00316
+9702	10721	CDS
+			EC_number	1.1.1.94
+			db_xref	COG:COG0240
+			gene	gpsA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97NF1
+			locus_tag	UBT_2_00316
+			product	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+			protein_id	gnl|Prokka|UBT_2_00316
+10728	11603	gene
+			gene	gtaB_2
+			locus_tag	UBT_2_00317
+10728	11603	CDS
+			EC_number	2.7.7.9
+			db_xref	COG:COG1210
+			gene	gtaB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q05852
+			locus_tag	UBT_2_00317
+			product	UTP--glucose-1-phosphate uridylyltransferase
+			protein_id	gnl|Prokka|UBT_2_00317
+11680	11898	gene
+			locus_tag	UBT_2_00318
+11680	11898	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00318
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00318
+12071	16072	gene
+			locus_tag	UBT_2_00319
+12071	16072	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00319
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00319
+16204	17154	gene
+			gene	trxB_2
+			locus_tag	UBT_2_00320
+16204	17154	CDS
+			EC_number	1.8.1.9
+			db_xref	COG:COG0492
+			gene	trxB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P80880
+			locus_tag	UBT_2_00320
+			product	Thioredoxin reductase
+			protein_id	gnl|Prokka|UBT_2_00320
+17291	18268	gene
+			gene	fabH_2
+			locus_tag	UBT_2_00321
+17291	18268	CDS
+			EC_number	2.3.1.180
+			db_xref	COG:COG0332
+			gene	fabH_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67185
+			locus_tag	UBT_2_00321
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 3
+			protein_id	gnl|Prokka|UBT_2_00321
+18401	18583	gene
+			locus_tag	UBT_2_00322
+18401	18583	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00322
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00322
+18777	19043	gene
+			gene	ptsH_2
+			locus_tag	UBT_2_00323
+18777	19043	CDS
+			db_xref	COG:COG1925
+			gene	ptsH_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24366
+			locus_tag	UBT_2_00323
+			product	Phosphocarrier protein HPr
+			protein_id	gnl|Prokka|UBT_2_00323
+19096	20823	gene
+			gene	ptsI_2
+			locus_tag	UBT_2_00324
+19096	20823	CDS
+			EC_number	2.7.3.9
+			db_xref	COG:COG1080
+			gene	ptsI_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23530
+			locus_tag	UBT_2_00324
+			product	Phosphoenolpyruvate-protein phosphotransferase
+			protein_id	gnl|Prokka|UBT_2_00324
+20823	21680	gene
+			gene	tpiA_2
+			locus_tag	UBT_2_00325
+20823	21680	CDS
+			EC_number	5.3.1.1
+			gene	tpiA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q93GB7
+			locus_tag	UBT_2_00325
+			product	Triosephosphate isomerase
+			protein_id	gnl|Prokka|UBT_2_00325
+21765	21962	gene
+			locus_tag	UBT_2_00326
+21765	21962	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00326
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00326
+22693	22013	gene
+			locus_tag	UBT_2_00327
+22693	22013	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00327
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00327
+>Feature gnl|Prokka|UBT_2_18
+219	722	gene
+			locus_tag	UBT_2_00328
+219	722	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00328
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00328
+1868	771	gene
+			gene	ybiR_1
+			locus_tag	UBT_2_00329
+1868	771	CDS
+			db_xref	COG:COG0471
+			gene	ybiR_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75788
+			locus_tag	UBT_2_00329
+			product	Inner membrane protein YbiR
+			protein_id	gnl|Prokka|UBT_2_00329
+2046	1861	gene
+			locus_tag	UBT_2_00330
+2046	1861	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00330
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00330
+2249	2434	gene
+			locus_tag	UBT_2_00331
+2249	2434	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00331
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00331
+2427	3524	gene
+			gene	ybiR_2
+			locus_tag	UBT_2_00332
+2427	3524	CDS
+			db_xref	COG:COG0471
+			gene	ybiR_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75788
+			locus_tag	UBT_2_00332
+			product	Inner membrane protein YbiR
+			protein_id	gnl|Prokka|UBT_2_00332
+4076	3573	gene
+			locus_tag	UBT_2_00333
+4076	3573	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00333
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00333
+>Feature gnl|Prokka|UBT_2_19
+42	118	gene
+			locus_tag	UBT_2_00334
+42	118	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00334
+			product	tRNA-Val(tac)
+323	1468	gene
+			gene	tgt
+			locus_tag	UBT_2_00335
+323	1468	CDS
+			EC_number	2.4.2.29
+			gene	tgt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66905
+			locus_tag	UBT_2_00335
+			product	Queuine tRNA-ribosyltransferase
+			protein_id	gnl|Prokka|UBT_2_00335
+1503	1841	gene
+			locus_tag	UBT_2_00336
+1503	1841	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00336
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00336
+1911	3029	gene
+			gene	dinB
+			locus_tag	UBT_2_00337
+1911	3029	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG0389
+			gene	dinB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q47155
+			locus_tag	UBT_2_00337
+			product	DNA polymerase IV
+			protein_id	gnl|Prokka|UBT_2_00337
+3110	4060	gene
+			gene	nrnA
+			locus_tag	UBT_2_00338
+3110	4060	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0618
+			gene	nrnA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DTN6
+			locus_tag	UBT_2_00338
+			product	putative bifunctional oligoribonuclease and PAP phosphatase NrnA
+			protein_id	gnl|Prokka|UBT_2_00338
+4060	5418	gene
+			gene	cshB
+			locus_tag	UBT_2_00339
+4060	5418	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	cshB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y755
+			locus_tag	UBT_2_00339
+			product	DEAD-box ATP-dependent RNA helicase CshB
+			protein_id	gnl|Prokka|UBT_2_00339
+5807	5478	gene
+			locus_tag	UBT_2_00340
+5807	5478	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00340
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00340
+6208	6011	gene
+			locus_tag	UBT_2_00341
+6208	6011	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00341
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00341
+7013	6348	gene
+			locus_tag	UBT_2_00342
+7013	6348	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00342
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00342
+7155	8291	gene
+			gene	glxK
+			locus_tag	UBT_2_00343
+7155	8291	CDS
+			EC_number	2.7.1.31
+			db_xref	COG:COG1929
+			gene	glxK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P77364
+			locus_tag	UBT_2_00343
+			product	Glycerate 3-kinase
+			protein_id	gnl|Prokka|UBT_2_00343
+8608	11256	gene
+			gene	alaS
+			locus_tag	UBT_2_00344
+8608	11256	CDS
+			EC_number	6.1.1.7
+			gene	alaS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67011
+			locus_tag	UBT_2_00344
+			product	Alanine--tRNA ligase
+			protein_id	gnl|Prokka|UBT_2_00344
+11296	11547	gene
+			locus_tag	UBT_2_00345
+11296	11547	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q836B3
+			locus_tag	UBT_2_00345
+			note	UPF0297 protein EF_1202
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00345
+11590	12012	gene
+			gene	yrrK
+			locus_tag	UBT_2_00346
+11590	12012	CDS
+			EC_number	3.1.-.-
+			db_xref	COG:COG0816
+			gene	yrrK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34634
+			locus_tag	UBT_2_00346
+			product	Putative pre-16S rRNA nuclease
+			protein_id	gnl|Prokka|UBT_2_00346
+12026	12310	gene
+			locus_tag	UBT_2_00347
+12026	12310	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97SX0
+			locus_tag	UBT_2_00347
+			note	UPF0473 protein SP_0194
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00347
+12376	12660	gene
+			locus_tag	UBT_2_00348
+12376	12660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97SX0
+			locus_tag	UBT_2_00348
+			note	UPF0473 protein SP_0194
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00348
+12749	13408	gene
+			locus_tag	UBT_2_00349
+12749	13408	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00349
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00349
+13408	15642	gene
+			locus_tag	UBT_2_00350
+13408	15642	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00350
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00350
+15706	16728	gene
+			gene	yqeN
+			locus_tag	UBT_2_00351
+15706	16728	CDS
+			db_xref	COG:COG1466
+			gene	yqeN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54459
+			locus_tag	UBT_2_00351
+			product	putative protein YqeN
+			protein_id	gnl|Prokka|UBT_2_00351
+>Feature gnl|Prokka|UBT_2_20
+20	613	gene
+			gene	rpoE
+			locus_tag	UBT_2_00352
+20	613	CDS
+			gene	rpoE
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00357
+			locus_tag	UBT_2_00352
+			product	DNA-directed RNA polymerase subunit delta
+			protein_id	gnl|Prokka|UBT_2_00352
+840	1160	gene
+			locus_tag	UBT_2_00353
+840	1160	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00353
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00353
+1351	1746	gene
+			locus_tag	UBT_2_00354
+1351	1746	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00354
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00354
+1727	3217	gene
+			locus_tag	UBT_2_00355
+1727	3217	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00355
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00355
+3344	4141	gene
+			locus_tag	UBT_2_00356
+3344	4141	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00356
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00356
+4318	5928	gene
+			gene	pyrG
+			locus_tag	UBT_2_00357
+4318	5928	CDS
+			EC_number	6.3.4.2
+			db_xref	COG:COG0504
+			gene	pyrG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O87761
+			locus_tag	UBT_2_00357
+			product	CTP synthase
+			protein_id	gnl|Prokka|UBT_2_00357
+6307	7569	gene
+			gene	murA2
+			locus_tag	UBT_2_00358
+6307	7569	CDS
+			EC_number	2.5.1.7
+			gene	murA2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65457
+			locus_tag	UBT_2_00358
+			product	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+			protein_id	gnl|Prokka|UBT_2_00358
+7801	9384	gene
+			gene	cshA
+			locus_tag	UBT_2_00359
+7801	9384	CDS
+			EC_number	3.6.4.13
+			db_xref	COG:COG0513
+			gene	cshA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y8N0
+			locus_tag	UBT_2_00359
+			product	ATP-dependent RNA helicase CshA
+			protein_id	gnl|Prokka|UBT_2_00359
+9549	11033	gene
+			locus_tag	UBT_2_00360
+9549	11033	CDS
+			EC_number	5.1.1.1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01201
+			locus_tag	UBT_2_00360
+			product	Alanine racemase
+			protein_id	gnl|Prokka|UBT_2_00360
+11044	11406	gene
+			gene	ndoA
+			locus_tag	UBT_2_00361
+11044	11406	CDS
+			EC_number	3.1.27.-
+			db_xref	COG:COG2337
+			gene	ndoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96622
+			locus_tag	UBT_2_00361
+			product	Endoribonuclease EndoA
+			protein_id	gnl|Prokka|UBT_2_00361
+11481	12809	gene
+			gene	garB
+			locus_tag	UBT_2_00362
+11481	12809	CDS
+			EC_number	1.8.1.16
+			gene	garB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D0VWY5
+			locus_tag	UBT_2_00362
+			product	Glutathione amide reductase
+			protein_id	gnl|Prokka|UBT_2_00362
+13147	15447	gene
+			gene	helD_2
+			locus_tag	UBT_2_00363
+13147	15447	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG3973
+			gene	helD_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32215
+			locus_tag	UBT_2_00363
+			product	DNA helicase IV
+			protein_id	gnl|Prokka|UBT_2_00363
+15552	16571	gene
+			gene	trpS2_2
+			locus_tag	UBT_2_00364
+15552	16571	CDS
+			EC_number	6.1.1.2
+			db_xref	COG:COG0180
+			gene	trpS2_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RVD6
+			locus_tag	UBT_2_00364
+			product	Tryptophan--tRNA ligase 2
+			protein_id	gnl|Prokka|UBT_2_00364
+16592	17521	gene
+			gene	ppx1_2
+			locus_tag	UBT_2_00365
+16592	17521	CDS
+			EC_number	3.6.1.11
+			db_xref	COG:COG0248
+			gene	ppx1_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WHV5
+			locus_tag	UBT_2_00365
+			product	Exopolyphosphatase 1
+			protein_id	gnl|Prokka|UBT_2_00365
+>Feature gnl|Prokka|UBT_2_21
+446	1435	gene
+			gene	hepT
+			locus_tag	UBT_2_00366
+446	1435	CDS
+			EC_number	2.5.1.30
+			db_xref	COG:COG0142
+			gene	hepT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31114
+			locus_tag	UBT_2_00366
+			product	Heptaprenyl diphosphate synthase component 2
+			protein_id	gnl|Prokka|UBT_2_00366
+2510	1485	gene
+			gene	tsaD
+			locus_tag	UBT_2_00367
+2510	1485	CDS
+			EC_number	2.3.1.234
+			db_xref	COG:COG0533
+			gene	tsaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05518
+			locus_tag	UBT_2_00367
+			product	tRNA N6-adenosine threonylcarbamoyltransferase
+			protein_id	gnl|Prokka|UBT_2_00367
+2964	2512	gene
+			locus_tag	UBT_2_00368
+2964	2512	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00368
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00368
+3547	2942	gene
+			gene	mshD
+			locus_tag	UBT_2_00369
+3547	2942	CDS
+			EC_number	2.3.1.189
+			gene	mshD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01698
+			locus_tag	UBT_2_00369
+			product	Mycothiol acetyltransferase
+			protein_id	gnl|Prokka|UBT_2_00369
+4235	3513	gene
+			gene	tsaB
+			locus_tag	UBT_2_00370
+4235	3513	CDS
+			db_xref	COG:COG1214
+			gene	tsaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05516
+			locus_tag	UBT_2_00370
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+			protein_id	gnl|Prokka|UBT_2_00370
+4803	4426	gene
+			locus_tag	UBT_2_00371
+4803	4426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00371
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00371
+4963	4769	gene
+			locus_tag	UBT_2_00372
+4963	4769	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00372
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00372
+5936	4989	gene
+			locus_tag	UBT_2_00373
+5936	4989	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00373
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00373
+6100	5933	gene
+			locus_tag	UBT_2_00374
+6100	5933	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00374
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00374
+6714	6121	gene
+			locus_tag	UBT_2_00375
+6714	6121	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00375
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00375
+7895	6903	gene
+			gene	galE
+			locus_tag	UBT_2_00376
+7895	6903	CDS
+			EC_number	5.1.3.2
+			db_xref	COG:COG1087
+			gene	galE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7WTB1
+			locus_tag	UBT_2_00376
+			product	UDP-glucose 4-epimerase
+			protein_id	gnl|Prokka|UBT_2_00376
+8681	7938	gene
+			locus_tag	UBT_2_00377
+8681	7938	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00377
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00377
+9556	8681	gene
+			gene	rsmI
+			locus_tag	UBT_2_00378
+9556	8681	CDS
+			EC_number	2.1.1.198
+			db_xref	COG:COG0313
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67087
+			locus_tag	UBT_2_00378
+			product	Ribosomal RNA small subunit methyltransferase I
+			protein_id	gnl|Prokka|UBT_2_00378
+10563	9556	gene
+			locus_tag	UBT_2_00379
+10563	9556	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00379
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00379
+10902	10573	gene
+			gene	darA
+			locus_tag	UBT_2_00380
+10902	10573	CDS
+			db_xref	COG:COG3870
+			gene	darA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37538
+			locus_tag	UBT_2_00380
+			product	Cyclic di-AMP receptor A
+			protein_id	gnl|Prokka|UBT_2_00380
+11560	10916	gene
+			gene	tmk
+			locus_tag	UBT_2_00381
+11560	10916	CDS
+			EC_number	2.7.4.9
+			db_xref	COG:COG0125
+			gene	tmk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97R91
+			locus_tag	UBT_2_00381
+			product	Thymidylate kinase
+			protein_id	gnl|Prokka|UBT_2_00381
+11861	11646	gene
+			locus_tag	UBT_2_00382
+11861	11646	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00382
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00382
+12153	11893	gene
+			locus_tag	UBT_2_00383
+12153	11893	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00383
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00383
+12752	12153	gene
+			gene	recR
+			locus_tag	UBT_2_00384
+12752	12153	CDS
+			db_xref	COG:COG0353
+			gene	recR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CB76
+			locus_tag	UBT_2_00384
+			product	Recombination protein RecR
+			protein_id	gnl|Prokka|UBT_2_00384
+13097	12789	gene
+			locus_tag	UBT_2_00385
+13097	12789	CDS
+			db_xref	COG:COG0718
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67266
+			locus_tag	UBT_2_00385
+			product	Nucleoid-associated protein
+			protein_id	gnl|Prokka|UBT_2_00385
+14927	13128	gene
+			locus_tag	UBT_2_00386
+14927	13128	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00386
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00386
+>Feature gnl|Prokka|UBT_2_22
+>Feature gnl|Prokka|UBT_2_23
+111	29	gene
+			locus_tag	UBT_2_00387
+111	29	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00387
+			product	tRNA-Tyr(gta)
+1623	253	gene
+			gene	xylT
+			locus_tag	UBT_2_00388
+1623	253	CDS
+			gene	xylT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O52733
+			locus_tag	UBT_2_00388
+			product	D-xylose transporter
+			protein_id	gnl|Prokka|UBT_2_00388
+2709	1831	gene
+			gene	gmuE
+			locus_tag	UBT_2_00389
+2709	1831	CDS
+			EC_number	2.7.1.4
+			db_xref	COG:COG1940
+			gene	gmuE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05510
+			locus_tag	UBT_2_00389
+			product	Putative fructokinase
+			protein_id	gnl|Prokka|UBT_2_00389
+3675	2722	gene
+			gene	glcU
+			locus_tag	UBT_2_00390
+3675	2722	CDS
+			db_xref	COG:COG4975
+			gene	glcU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P40420
+			locus_tag	UBT_2_00390
+			product	Glucose uptake protein GlcU
+			protein_id	gnl|Prokka|UBT_2_00390
+5400	3853	gene
+			gene	stp_1
+			locus_tag	UBT_2_00391
+5400	3853	CDS
+			gene	stp_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WG91
+			locus_tag	UBT_2_00391
+			product	Multidrug resistance protein Stp
+			protein_id	gnl|Prokka|UBT_2_00391
+6962	5517	gene
+			gene	dtpT_1
+			locus_tag	UBT_2_00392
+6962	5517	CDS
+			db_xref	COG:COG3104
+			gene	dtpT_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C2U3
+			locus_tag	UBT_2_00392
+			product	Di-/tripeptide transporter
+			protein_id	gnl|Prokka|UBT_2_00392
+7152	7979	gene
+			gene	cpdA_1
+			locus_tag	UBT_2_00393
+7152	7979	CDS
+			EC_number	3.1.4.53
+			gene	cpdA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00905
+			locus_tag	UBT_2_00393
+			product	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+			protein_id	gnl|Prokka|UBT_2_00393
+8038	8122	gene
+			locus_tag	UBT_2_00394
+8038	8122	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00394
+			product	tRNA-Tyr(gta)
+>Feature gnl|Prokka|UBT_2_24
+2483	342	gene
+			locus_tag	UBT_2_00395
+2483	342	CDS
+			EC_number	3.2.1.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:T2KMH0
+			locus_tag	UBT_2_00395
+			product	Beta-xylosidase
+			protein_id	gnl|Prokka|UBT_2_00395
+>Feature gnl|Prokka|UBT_2_25
+111	29	gene
+			locus_tag	UBT_2_00396
+111	29	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00396
+			product	tRNA-Tyr(gta)
+735	199	gene
+			gene	padC
+			locus_tag	UBT_2_00397
+735	199	CDS
+			EC_number	4.1.1.102
+			db_xref	COG:COG3479
+			gene	padC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07006
+			locus_tag	UBT_2_00397
+			product	Phenolic acid decarboxylase PadC
+			protein_id	gnl|Prokka|UBT_2_00397
+835	719	gene
+			locus_tag	UBT_2_00398
+835	719	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00398
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00398
+2402	855	gene
+			gene	stp_2
+			locus_tag	UBT_2_00399
+2402	855	CDS
+			gene	stp_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WG91
+			locus_tag	UBT_2_00399
+			product	Multidrug resistance protein Stp
+			protein_id	gnl|Prokka|UBT_2_00399
+3959	2514	gene
+			gene	dtpT_2
+			locus_tag	UBT_2_00400
+3959	2514	CDS
+			db_xref	COG:COG3104
+			gene	dtpT_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C2U3
+			locus_tag	UBT_2_00400
+			product	Di-/tripeptide transporter
+			protein_id	gnl|Prokka|UBT_2_00400
+4159	4983	gene
+			gene	cpdA_2
+			locus_tag	UBT_2_00401
+4159	4983	CDS
+			EC_number	3.1.4.53
+			gene	cpdA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00905
+			locus_tag	UBT_2_00401
+			product	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+			protein_id	gnl|Prokka|UBT_2_00401
+5043	5127	gene
+			locus_tag	UBT_2_00402
+5043	5127	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00402
+			product	tRNA-Tyr(gta)
+>Feature gnl|Prokka|UBT_2_26
+37	708	gene
+			gene	gpmA_2
+			locus_tag	UBT_2_00403
+37	708	CDS
+			EC_number	5.4.2.11
+			gene	gpmA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B4RIY7
+			locus_tag	UBT_2_00403
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+			protein_id	gnl|Prokka|UBT_2_00403
+815	1153	gene
+			locus_tag	UBT_2_00404
+815	1153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q63F05
+			locus_tag	UBT_2_00404
+			note	UPF0145 protein BCE33L0904
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00404
+1258	2118	gene
+			gene	dat
+			locus_tag	UBT_2_00405
+1258	2118	CDS
+			EC_number	2.6.1.21
+			gene	dat
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19938
+			locus_tag	UBT_2_00405
+			product	D-alanine aminotransferase
+			protein_id	gnl|Prokka|UBT_2_00405
+2208	3047	gene
+			locus_tag	UBT_2_00406
+2208	3047	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00406
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00406
+4155	3103	gene
+			locus_tag	UBT_2_00407
+4155	3103	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00407
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00407
+4561	4232	gene
+			gene	nmtR
+			locus_tag	UBT_2_00408
+4561	4232	CDS
+			gene	nmtR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O69711
+			locus_tag	UBT_2_00408
+			product	HTH-type transcriptional regulator NmtR
+			protein_id	gnl|Prokka|UBT_2_00408
+4707	5336	gene
+			locus_tag	UBT_2_00409
+4707	5336	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00409
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00409
+5384	6790	gene
+			gene	noxE
+			locus_tag	UBT_2_00410
+5384	6790	CDS
+			EC_number	1.6.99.3
+			db_xref	COG:COG0446
+			gene	noxE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RIB7
+			locus_tag	UBT_2_00410
+			product	NADH oxidase
+			protein_id	gnl|Prokka|UBT_2_00410
+7097	8200	gene
+			gene	tmpC_1
+			locus_tag	UBT_2_00411
+7097	8200	CDS
+			db_xref	COG:COG1744
+			gene	tmpC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29724
+			locus_tag	UBT_2_00411
+			product	Membrane lipoprotein TmpC
+			protein_id	gnl|Prokka|UBT_2_00411
+8511	9614	gene
+			gene	tmpC_2
+			locus_tag	UBT_2_00412
+8511	9614	CDS
+			db_xref	COG:COG1744
+			gene	tmpC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29724
+			locus_tag	UBT_2_00412
+			product	Membrane lipoprotein TmpC
+			protein_id	gnl|Prokka|UBT_2_00412
+9982	11058	gene
+			gene	tmpC_3
+			locus_tag	UBT_2_00413
+9982	11058	CDS
+			db_xref	COG:COG1744
+			gene	tmpC_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P29724
+			locus_tag	UBT_2_00413
+			product	Membrane lipoprotein TmpC
+			protein_id	gnl|Prokka|UBT_2_00413
+11281	12831	gene
+			gene	mglA
+			locus_tag	UBT_2_00414
+11281	12831	CDS
+			EC_number	7.5.2.11
+			db_xref	COG:COG1129
+			gene	mglA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23924
+			locus_tag	UBT_2_00414
+			product	Galactose/methyl galactoside import ATP-binding protein MglA
+			protein_id	gnl|Prokka|UBT_2_00414
+12836	13960	gene
+			locus_tag	UBT_2_00415
+12836	13960	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00415
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00415
+13963	14919	gene
+			locus_tag	UBT_2_00416
+13963	14919	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00416
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00416
+15135	17861	gene
+			gene	smc_2
+			locus_tag	UBT_2_00417
+15135	17861	CDS
+			gene	smc_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01894
+			locus_tag	UBT_2_00417
+			product	Chromosome partition protein Smc
+			protein_id	gnl|Prokka|UBT_2_00417
+19296	17932	gene
+			gene	murF
+			locus_tag	UBT_2_00418
+19296	17932	CDS
+			EC_number	6.3.2.10
+			db_xref	COG:COG0770
+			gene	murF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P11880
+			locus_tag	UBT_2_00418
+			product	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+			protein_id	gnl|Prokka|UBT_2_00418
+19447	20436	gene
+			gene	mbl
+			locus_tag	UBT_2_00419
+19447	20436	CDS
+			db_xref	COG:COG1077
+			gene	mbl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39751
+			locus_tag	UBT_2_00419
+			product	Cell shape-determining protein Mbl
+			protein_id	gnl|Prokka|UBT_2_00419
+20439	20648	gene
+			locus_tag	UBT_2_00420
+20439	20648	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00420
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00420
+20668	21864	gene
+			gene	rodA
+			locus_tag	UBT_2_00421
+20668	21864	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	rodA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39604
+			locus_tag	UBT_2_00421
+			product	Peptidoglycan glycosyltransferase RodA
+			protein_id	gnl|Prokka|UBT_2_00421
+22001	22792	gene
+			gene	proC
+			locus_tag	UBT_2_00422
+22001	22792	CDS
+			EC_number	1.5.1.2
+			db_xref	COG:COG0345
+			gene	proC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9L8
+			locus_tag	UBT_2_00422
+			product	Pyrroline-5-carboxylate reductase
+			protein_id	gnl|Prokka|UBT_2_00422
+23075	22827	gene
+			locus_tag	UBT_2_00423
+23075	22827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00423
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00423
+23217	23290	gene
+			locus_tag	UBT_2_00424
+23217	23290	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	UBT_2_00424
+			product	tRNA-Glu(ttc)
+23403	24206	gene
+			gene	ybjI
+			locus_tag	UBT_2_00425
+23403	24206	CDS
+			EC_number	3.1.3.104
+			db_xref	COG:COG0561
+			gene	ybjI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75809
+			locus_tag	UBT_2_00425
+			product	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+			protein_id	gnl|Prokka|UBT_2_00425
+24274	24753	gene
+			gene	adaB
+			locus_tag	UBT_2_00426
+24274	24753	CDS
+			EC_number	2.1.1.63
+			db_xref	COG:COG0350
+			gene	adaB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19220
+			locus_tag	UBT_2_00426
+			product	Methylated-DNA--protein-cysteine methyltransferase, inducible
+			protein_id	gnl|Prokka|UBT_2_00426
+24792	25601	gene
+			gene	ybiV
+			locus_tag	UBT_2_00427
+24792	25601	CDS
+			EC_number	3.1.3.23
+			db_xref	COG:COG0561
+			gene	ybiV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75792
+			locus_tag	UBT_2_00427
+			product	Sugar phosphatase YbiV
+			protein_id	gnl|Prokka|UBT_2_00427
+26257	25610	gene
+			gene	betI
+			locus_tag	UBT_2_00428
+26257	25610	CDS
+			gene	betI
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00768
+			locus_tag	UBT_2_00428
+			product	HTH-type transcriptional regulator BetI
+			protein_id	gnl|Prokka|UBT_2_00428
+26416	28395	gene
+			gene	macB
+			locus_tag	UBT_2_00429
+26416	28395	CDS
+			EC_number	3.6.3.-
+			gene	macB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2EHL8
+			locus_tag	UBT_2_00429
+			product	Macrolide export ATP-binding/permease protein MacB
+			protein_id	gnl|Prokka|UBT_2_00429
+28524	29405	gene
+			gene	hbd
+			locus_tag	UBT_2_00430
+28524	29405	CDS
+			EC_number	1.1.1.157
+			db_xref	COG:COG1250
+			gene	hbd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P52041
+			locus_tag	UBT_2_00430
+			product	3-hydroxybutyryl-CoA dehydrogenase
+			protein_id	gnl|Prokka|UBT_2_00430
+29600	30775	gene
+			gene	nagA
+			locus_tag	UBT_2_00431
+29600	30775	CDS
+			EC_number	3.5.1.25
+			db_xref	COG:COG1820
+			gene	nagA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34450
+			locus_tag	UBT_2_00431
+			product	N-acetylglucosamine-6-phosphate deacetylase
+			protein_id	gnl|Prokka|UBT_2_00431
+30777	31478	gene
+			gene	nagR_2
+			locus_tag	UBT_2_00432
+30777	31478	CDS
+			db_xref	COG:COG2188
+			gene	nagR_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34817
+			locus_tag	UBT_2_00432
+			product	HTH-type transcriptional repressor NagR
+			protein_id	gnl|Prokka|UBT_2_00432
+31607	32107	gene
+			locus_tag	UBT_2_00433
+31607	32107	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00433
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00433
+>Feature gnl|Prokka|UBT_2_27
+28	672	gene
+			locus_tag	UBT_2_00434
+28	672	CDS
+			EC_number	2.7.1.113
+			db_xref	COG:COG1428
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q74HC2
+			locus_tag	UBT_2_00434
+			product	Deoxyguanosine kinase
+			protein_id	gnl|Prokka|UBT_2_00434
+2076	757	gene
+			locus_tag	UBT_2_00435
+2076	757	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00435
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00435
+3962	2457	gene
+			gene	glpK
+			locus_tag	UBT_2_00436
+3962	2457	CDS
+			EC_number	2.7.1.30
+			db_xref	COG:COG0554
+			gene	glpK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34153
+			locus_tag	UBT_2_00436
+			product	Glycerol kinase
+			protein_id	gnl|Prokka|UBT_2_00436
+4241	4056	gene
+			locus_tag	UBT_2_00437
+4241	4056	CDS
+			EC_number	5.3.2.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GH41
+			locus_tag	UBT_2_00437
+			product	putative tautomerase
+			protein_id	gnl|Prokka|UBT_2_00437
+5218	4262	gene
+			locus_tag	UBT_2_00438
+5218	4262	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00438
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00438
+6660	5374	gene
+			gene	gltT
+			locus_tag	UBT_2_00439
+6660	5374	CDS
+			gene	gltT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24944
+			locus_tag	UBT_2_00439
+			product	Proton/sodium-glutamate symport protein
+			protein_id	gnl|Prokka|UBT_2_00439
+7224	6868	gene
+			gene	rplS
+			locus_tag	UBT_2_00440
+7224	6868	CDS
+			db_xref	COG:COG0335
+			gene	rplS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RLS5
+			locus_tag	UBT_2_00440
+			product	50S ribosomal protein L19
+			protein_id	gnl|Prokka|UBT_2_00440
+8086	7349	gene
+			gene	trmD
+			locus_tag	UBT_2_00441
+8086	7349	CDS
+			EC_number	2.1.1.228
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GHJ5
+			locus_tag	UBT_2_00441
+			product	tRNA (guanine-N(1)-)-methyltransferase
+			protein_id	gnl|Prokka|UBT_2_00441
+8592	8089	gene
+			gene	rimM
+			locus_tag	UBT_2_00442
+8592	8089	CDS
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66656
+			locus_tag	UBT_2_00442
+			product	Ribosome maturation factor RimM
+			protein_id	gnl|Prokka|UBT_2_00442
+8757	9425	gene
+			gene	gpmA_3
+			locus_tag	UBT_2_00443
+8757	9425	CDS
+			EC_number	5.4.2.11
+			gene	gpmA_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:B4RIY7
+			locus_tag	UBT_2_00443
+			product	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+			protein_id	gnl|Prokka|UBT_2_00443
+9599	9465	gene
+			locus_tag	UBT_2_00444
+9599	9465	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00444
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00444
+10405	9602	gene
+			locus_tag	UBT_2_00445
+10405	9602	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00445
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00445
+>Feature gnl|Prokka|UBT_2_28
+2628	463	gene
+			gene	ltaS1_1
+			locus_tag	UBT_2_00446
+2628	463	CDS
+			db_xref	COG:COG1368
+			gene	ltaS1_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q797B3
+			locus_tag	UBT_2_00446
+			product	Lipoteichoic acid synthase 1
+			protein_id	gnl|Prokka|UBT_2_00446
+3005	2751	gene
+			locus_tag	UBT_2_00447
+3005	2751	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00447
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00447
+4018	3008	gene
+			locus_tag	UBT_2_00448
+4018	3008	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00448
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00448
+5054	4023	gene
+			gene	cpoA
+			locus_tag	UBT_2_00449
+5054	4023	CDS
+			EC_number	2.4.1.-
+			db_xref	COG:COG0438
+			gene	cpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DPV9
+			locus_tag	UBT_2_00449
+			product	Alpha-galactosylglucosyldiacylglycerol synthase
+			protein_id	gnl|Prokka|UBT_2_00449
+6298	5054	gene
+			locus_tag	UBT_2_00450
+6298	5054	CDS
+			EC_number	2.4.1.337
+			db_xref	COG:COG0438
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8CWR6
+			locus_tag	UBT_2_00450
+			product	Alpha-monoglucosyldiacylglycerol synthase
+			protein_id	gnl|Prokka|UBT_2_00450
+7674	7033	gene
+			gene	pyrE
+			locus_tag	UBT_2_00451
+7674	7033	CDS
+			EC_number	2.4.2.10
+			db_xref	COG:COG0461
+			gene	pyrE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q81WF6
+			locus_tag	UBT_2_00451
+			product	Orotate phosphoribosyltransferase
+			protein_id	gnl|Prokka|UBT_2_00451
+8404	7691	gene
+			gene	pyrF
+			locus_tag	UBT_2_00452
+8404	7691	CDS
+			EC_number	4.1.1.23
+			db_xref	COG:COG0284
+			gene	pyrF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CB75
+			locus_tag	UBT_2_00452
+			product	Orotidine 5'-phosphate decarboxylase
+			protein_id	gnl|Prokka|UBT_2_00452
+9379	8408	gene
+			gene	pyrDB
+			locus_tag	UBT_2_00453
+9379	8408	CDS
+			EC_number	1.3.1.14
+			db_xref	COG:COG0167
+			gene	pyrDB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54322
+			locus_tag	UBT_2_00453
+			product	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+			protein_id	gnl|Prokka|UBT_2_00453
+12616	9437	gene
+			gene	carB
+			locus_tag	UBT_2_00454
+12616	9437	CDS
+			EC_number	6.3.5.5
+			db_xref	COG:COG0458
+			gene	carB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32771
+			locus_tag	UBT_2_00454
+			product	Carbamoyl-phosphate synthase large chain
+			protein_id	gnl|Prokka|UBT_2_00454
+13691	12609	gene
+			gene	carA
+			locus_tag	UBT_2_00455
+13691	12609	CDS
+			EC_number	6.3.5.5
+			gene	carA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99147
+			locus_tag	UBT_2_00455
+			product	Carbamoyl-phosphate synthase small chain
+			protein_id	gnl|Prokka|UBT_2_00455
+14979	13702	gene
+			gene	pyrC
+			locus_tag	UBT_2_00456
+14979	13702	CDS
+			EC_number	3.5.2.3
+			gene	pyrC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65906
+			locus_tag	UBT_2_00456
+			product	Dihydroorotase
+			protein_id	gnl|Prokka|UBT_2_00456
+15883	14981	gene
+			gene	pyrB
+			locus_tag	UBT_2_00457
+15883	14981	CDS
+			EC_number	2.1.3.2
+			db_xref	COG:COG0540
+			gene	pyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05654
+			locus_tag	UBT_2_00457
+			product	Aspartate carbamoyltransferase
+			protein_id	gnl|Prokka|UBT_2_00457
+17123	16821	gene
+			locus_tag	UBT_2_00458
+17123	16821	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00458
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00458
+19111	17249	gene
+			locus_tag	UBT_2_00459
+19111	17249	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00459
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00459
+19260	19364	gene
+			locus_tag	UBT_2_00460
+19260	19364	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00460
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00460
+21224	19401	gene
+			locus_tag	UBT_2_00461
+21224	19401	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00461
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00461
+21633	21319	gene
+			locus_tag	UBT_2_00462
+21633	21319	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00462
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00462
+22994	21636	gene
+			gene	glmM
+			locus_tag	UBT_2_00463
+22994	21636	CDS
+			EC_number	5.4.2.10
+			db_xref	COG:COG1109
+			gene	glmM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34824
+			locus_tag	UBT_2_00463
+			product	Phosphoglucosamine mutase
+			protein_id	gnl|Prokka|UBT_2_00463
+23978	22998	gene
+			locus_tag	UBT_2_00464
+23978	22998	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00464
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00464
+24813	23980	gene
+			gene	dacA
+			locus_tag	UBT_2_00465
+24813	23980	CDS
+			EC_number	2.7.7.85
+			db_xref	COG:COG1624
+			gene	dacA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8Y5E4
+			locus_tag	UBT_2_00465
+			product	Diadenylate cyclase
+			protein_id	gnl|Prokka|UBT_2_00465
+26879	24822	gene
+			gene	nhaK
+			locus_tag	UBT_2_00466
+26879	24822	CDS
+			db_xref	COG:COG0025
+			gene	nhaK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32212
+			locus_tag	UBT_2_00466
+			product	Sodium, potassium, lithium and rubidium/H(+) antiporter
+			protein_id	gnl|Prokka|UBT_2_00466
+27799	26906	gene
+			gene	murB
+			locus_tag	UBT_2_00467
+27799	26906	CDS
+			EC_number	1.3.1.98
+			db_xref	COG:COG0812
+			gene	murB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61431
+			locus_tag	UBT_2_00467
+			product	UDP-N-acetylenolpyruvoylglucosamine reductase
+			protein_id	gnl|Prokka|UBT_2_00467
+28346	27813	gene
+			gene	polC
+			locus_tag	UBT_2_00468
+28346	27813	CDS
+			EC_number	2.7.7.7
+			db_xref	COG:COG2176
+			gene	polC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P13267
+			locus_tag	UBT_2_00468
+			product	DNA polymerase III PolC-type
+			protein_id	gnl|Prokka|UBT_2_00468
+28878	28366	gene
+			gene	aaaT
+			locus_tag	UBT_2_00469
+28878	28366	CDS
+			EC_number	2.3.1.-
+			db_xref	COG:COG0454
+			gene	aaaT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46854
+			locus_tag	UBT_2_00469
+			product	L-amino acid N-acetyltransferase AaaT
+			protein_id	gnl|Prokka|UBT_2_00469
+29339	28878	gene
+			gene	tsaE
+			locus_tag	UBT_2_00470
+29339	28878	CDS
+			db_xref	COG:COG0802
+			gene	tsaE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05515
+			locus_tag	UBT_2_00470
+			product	tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+			protein_id	gnl|Prokka|UBT_2_00470
+30484	29507	gene
+			gene	pta
+			locus_tag	UBT_2_00471
+30484	29507	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39646
+			locus_tag	UBT_2_00471
+			product	Phosphate acetyltransferase
+			protein_id	gnl|Prokka|UBT_2_00471
+31224	30595	gene
+			gene	ung
+			locus_tag	UBT_2_00472
+31224	30595	CDS
+			EC_number	3.2.2.27
+			db_xref	COG:COG0692
+			gene	ung
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39615
+			locus_tag	UBT_2_00472
+			product	Uracil-DNA glycosylase
+			protein_id	gnl|Prokka|UBT_2_00472
+31319	31909	gene
+			locus_tag	UBT_2_00473
+31319	31909	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00473
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00473
+32060	32383	gene
+			locus_tag	UBT_2_00474
+32060	32383	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00474
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00474
+32385	32699	gene
+			gene	gdnD
+			locus_tag	UBT_2_00475
+32385	32699	CDS
+			db_xref	COG:COG2076
+			gene	gdnD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P49857
+			locus_tag	UBT_2_00475
+			product	putative guanidinium efflux system subunit GdnD
+			protein_id	gnl|Prokka|UBT_2_00475
+33500	32763	gene
+			gene	glnQ
+			locus_tag	UBT_2_00476
+33500	32763	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1126
+			gene	glnQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34677
+			locus_tag	UBT_2_00476
+			product	Glutamine transport ATP-binding protein GlnQ
+			protein_id	gnl|Prokka|UBT_2_00476
+34948	33500	gene
+			gene	mltF
+			locus_tag	UBT_2_00477
+34948	33500	CDS
+			EC_number	4.2.2.-
+			gene	mltF
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02016
+			locus_tag	UBT_2_00477
+			product	Membrane-bound lytic murein transglycosylase F
+			protein_id	gnl|Prokka|UBT_2_00477
+35570	35103	gene
+			gene	smpB
+			locus_tag	UBT_2_00478
+35570	35103	CDS
+			db_xref	COG:COG0691
+			gene	smpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32230
+			locus_tag	UBT_2_00478
+			product	SsrA-binding protein
+			protein_id	gnl|Prokka|UBT_2_00478
+37971	35614	gene
+			gene	rnr
+			locus_tag	UBT_2_00479
+37971	35614	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG0557
+			gene	rnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32231
+			locus_tag	UBT_2_00479
+			product	Ribonuclease R
+			protein_id	gnl|Prokka|UBT_2_00479
+38281	38045	gene
+			gene	secG
+			locus_tag	UBT_2_00480
+38281	38045	CDS
+			db_xref	COG:COG1314
+			gene	secG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32233
+			locus_tag	UBT_2_00480
+			product	putative protein-export membrane protein SecG
+			protein_id	gnl|Prokka|UBT_2_00480
+39073	38426	gene
+			gene	ribZ
+			locus_tag	UBT_2_00481
+39073	38426	CDS
+			gene	ribZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q180E3
+			locus_tag	UBT_2_00481
+			product	Riboflavin transporter RibZ
+			protein_id	gnl|Prokka|UBT_2_00481
+39846	39070	gene
+			gene	mdtD
+			locus_tag	UBT_2_00482
+39846	39070	CDS
+			gene	mdtD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01577
+			locus_tag	UBT_2_00482
+			product	Putative multidrug resistance protein MdtD
+			protein_id	gnl|Prokka|UBT_2_00482
+41477	40101	gene
+			gene	mdlY
+			locus_tag	UBT_2_00483
+41477	40101	CDS
+			EC_number	3.5.1.86
+			gene	mdlY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q84DC4
+			locus_tag	UBT_2_00483
+			product	Mandelamide hydrolase
+			protein_id	gnl|Prokka|UBT_2_00483
+42207	41623	gene
+			gene	eno
+			locus_tag	UBT_2_00484
+42207	41623	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97QS2
+			locus_tag	UBT_2_00484
+			product	Enolase
+			protein_id	gnl|Prokka|UBT_2_00484
+>Feature gnl|Prokka|UBT_2_29
+2727	190	gene
+			gene	recD2
+			locus_tag	UBT_2_00485
+2727	190	CDS
+			EC_number	3.6.4.12
+			db_xref	COG:COG0507
+			gene	recD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RT63
+			locus_tag	UBT_2_00485
+			product	ATP-dependent RecD-like DNA helicase
+			protein_id	gnl|Prokka|UBT_2_00485
+3376	2708	gene
+			locus_tag	UBT_2_00486
+3376	2708	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00486
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00486
+4059	3397	gene
+			gene	pspA
+			locus_tag	UBT_2_00487
+4059	3397	CDS
+			EC_number	3.1.3.3
+			db_xref	COG:COG0406
+			gene	pspA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:D3DFG8
+			locus_tag	UBT_2_00487
+			product	Phosphoserine phosphatase 1
+			protein_id	gnl|Prokka|UBT_2_00487
+5233	4283	gene
+			gene	ileS
+			locus_tag	UBT_2_00488
+5233	4283	CDS
+			EC_number	6.1.1.5
+			db_xref	COG:COG0060
+			gene	ileS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41972
+			locus_tag	UBT_2_00488
+			product	Isoleucine--tRNA ligase
+			protein_id	gnl|Prokka|UBT_2_00488
+>Feature gnl|Prokka|UBT_2_30
+1057	353	gene
+			gene	cobB
+			locus_tag	UBT_2_00489
+1057	353	CDS
+			EC_number	2.3.1.286
+			db_xref	COG:COG0846
+			gene	cobB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66815
+			locus_tag	UBT_2_00489
+			product	NAD-dependent protein deacetylase
+			protein_id	gnl|Prokka|UBT_2_00489
+2044	1085	gene
+			locus_tag	UBT_2_00490
+2044	1085	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00490
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00490
+3321	2065	gene
+			gene	mvaA
+			locus_tag	UBT_2_00491
+3321	2065	CDS
+			EC_number	1.1.1.88
+			gene	mvaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P13702
+			locus_tag	UBT_2_00491
+			product	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+			protein_id	gnl|Prokka|UBT_2_00491
+3875	3423	gene
+			locus_tag	UBT_2_00492
+3875	3423	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00492
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00492
+6184	4013	gene
+			gene	ltaS1_2
+			locus_tag	UBT_2_00493
+6184	4013	CDS
+			db_xref	COG:COG1368
+			gene	ltaS1_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q797B3
+			locus_tag	UBT_2_00493
+			product	Lipoteichoic acid synthase 1
+			protein_id	gnl|Prokka|UBT_2_00493
+6364	6810	gene
+			locus_tag	UBT_2_00494
+6364	6810	CDS
+			EC_number	2.3.1.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5HH30
+			locus_tag	UBT_2_00494
+			product	Acetyltransferase
+			protein_id	gnl|Prokka|UBT_2_00494
+7836	6865	gene
+			locus_tag	UBT_2_00495
+7836	6865	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00495
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00495
+10729	8132	gene
+			gene	gyrA
+			locus_tag	UBT_2_00496
+10729	8132	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0188
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DPM2
+			locus_tag	UBT_2_00496
+			product	DNA gyrase subunit A
+			protein_id	gnl|Prokka|UBT_2_00496
+12719	10773	gene
+			gene	gyrB
+			locus_tag	UBT_2_00497
+12719	10773	CDS
+			EC_number	5.6.2.2
+			db_xref	COG:COG0187
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q839Z1
+			locus_tag	UBT_2_00497
+			product	DNA gyrase subunit B
+			protein_id	gnl|Prokka|UBT_2_00497
+13885	12740	gene
+			gene	recF
+			locus_tag	UBT_2_00498
+13885	12740	CDS
+			db_xref	COG:COG1195
+			gene	recF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8RDL3
+			locus_tag	UBT_2_00498
+			product	DNA replication and repair protein RecF
+			protein_id	gnl|Prokka|UBT_2_00498
+14118	13885	gene
+			locus_tag	UBT_2_00499
+14118	13885	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	UBT_2_00499
+			product	hypothetical protein
+			protein_id	gnl|Prokka|UBT_2_00499
+15447	14317	gene
+			gene	dnaN
+			locus_tag	UBT_2_00500
+15447	14317	CDS
+			db_xref	COG:COG0592
+			gene	dnaN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05649
+			locus_tag	UBT_2_00500
+			product	Beta sliding clamp
+			protein_id	gnl|Prokka|UBT_2_00500
+17068	15662	gene
+			gene	dnaA
+			locus_tag	UBT_2_00501
+17068	15662	CDS
+			db_xref	COG:COG0593
+			gene	dnaA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P05648
+			locus_tag	UBT_2_00501
+			product	Chromosomal replication initiator protein DnaA
+			protein_id	gnl|Prokka|UBT_2_00501

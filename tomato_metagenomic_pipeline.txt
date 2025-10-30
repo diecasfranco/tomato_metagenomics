@@ -184,8 +184,6 @@ deepurify clean -i MAGs/ -o clean_MAGs/ --bin_suffix fa
 
 ### annotation MAGs bakta & prokka
 
-for file in *fa; do SampleName=`basename $file .fa`; bakta "$SampleName".fa --complete --translation-table 11 --keep-contig-headers --compliant --threads 20 --output bakta/bakta_"$SampleName"; done
-
 for file in *fa; do sample=`basename $file .fa`; prokka "$sample".fa --outdir prokka/prokka_"$sample" --prefix "$sample" --compliant --cpus 40; done
 
 

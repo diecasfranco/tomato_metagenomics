@@ -1,6 +1,0 @@
-Name	Completeness	Contamination	Completeness_Model_Used	Translation_Table_Used	Coding_Density	Contig_N50	Average_Gene_Length	Genome_Size	GC_Content	Total_Coding_Sequences	Total_Contigs	Max_Contig_Length	Additional_Notes
-Deepurify_Bin_0	78.64	5.98	Neural Network (Specific Model)	11	0.885	59653	304.0627431906615	2116374	0.45	2056	59	134173	None
-Deepurify_Bin_1	71.61	6.49	Neural Network (Specific Model)	11	0.888	45573	313.621875	1694157	0.45	1600	51	147247	None
-Deepurify_Bin_2	100.0	0.08	Neural Network (Specific Model)	11	0.906	255145	302.23387549074596	1780475	0.39	1783	20	641292	None
-Deepurify_Bin_3	74.46	0.31	Neural Network (Specific Model)	11	0.915	16258	303.57358490566037	1316908	0.4	1325	121	54705	None
-Deepurify_Bin_4	65.18	8.83	Neural Network (Specific Model)	11	0.892	42238	316.54767726161367	1304602	0.45	1227	48	147247	None

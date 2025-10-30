@@ -1,0 +1,4766 @@
+>Feature gnl|Prokka|FOM_8_1
+467	84	gene
+			gene	rplQ
+			locus_tag	FOM_8_00001
+467	84	CDS
+			gene	rplQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P07843
+			locus_tag	FOM_8_00001
+			product	50S ribosomal protein L17
+			protein_id	gnl|Prokka|FOM_8_00001
+1442	498	gene
+			gene	rpoA
+			locus_tag	FOM_8_00002
+1442	498	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0202
+			gene	rpoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P20429
+			locus_tag	FOM_8_00002
+			product	DNA-directed RNA polymerase subunit alpha
+			protein_id	gnl|Prokka|FOM_8_00002
+1923	1537	gene
+			gene	rpsK
+			locus_tag	FOM_8_00003
+1923	1537	CDS
+			gene	rpsK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66357
+			locus_tag	FOM_8_00003
+			product	30S ribosomal protein S11
+			protein_id	gnl|Prokka|FOM_8_00003
+2321	1956	gene
+			gene	rpsM
+			locus_tag	FOM_8_00004
+2321	1956	CDS
+			db_xref	COG:COG0099
+			gene	rpsM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNM9
+			locus_tag	FOM_8_00004
+			product	30S ribosomal protein S13
+			protein_id	gnl|Prokka|FOM_8_00004
+2504	2385	gene
+			gene	rpmJ
+			locus_tag	FOM_8_00005
+2504	2385	CDS
+			db_xref	COG:COG0257
+			gene	rpmJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNN0
+			locus_tag	FOM_8_00005
+			product	50S ribosomal protein L36
+			protein_id	gnl|Prokka|FOM_8_00005
+2748	2533	gene
+			gene	infA
+			locus_tag	FOM_8_00006
+2748	2533	CDS
+			gene	infA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65119
+			locus_tag	FOM_8_00006
+			product	Translation initiation factor IF-1
+			protein_id	gnl|Prokka|FOM_8_00006
+3457	2897	gene
+			gene	adk
+			locus_tag	FOM_8_00007
+3457	2897	CDS
+			EC_number	2.7.4.3
+			gene	adk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27142
+			locus_tag	FOM_8_00007
+			product	Adenylate kinase
+			protein_id	gnl|Prokka|FOM_8_00007
+4765	3461	gene
+			gene	secY_1
+			locus_tag	FOM_8_00008
+4765	3461	CDS
+			gene	secY_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A468
+			locus_tag	FOM_8_00008
+			product	Protein translocase subunit SecY
+			protein_id	gnl|Prokka|FOM_8_00008
+5199	4765	gene
+			gene	rplO
+			locus_tag	FOM_8_00009
+5199	4765	CDS
+			gene	rplO
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0F6
+			locus_tag	FOM_8_00009
+			product	50S ribosomal protein L15
+			protein_id	gnl|Prokka|FOM_8_00009
+5416	5234	gene
+			gene	rpmD
+			locus_tag	FOM_8_00010
+5416	5234	CDS
+			db_xref	COG:COG1841
+			gene	rpmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNN5
+			locus_tag	FOM_8_00010
+			product	50S ribosomal protein L30
+			protein_id	gnl|Prokka|FOM_8_00010
+5935	5432	gene
+			gene	rpsE
+			locus_tag	FOM_8_00011
+5935	5432	CDS
+			gene	rpsE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02357
+			locus_tag	FOM_8_00011
+			product	30S ribosomal protein S5
+			protein_id	gnl|Prokka|FOM_8_00011
+6312	5956	gene
+			gene	rplR
+			locus_tag	FOM_8_00012
+6312	5956	CDS
+			db_xref	COG:COG0256
+			gene	rplR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P46899
+			locus_tag	FOM_8_00012
+			product	50S ribosomal protein L18
+			protein_id	gnl|Prokka|FOM_8_00012
+6901	6365	gene
+			gene	rplF
+			locus_tag	FOM_8_00013
+6901	6365	CDS
+			db_xref	COG:COG0097
+			gene	rplF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNN8
+			locus_tag	FOM_8_00013
+			product	50S ribosomal protein L6
+			protein_id	gnl|Prokka|FOM_8_00013
+7333	6935	gene
+			gene	rpsH
+			locus_tag	FOM_8_00014
+7333	6935	CDS
+			db_xref	COG:COG0096
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12879
+			locus_tag	FOM_8_00014
+			product	30S ribosomal protein S8
+			protein_id	gnl|Prokka|FOM_8_00014
+7578	7393	gene
+			gene	rpsZ
+			locus_tag	FOM_8_00015
+7578	7393	CDS
+			db_xref	COG:COG0199
+			gene	rpsZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNP2
+			locus_tag	FOM_8_00015
+			product	30S ribosomal protein S14 type Z
+			protein_id	gnl|Prokka|FOM_8_00015
+8138	7596	gene
+			gene	rplE
+			locus_tag	FOM_8_00016
+8138	7596	CDS
+			db_xref	COG:COG0094
+			gene	rplE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNP3
+			locus_tag	FOM_8_00016
+			product	50S ribosomal protein L5
+			protein_id	gnl|Prokka|FOM_8_00016
+8479	8171	gene
+			gene	rplX
+			locus_tag	FOM_8_00017
+8479	8171	CDS
+			gene	rplX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04455
+			locus_tag	FOM_8_00017
+			product	50S ribosomal protein L24
+			protein_id	gnl|Prokka|FOM_8_00017
+8887	8519	gene
+			gene	rplN
+			locus_tag	FOM_8_00018
+8887	8519	CDS
+			db_xref	COG:COG0093
+			gene	rplN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A473
+			locus_tag	FOM_8_00018
+			product	50S ribosomal protein L14
+			protein_id	gnl|Prokka|FOM_8_00018
+9214	8948	gene
+			gene	rpsQ
+			locus_tag	FOM_8_00019
+9214	8948	CDS
+			db_xref	COG:COG0186
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P12874
+			locus_tag	FOM_8_00019
+			product	30S ribosomal protein S17
+			protein_id	gnl|Prokka|FOM_8_00019
+9432	9238	gene
+			gene	rpmC
+			locus_tag	FOM_8_00020
+9432	9238	CDS
+			gene	rpmC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04457
+			locus_tag	FOM_8_00020
+			product	50S ribosomal protein L29
+			protein_id	gnl|Prokka|FOM_8_00020
+9854	9435	gene
+			gene	rplP
+			locus_tag	FOM_8_00021
+9854	9435	CDS
+			db_xref	COG:COG0197
+			gene	rplP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A475
+			locus_tag	FOM_8_00021
+			product	50S ribosomal protein L16
+			protein_id	gnl|Prokka|FOM_8_00021
+10506	9856	gene
+			gene	rpsC
+			locus_tag	FOM_8_00022
+10506	9856	CDS
+			db_xref	COG:COG0092
+			gene	rpsC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNP9
+			locus_tag	FOM_8_00022
+			product	30S ribosomal protein S3
+			protein_id	gnl|Prokka|FOM_8_00022
+10871	10521	gene
+			gene	rplV
+			locus_tag	FOM_8_00023
+10871	10521	CDS
+			db_xref	COG:COG0091
+			gene	rplV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P61182
+			locus_tag	FOM_8_00023
+			product	50S ribosomal protein L22
+			protein_id	gnl|Prokka|FOM_8_00023
+11172	10891	gene
+			gene	rpsS
+			locus_tag	FOM_8_00024
+11172	10891	CDS
+			db_xref	COG:COG0185
+			gene	rpsS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RNQ1
+			locus_tag	FOM_8_00024
+			product	30S ribosomal protein S19
+			protein_id	gnl|Prokka|FOM_8_00024
+12051	11218	gene
+			gene	rplB
+			locus_tag	FOM_8_00025
+12051	11218	CDS
+			gene	rplB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P60432
+			locus_tag	FOM_8_00025
+			product	50S ribosomal protein L2
+			protein_id	gnl|Prokka|FOM_8_00025
+12363	12076	gene
+			gene	rplW
+			locus_tag	FOM_8_00026
+12363	12076	CDS
+			gene	rplW
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04454
+			locus_tag	FOM_8_00026
+			product	50S ribosomal protein L23
+			protein_id	gnl|Prokka|FOM_8_00026
+12986	12363	gene
+			gene	rplD
+			locus_tag	FOM_8_00027
+12986	12363	CDS
+			db_xref	COG:COG0088
+			gene	rplD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42921
+			locus_tag	FOM_8_00027
+			product	50S ribosomal protein L4
+			protein_id	gnl|Prokka|FOM_8_00027
+13635	13009	gene
+			gene	rplC
+			locus_tag	FOM_8_00028
+13635	13009	CDS
+			db_xref	COG:COG0087
+			gene	rplC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42920
+			locus_tag	FOM_8_00028
+			product	50S ribosomal protein L3
+			protein_id	gnl|Prokka|FOM_8_00028
+13926	13693	gene
+			gene	rpsJ
+			locus_tag	FOM_8_00029
+13926	13693	CDS
+			db_xref	COG:COG0051
+			gene	rpsJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21471
+			locus_tag	FOM_8_00029
+			product	30S ribosomal protein S10
+			protein_id	gnl|Prokka|FOM_8_00029
+>Feature gnl|Prokka|FOM_8_2
+>Feature gnl|Prokka|FOM_8_3
+1751	1584	gene
+			locus_tag	FOM_8_00030
+1751	1584	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00030
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00030
+>Feature gnl|Prokka|FOM_8_4
+>Feature gnl|Prokka|FOM_8_5
+1	333	gene
+			gene	mbl
+			locus_tag	FOM_8_00031
+1	333	CDS
+			db_xref	COG:COG1077
+			gene	mbl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39751
+			locus_tag	FOM_8_00031
+			product	Cell shape-determining protein Mbl
+			protein_id	gnl|Prokka|FOM_8_00031
+335	544	gene
+			locus_tag	FOM_8_00032
+335	544	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00032
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00032
+609	1826	gene
+			gene	rodA
+			locus_tag	FOM_8_00033
+609	1826	CDS
+			EC_number	2.4.1.129
+			db_xref	COG:COG0772
+			gene	rodA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39604
+			locus_tag	FOM_8_00033
+			product	Peptidoglycan glycosyltransferase RodA
+			protein_id	gnl|Prokka|FOM_8_00033
+1826	2833	gene
+			locus_tag	FOM_8_00034
+1826	2833	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00034
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00034
+2892	4025	gene
+			gene	ddl
+			locus_tag	FOM_8_00035
+2892	4025	CDS
+			EC_number	6.3.2.4
+			db_xref	COG:COG1181
+			gene	ddl
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03ZI1
+			locus_tag	FOM_8_00035
+			product	D-alanine--D-alanine ligase
+			protein_id	gnl|Prokka|FOM_8_00035
+>Feature gnl|Prokka|FOM_8_6
+244	1158	gene
+			gene	galT
+			locus_tag	FOM_8_00036
+244	1158	CDS
+			EC_number	2.7.7.12
+			gene	galT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:E8MF11
+			locus_tag	FOM_8_00036
+			product	Galactose-1-phosphate uridylyltransferase
+			protein_id	gnl|Prokka|FOM_8_00036
+>Feature gnl|Prokka|FOM_8_7
+1163	612	gene
+			locus_tag	FOM_8_00037
+1163	612	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00037
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00037
+>Feature gnl|Prokka|FOM_8_8
+546	322	gene
+			locus_tag	FOM_8_00038
+546	322	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00038
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00038
+1724	711	gene
+			gene	gap
+			locus_tag	FOM_8_00039
+1724	711	CDS
+			EC_number	1.2.1.12
+			gene	gap
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59309
+			locus_tag	FOM_8_00039
+			product	Glyceraldehyde-3-phosphate dehydrogenase
+			protein_id	gnl|Prokka|FOM_8_00039
+1839	2693	gene
+			gene	rhaR
+			locus_tag	FOM_8_00040
+1839	2693	CDS
+			gene	rhaR
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01533
+			locus_tag	FOM_8_00040
+			product	HTH-type transcriptional activator RhaR
+			protein_id	gnl|Prokka|FOM_8_00040
+>Feature gnl|Prokka|FOM_8_9
+847	158	gene
+			gene	nanE
+			locus_tag	FOM_8_00041
+847	158	CDS
+			EC_number	5.1.3.9
+			db_xref	COG:COG3010
+			gene	nanE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65522
+			locus_tag	FOM_8_00041
+			product	Putative N-acetylmannosamine-6-phosphate 2-epimerase
+			protein_id	gnl|Prokka|FOM_8_00041
+>Feature gnl|Prokka|FOM_8_10
+117	566	gene
+			locus_tag	FOM_8_00042
+117	566	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00042
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00042
+841	689	gene
+			locus_tag	FOM_8_00043
+841	689	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00043
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00043
+>Feature gnl|Prokka|FOM_8_11
+1	411	gene
+			locus_tag	FOM_8_00044
+1	411	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00044
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00044
+421	993	gene
+			gene	xpt
+			locus_tag	FOM_8_00045
+421	993	CDS
+			EC_number	2.4.2.22
+			db_xref	COG:COG0503
+			gene	xpt
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q831Y0
+			locus_tag	FOM_8_00045
+			product	Xanthine phosphoribosyltransferase
+			protein_id	gnl|Prokka|FOM_8_00045
+>Feature gnl|Prokka|FOM_8_12
+8	865	gene
+			gene	yfcJ
+			locus_tag	FOM_8_00046
+8	865	CDS
+			gene	yfcJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02091
+			locus_tag	FOM_8_00046
+			product	putative MFS-type transporter YfcJ
+			protein_id	gnl|Prokka|FOM_8_00046
+1580	900	gene
+			gene	yutF
+			locus_tag	FOM_8_00047
+1580	900	CDS
+			EC_number	3.1.3.-
+			db_xref	COG:COG0647
+			gene	yutF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32125
+			locus_tag	FOM_8_00047
+			product	Acid sugar phosphatase
+			protein_id	gnl|Prokka|FOM_8_00047
+>Feature gnl|Prokka|FOM_8_13
+13	759	gene
+			gene	pepF1_1
+			locus_tag	FOM_8_00048
+13	759	CDS
+			EC_number	3.4.24.-
+			gene	pepF1_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54124
+			locus_tag	FOM_8_00048
+			product	Oligoendopeptidase F, plasmid
+			protein_id	gnl|Prokka|FOM_8_00048
+831	1151	gene
+			gene	cdd
+			locus_tag	FOM_8_00049
+831	1151	CDS
+			EC_number	3.5.4.5
+			db_xref	COG:COG0295
+			gene	cdd
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19079
+			locus_tag	FOM_8_00049
+			product	Cytidine deaminase
+			protein_id	gnl|Prokka|FOM_8_00049
+1277	2197	gene
+			gene	ghrB
+			locus_tag	FOM_8_00050
+1277	2197	CDS
+			EC_number	1.1.1.81
+			gene	ghrB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01667
+			locus_tag	FOM_8_00050
+			product	Glyoxylate/hydroxypyruvate reductase B
+			protein_id	gnl|Prokka|FOM_8_00050
+>Feature gnl|Prokka|FOM_8_14
+>Feature gnl|Prokka|FOM_8_15
+357	1808	gene
+			gene	dtpT
+			locus_tag	FOM_8_00051
+357	1808	CDS
+			db_xref	COG:COG3104
+			gene	dtpT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0C2U3
+			locus_tag	FOM_8_00051
+			product	Di-/tripeptide transporter
+			protein_id	gnl|Prokka|FOM_8_00051
+2425	1835	gene
+			locus_tag	FOM_8_00052
+2425	1835	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00052
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00052
+2827	2426	gene
+			locus_tag	FOM_8_00053
+2827	2426	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00053
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00053
+3364	2954	gene
+			gene	rny
+			locus_tag	FOM_8_00054
+3364	2954	CDS
+			EC_number	3.1.-.-
+			gene	rny
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67278
+			locus_tag	FOM_8_00054
+			product	Ribonuclease Y
+			protein_id	gnl|Prokka|FOM_8_00054
+>Feature gnl|Prokka|FOM_8_16
+31	927	gene
+			locus_tag	FOM_8_00055
+31	927	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00055
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00055
+>Feature gnl|Prokka|FOM_8_17
+16	846	gene
+			locus_tag	FOM_8_00056
+16	846	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00056
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00056
+856	1329	gene
+			locus_tag	FOM_8_00057
+856	1329	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00057
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00057
+>Feature gnl|Prokka|FOM_8_18
+147	377	gene
+			locus_tag	FOM_8_00058
+147	377	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00058
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00058
+>Feature gnl|Prokka|FOM_8_19
+12	452	gene
+			locus_tag	FOM_8_00059
+12	452	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00059
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00059
+427	807	gene
+			locus_tag	FOM_8_00060
+427	807	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00060
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00060
+934	1458	gene
+			locus_tag	FOM_8_00061
+934	1458	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00061
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00061
+>Feature gnl|Prokka|FOM_8_20
+67	234	gene
+			locus_tag	FOM_8_00062
+67	234	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00062
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00062
+234	359	gene
+			locus_tag	FOM_8_00063
+234	359	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00063
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00063
+362	535	gene
+			locus_tag	FOM_8_00064
+362	535	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00064
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00064
+535	729	gene
+			locus_tag	FOM_8_00065
+535	729	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00065
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00065
+722	910	gene
+			locus_tag	FOM_8_00066
+722	910	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00066
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00066
+994	1407	gene
+			locus_tag	FOM_8_00067
+994	1407	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00067
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00067
+1942	2481	gene
+			locus_tag	FOM_8_00068
+1942	2481	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00068
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00068
+>Feature gnl|Prokka|FOM_8_21
+1300	626	gene
+			gene	mutY
+			locus_tag	FOM_8_00069
+1300	626	CDS
+			EC_number	3.2.2.31
+			db_xref	COG:COG1194
+			gene	mutY
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31584
+			locus_tag	FOM_8_00069
+			product	Adenine DNA glycosylase
+			protein_id	gnl|Prokka|FOM_8_00069
+>Feature gnl|Prokka|FOM_8_22
+48	302	gene
+			locus_tag	FOM_8_00070
+48	302	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00070
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00070
+475	957	gene
+			locus_tag	FOM_8_00071
+475	957	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00071
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00071
+947	2827	gene
+			locus_tag	FOM_8_00072
+947	2827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00072
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00072
+2766	3029	gene
+			locus_tag	FOM_8_00073
+2766	3029	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00073
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00073
+3036	4199	gene
+			locus_tag	FOM_8_00074
+3036	4199	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00074
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00074
+4186	4887	gene
+			gene	clpP_1
+			locus_tag	FOM_8_00075
+4186	4887	CDS
+			EC_number	3.4.21.92
+			gene	clpP_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00444
+			locus_tag	FOM_8_00075
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gnl|Prokka|FOM_8_00075
+4907	6130	gene
+			locus_tag	FOM_8_00076
+4907	6130	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00076
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00076
+6147	6464	gene
+			locus_tag	FOM_8_00077
+6147	6464	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00077
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00077
+6451	6789	gene
+			locus_tag	FOM_8_00078
+6451	6789	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00078
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00078
+6793	7218	gene
+			locus_tag	FOM_8_00079
+6793	7218	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00079
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00079
+7215	7304	gene
+			locus_tag	FOM_8_00080
+7215	7304	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00080
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00080
+7329	7586	gene
+			locus_tag	FOM_8_00081
+7329	7586	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00081
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00081
+7605	8228	gene
+			locus_tag	FOM_8_00082
+7605	8228	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00082
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00082
+8325	8708	gene
+			locus_tag	FOM_8_00083
+8325	8708	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00083
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00083
+8753	8896	gene
+			locus_tag	FOM_8_00084
+8753	8896	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00084
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00084
+>Feature gnl|Prokka|FOM_8_23
+4	750	gene
+			gene	hag_1
+			locus_tag	FOM_8_00085
+4	750	CDS
+			db_xref	COG:COG1344
+			gene	hag_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02968
+			locus_tag	FOM_8_00085
+			product	Flagellin
+			protein_id	gnl|Prokka|FOM_8_00085
+1002	2540	gene
+			locus_tag	FOM_8_00086
+1002	2540	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00086
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00086
+>Feature gnl|Prokka|FOM_8_24
+965	654	gene
+			gene	aroF
+			locus_tag	FOM_8_00087
+965	654	CDS
+			EC_number	2.5.1.54
+			db_xref	COG:COG2876
+			gene	aroF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WYH8
+			locus_tag	FOM_8_00087
+			product	Phospho-2-dehydro-3-deoxyheptonate aldolase
+			protein_id	gnl|Prokka|FOM_8_00087
+>Feature gnl|Prokka|FOM_8_25
+2116	1175	gene
+			gene	potA
+			locus_tag	FOM_8_00088
+2116	1175	CDS
+			EC_number	7.6.2.11
+			db_xref	COG:COG3842
+			gene	potA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69874
+			locus_tag	FOM_8_00088
+			product	Spermidine/putrescine import ATP-binding protein PotA
+			protein_id	gnl|Prokka|FOM_8_00088
+>Feature gnl|Prokka|FOM_8_26
+>Feature gnl|Prokka|FOM_8_27
+3733	1226	gene
+			locus_tag	FOM_8_00089
+3733	1226	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00089
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00089
+4170	3787	gene
+			locus_tag	FOM_8_00090
+4170	3787	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00090
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00090
+6109	4178	gene
+			locus_tag	FOM_8_00091
+6109	4178	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00091
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00091
+>Feature gnl|Prokka|FOM_8_28
+>Feature gnl|Prokka|FOM_8_29
+64	1290	gene
+			locus_tag	FOM_8_00092
+64	1290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00092
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00092
+>Feature gnl|Prokka|FOM_8_30
+17	934	gene
+			locus_tag	FOM_8_00093
+17	934	CDS
+			EC_number	2.4.1.7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59495
+			locus_tag	FOM_8_00093
+			product	Sucrose phosphorylase
+			protein_id	gnl|Prokka|FOM_8_00093
+>Feature gnl|Prokka|FOM_8_31
+1751	1584	gene
+			locus_tag	FOM_8_00094
+1751	1584	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00094
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00094
+>Feature gnl|Prokka|FOM_8_32
+>Feature gnl|Prokka|FOM_8_33
+166	1329	gene
+			locus_tag	FOM_8_00095
+166	1329	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00095
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00095
+1496	1410	gene
+			locus_tag	FOM_8_00096
+1496	1410	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	FOM_8_00096
+			product	tRNA-Leu(caa)
+1894	1589	gene
+			gene	nmtR
+			locus_tag	FOM_8_00097
+1894	1589	CDS
+			gene	nmtR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O69711
+			locus_tag	FOM_8_00097
+			product	HTH-type transcriptional regulator NmtR
+			protein_id	gnl|Prokka|FOM_8_00097
+>Feature gnl|Prokka|FOM_8_34
+19	258	gene
+			locus_tag	FOM_8_00098
+19	258	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00098
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00098
+273	1019	gene
+			locus_tag	FOM_8_00099
+273	1019	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00099
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00099
+1012	1263	gene
+			locus_tag	FOM_8_00100
+1012	1263	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00100
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00100
+1318	1698	gene
+			locus_tag	FOM_8_00101
+1318	1698	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00101
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00101
+2127	1741	gene
+			locus_tag	FOM_8_00102
+2127	1741	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00102
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00102
+>Feature gnl|Prokka|FOM_8_35
+>Feature gnl|Prokka|FOM_8_36
+1259	117	gene
+			locus_tag	FOM_8_00103
+1259	117	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00103
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00103
+>Feature gnl|Prokka|FOM_8_37
+189	386	gene
+			gene	thiS
+			locus_tag	FOM_8_00104
+189	386	CDS
+			db_xref	COG:COG2104
+			gene	thiS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O31617
+			locus_tag	FOM_8_00104
+			product	Sulfur carrier protein ThiS
+			protein_id	gnl|Prokka|FOM_8_00104
+399	1043	gene
+			locus_tag	FOM_8_00105
+399	1043	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00105
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00105
+1058	1834	gene
+			gene	thiG
+			locus_tag	FOM_8_00106
+1058	1834	CDS
+			EC_number	2.8.1.10
+			db_xref	COG:COG2022
+			gene	thiG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SKG7
+			locus_tag	FOM_8_00106
+			product	Thiazole synthase
+			protein_id	gnl|Prokka|FOM_8_00106
+1831	2004	gene
+			locus_tag	FOM_8_00107
+1831	2004	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00107
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00107
+2667	2422	gene
+			locus_tag	FOM_8_00108
+2667	2422	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00108
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00108
+>Feature gnl|Prokka|FOM_8_38
+311	1504	gene
+			gene	trpB
+			locus_tag	FOM_8_00109
+311	1504	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0133
+			gene	trpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97P32
+			locus_tag	FOM_8_00109
+			product	Tryptophan synthase beta chain
+			protein_id	gnl|Prokka|FOM_8_00109
+1497	2522	gene
+			gene	trpD
+			locus_tag	FOM_8_00110
+1497	2522	CDS
+			EC_number	2.4.2.18
+			db_xref	COG:COG0547
+			gene	trpD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8PD71
+			locus_tag	FOM_8_00110
+			product	Anthranilate phosphoribosyltransferase
+			protein_id	gnl|Prokka|FOM_8_00110
+2519	3316	gene
+			gene	trpC
+			locus_tag	FOM_8_00111
+2519	3316	CDS
+			EC_number	4.1.1.48
+			db_xref	COG:COG0134
+			gene	trpC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9PI11
+			locus_tag	FOM_8_00111
+			product	Indole-3-glycerol phosphate synthase
+			protein_id	gnl|Prokka|FOM_8_00111
+3322	3906	gene
+			gene	trpF
+			locus_tag	FOM_8_00112
+3322	3906	CDS
+			EC_number	5.3.1.24
+			db_xref	COG:COG0135
+			gene	trpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q56320
+			locus_tag	FOM_8_00112
+			product	N-(5'-phosphoribosyl)anthranilate isomerase
+			protein_id	gnl|Prokka|FOM_8_00112
+3894	4670	gene
+			gene	trpA
+			locus_tag	FOM_8_00113
+3894	4670	CDS
+			EC_number	4.2.1.20
+			db_xref	COG:COG0159
+			gene	trpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9PIF1
+			locus_tag	FOM_8_00113
+			product	Tryptophan synthase alpha chain
+			protein_id	gnl|Prokka|FOM_8_00113
+4657	6021	gene
+			gene	trpE
+			locus_tag	FOM_8_00114
+4657	6021	CDS
+			EC_number	4.1.3.27
+			db_xref	COG:COG0147
+			gene	trpE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P20580
+			locus_tag	FOM_8_00114
+			product	Anthranilate synthase component 1
+			protein_id	gnl|Prokka|FOM_8_00114
+6018	6605	gene
+			gene	pabA
+			locus_tag	FOM_8_00115
+6018	6605	CDS
+			EC_number	2.6.1.85
+			db_xref	COG:COG0512
+			gene	pabA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28819
+			locus_tag	FOM_8_00115
+			product	Aminodeoxychorismate/anthranilate synthase component 2
+			protein_id	gnl|Prokka|FOM_8_00115
+>Feature gnl|Prokka|FOM_8_39
+948	478	gene
+			gene	rsmI
+			locus_tag	FOM_8_00116
+948	478	CDS
+			EC_number	2.1.1.198
+			gene	rsmI
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01877
+			locus_tag	FOM_8_00116
+			product	Ribosomal RNA small subunit methyltransferase I
+			protein_id	gnl|Prokka|FOM_8_00116
+>Feature gnl|Prokka|FOM_8_40
+900	1022	gene
+			locus_tag	FOM_8_00117
+900	1022	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00117
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00117
+>Feature gnl|Prokka|FOM_8_41
+61	1203	gene
+			gene	hsdR
+			locus_tag	FOM_8_00118
+61	1203	CDS
+			EC_number	3.1.21.3
+			gene	hsdR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A801
+			locus_tag	FOM_8_00118
+			product	Type-1 restriction enzyme R protein
+			protein_id	gnl|Prokka|FOM_8_00118
+1220	1444	gene
+			locus_tag	FOM_8_00119
+1220	1444	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00119
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00119
+>Feature gnl|Prokka|FOM_8_42
+512	33	gene
+			locus_tag	FOM_8_00120
+512	33	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00120
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00120
+1128	880	gene
+			gene	acpP_1
+			locus_tag	FOM_8_00121
+1128	880	CDS
+			gene	acpP_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q0T5U2
+			locus_tag	FOM_8_00121
+			product	Acyl carrier protein
+			protein_id	gnl|Prokka|FOM_8_00121
+>Feature gnl|Prokka|FOM_8_43
+1445	12	gene
+			gene	prkC
+			locus_tag	FOM_8_00122
+1445	12	CDS
+			EC_number	2.7.11.1
+			db_xref	COG:COG0515
+			gene	prkC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34507
+			locus_tag	FOM_8_00122
+			product	Serine/threonine-protein kinase PrkC
+			protein_id	gnl|Prokka|FOM_8_00122
+>Feature gnl|Prokka|FOM_8_44
+903	397	gene
+			gene	rplJ
+			locus_tag	FOM_8_00123
+903	397	CDS
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XCB5
+			locus_tag	FOM_8_00123
+			product	50S ribosomal protein L10
+			protein_id	gnl|Prokka|FOM_8_00123
+1813	1121	gene
+			gene	rplA
+			locus_tag	FOM_8_00124
+1813	1121	CDS
+			gene	rplA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q99W68
+			locus_tag	FOM_8_00124
+			product	50S ribosomal protein L1
+			protein_id	gnl|Prokka|FOM_8_00124
+2336	1911	gene
+			gene	rplK
+			locus_tag	FOM_8_00125
+2336	1911	CDS
+			gene	rplK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A0F2
+			locus_tag	FOM_8_00125
+			product	50S ribosomal protein L11
+			protein_id	gnl|Prokka|FOM_8_00125
+>Feature gnl|Prokka|FOM_8_45
+39	272	gene
+			locus_tag	FOM_8_00126
+39	272	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00126
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00126
+355	738	gene
+			locus_tag	FOM_8_00127
+355	738	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00127
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00127
+893	1384	gene
+			locus_tag	FOM_8_00128
+893	1384	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00128
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00128
+>Feature gnl|Prokka|FOM_8_46
+732	301	gene
+			gene	fabZ
+			locus_tag	FOM_8_00129
+732	301	CDS
+			EC_number	4.2.1.59
+			gene	fabZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A1VXZ7
+			locus_tag	FOM_8_00129
+			product	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+			protein_id	gnl|Prokka|FOM_8_00129
+1010	810	gene
+			gene	accB
+			locus_tag	FOM_8_00130
+1010	810	CDS
+			db_xref	COG:COG0511
+			gene	accB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q06881
+			locus_tag	FOM_8_00130
+			product	Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+			protein_id	gnl|Prokka|FOM_8_00130
+>Feature gnl|Prokka|FOM_8_47
+103	846	gene
+			gene	ecsA
+			locus_tag	FOM_8_00131
+103	846	CDS
+			db_xref	COG:COG1131
+			gene	ecsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P55339
+			locus_tag	FOM_8_00131
+			product	ABC-type transporter ATP-binding protein EcsA
+			protein_id	gnl|Prokka|FOM_8_00131
+>Feature gnl|Prokka|FOM_8_48
+975	154	gene
+			gene	ecfA1
+			locus_tag	FOM_8_00132
+975	154	CDS
+			EC_number	7.-.-.-
+			db_xref	COG:COG1122
+			gene	ecfA1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03ZL6
+			locus_tag	FOM_8_00132
+			product	Energy-coupling factor transporter ATP-binding protein EcfA1
+			protein_id	gnl|Prokka|FOM_8_00132
+>Feature gnl|Prokka|FOM_8_49
+58	1632	gene
+			locus_tag	FOM_8_00133
+58	1632	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00133
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00133
+>Feature gnl|Prokka|FOM_8_50
+650	150	gene
+			locus_tag	FOM_8_00134
+650	150	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00134
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00134
+>Feature gnl|Prokka|FOM_8_51
+650	141	gene
+			locus_tag	FOM_8_00135
+650	141	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00135
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00135
+>Feature gnl|Prokka|FOM_8_52
+16	381	gene
+			gene	folB_1
+			locus_tag	FOM_8_00136
+16	381	CDS
+			EC_number	4.1.2.25
+			db_xref	COG:COG1539
+			gene	folB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56740
+			locus_tag	FOM_8_00136
+			product	Dihydroneopterin aldolase
+			protein_id	gnl|Prokka|FOM_8_00136
+374	877	gene
+			locus_tag	FOM_8_00137
+374	877	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00137
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00137
+870	1439	gene
+			gene	folE_1
+			locus_tag	FOM_8_00138
+870	1439	CDS
+			EC_number	3.5.4.16
+			db_xref	COG:COG0302
+			gene	folE_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19465
+			locus_tag	FOM_8_00138
+			product	GTP cyclohydrolase 1
+			protein_id	gnl|Prokka|FOM_8_00138
+1455	2051	gene
+			locus_tag	FOM_8_00139
+1455	2051	CDS
+			EC_number	3.6.1.66
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99094
+			locus_tag	FOM_8_00139
+			product	dITP/XTP pyrophosphatase
+			protein_id	gnl|Prokka|FOM_8_00139
+>Feature gnl|Prokka|FOM_8_53
+1150	623	gene
+			locus_tag	FOM_8_00140
+1150	623	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00140
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00140
+>Feature gnl|Prokka|FOM_8_54
+53	940	gene
+			locus_tag	FOM_8_00141
+53	940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00141
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00141
+>Feature gnl|Prokka|FOM_8_55
+>Feature gnl|Prokka|FOM_8_56
+52	10557	gene
+			locus_tag	FOM_8_00142
+52	10557	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00142
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00142
+10788	12149	gene
+			gene	gtfA_1
+			locus_tag	FOM_8_00143
+10788	12149	CDS
+			EC_number	2.4.1.-
+			gene	gtfA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01472
+			locus_tag	FOM_8_00143
+			product	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+			protein_id	gnl|Prokka|FOM_8_00143
+12130	12741	gene
+			locus_tag	FOM_8_00144
+12130	12741	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00144
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00144
+13017	15053	gene
+			gene	recG
+			locus_tag	FOM_8_00145
+13017	15053	CDS
+			EC_number	3.6.4.12
+			gene	recG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64325
+			locus_tag	FOM_8_00145
+			product	ATP-dependent DNA helicase RecG
+			protein_id	gnl|Prokka|FOM_8_00145
+15153	16211	gene
+			gene	plsX
+			locus_tag	FOM_8_00146
+15153	16211	CDS
+			EC_number	2.3.1.274
+			db_xref	COG:COG0416
+			gene	plsX
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q82ZE8
+			locus_tag	FOM_8_00146
+			product	Phosphate acyltransferase
+			protein_id	gnl|Prokka|FOM_8_00146
+16256	16495	gene
+			gene	acpP_2
+			locus_tag	FOM_8_00147
+16256	16495	CDS
+			db_xref	COG:COG0236
+			gene	acpP_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5SL79
+			locus_tag	FOM_8_00147
+			product	Acyl carrier protein
+			protein_id	gnl|Prokka|FOM_8_00147
+16671	17369	gene
+			gene	rnc
+			locus_tag	FOM_8_00148
+16671	17369	CDS
+			EC_number	3.1.26.3
+			db_xref	COG:COG0571
+			gene	rnc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66670
+			locus_tag	FOM_8_00148
+			product	Ribonuclease 3
+			protein_id	gnl|Prokka|FOM_8_00148
+17379	20936	gene
+			gene	smc
+			locus_tag	FOM_8_00149
+17379	20936	CDS
+			db_xref	COG:COG1196
+			gene	smc
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P51834
+			locus_tag	FOM_8_00149
+			product	Chromosome partition protein Smc
+			protein_id	gnl|Prokka|FOM_8_00149
+20950	22152	gene
+			gene	ftsY
+			locus_tag	FOM_8_00150
+20950	22152	CDS
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00920
+			locus_tag	FOM_8_00150
+			product	Signal recognition particle receptor FtsY
+			protein_id	gnl|Prokka|FOM_8_00150
+22152	22493	gene
+			locus_tag	FOM_8_00151
+22152	22493	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97QD1
+			locus_tag	FOM_8_00151
+			note	UPF0122 protein SP_1288
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00151
+22497	23963	gene
+			gene	ffh
+			locus_tag	FOM_8_00152
+22497	23963	CDS
+			db_xref	COG:COG0541
+			gene	ffh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37105
+			locus_tag	FOM_8_00152
+			product	Signal recognition particle protein
+			protein_id	gnl|Prokka|FOM_8_00152
+23968	24105	gene
+			locus_tag	FOM_8_00153
+23968	24105	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00153
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00153
+24500	24706	gene
+			locus_tag	FOM_8_00154
+24500	24706	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00154
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00154
+24725	25276	gene
+			locus_tag	FOM_8_00155
+24725	25276	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00155
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00155
+>Feature gnl|Prokka|FOM_8_57
+127	558	gene
+			locus_tag	FOM_8_00156
+127	558	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00156
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00156
+>Feature gnl|Prokka|FOM_8_58
+1456	809	gene
+			gene	atpA_1
+			locus_tag	FOM_8_00157
+1456	809	CDS
+			EC_number	7.1.2.2
+			db_xref	COG:COG0056
+			gene	atpA_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5FKY2
+			locus_tag	FOM_8_00157
+			product	ATP synthase subunit alpha
+			protein_id	gnl|Prokka|FOM_8_00157
+>Feature gnl|Prokka|FOM_8_59
+2	1075	gene
+			gene	ezrA
+			locus_tag	FOM_8_00158
+2	1075	CDS
+			gene	ezrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64003
+			locus_tag	FOM_8_00158
+			product	Septation ring formation regulator EzrA
+			protein_id	gnl|Prokka|FOM_8_00158
+2456	1122	gene
+			gene	yhdG
+			locus_tag	FOM_8_00159
+2456	1122	CDS
+			db_xref	COG:COG0531
+			gene	yhdG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07576
+			locus_tag	FOM_8_00159
+			product	putative amino acid permease YhdG
+			protein_id	gnl|Prokka|FOM_8_00159
+>Feature gnl|Prokka|FOM_8_60
+26	1237	gene
+			gene	nrdE2
+			locus_tag	FOM_8_00160
+26	1237	CDS
+			EC_number	1.17.4.1
+			db_xref	COG:COG0209
+			gene	nrdE2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0CH00
+			locus_tag	FOM_8_00160
+			product	Ribonucleoside-diphosphate reductase subunit alpha 2
+			protein_id	gnl|Prokka|FOM_8_00160
+>Feature gnl|Prokka|FOM_8_61
+>Feature gnl|Prokka|FOM_8_62
+350	811	gene
+			gene	infC
+			locus_tag	FOM_8_00161
+350	811	CDS
+			gene	infC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P03000
+			locus_tag	FOM_8_00161
+			product	Translation initiation factor IF-3
+			protein_id	gnl|Prokka|FOM_8_00161
+>Feature gnl|Prokka|FOM_8_63
+>Feature gnl|Prokka|FOM_8_64
+360	797	gene
+			locus_tag	FOM_8_00162
+360	797	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00162
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00162
+>Feature gnl|Prokka|FOM_8_65
+>Feature gnl|Prokka|FOM_8_66
+1508	699	gene
+			locus_tag	FOM_8_00163
+1508	699	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00163
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00163
+>Feature gnl|Prokka|FOM_8_67
+32	679	gene
+			locus_tag	FOM_8_00164
+32	679	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00164
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00164
+>Feature gnl|Prokka|FOM_8_68
+1812	1237	gene
+			locus_tag	FOM_8_00165
+1812	1237	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00165
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00165
+>Feature gnl|Prokka|FOM_8_69
+67	234	gene
+			locus_tag	FOM_8_00166
+67	234	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00166
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00166
+234	368	gene
+			locus_tag	FOM_8_00167
+234	368	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00167
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00167
+368	958	gene
+			locus_tag	FOM_8_00168
+368	958	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00168
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00168
+955	1305	gene
+			locus_tag	FOM_8_00169
+955	1305	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00169
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00169
+>Feature gnl|Prokka|FOM_8_70
+34	633	gene
+			locus_tag	FOM_8_00170
+34	633	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00170
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00170
+>Feature gnl|Prokka|FOM_8_71
+531	758	gene
+			locus_tag	FOM_8_00171
+531	758	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00171
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00171
+778	1530	gene
+			locus_tag	FOM_8_00172
+778	1530	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00172
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00172
+1550	1759	gene
+			locus_tag	FOM_8_00173
+1550	1759	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00173
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00173
+1765	2001	gene
+			locus_tag	FOM_8_00174
+1765	2001	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00174
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00174
+1998	2162	gene
+			locus_tag	FOM_8_00175
+1998	2162	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00175
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00175
+2149	2373	gene
+			locus_tag	FOM_8_00176
+2149	2373	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00176
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00176
+2363	2551	gene
+			locus_tag	FOM_8_00177
+2363	2551	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00177
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00177
+2541	3068	gene
+			locus_tag	FOM_8_00178
+2541	3068	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00178
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00178
+3149	3292	gene
+			locus_tag	FOM_8_00179
+3149	3292	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00179
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00179
+3285	3380	gene
+			locus_tag	FOM_8_00180
+3285	3380	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00180
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00180
+>Feature gnl|Prokka|FOM_8_72
+15	1451	gene
+			gene	norG
+			locus_tag	FOM_8_00181
+15	1451	CDS
+			db_xref	COG:COG1167
+			gene	norG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q2G1P1
+			locus_tag	FOM_8_00181
+			product	HTH-type transcriptional regulator NorG
+			protein_id	gnl|Prokka|FOM_8_00181
+1515	2255	gene
+			locus_tag	FOM_8_00182
+1515	2255	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00182
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00182
+2733	2987	gene
+			locus_tag	FOM_8_00183
+2733	2987	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00183
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00183
+3410	3141	gene
+			gene	gyrA
+			locus_tag	FOM_8_00184
+3410	3141	CDS
+			EC_number	5.6.2.2
+			gene	gyrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01897
+			locus_tag	FOM_8_00184
+			product	DNA gyrase subunit A
+			protein_id	gnl|Prokka|FOM_8_00184
+>Feature gnl|Prokka|FOM_8_73
+10	231	gene
+			gene	darA
+			locus_tag	FOM_8_00185
+10	231	CDS
+			db_xref	COG:COG3870
+			gene	darA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37538
+			locus_tag	FOM_8_00185
+			product	Cyclic di-AMP receptor A
+			protein_id	gnl|Prokka|FOM_8_00185
+>Feature gnl|Prokka|FOM_8_74
+979	527	gene
+			gene	rplI
+			locus_tag	FOM_8_00186
+979	527	CDS
+			gene	rplI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02417
+			locus_tag	FOM_8_00186
+			product	50S ribosomal protein L9
+			protein_id	gnl|Prokka|FOM_8_00186
+1893	1015	gene
+			gene	gdpP
+			locus_tag	FOM_8_00187
+1893	1015	CDS
+			EC_number	3.1.4.59
+			db_xref	COG:COG3887
+			gene	gdpP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A4ITV2
+			locus_tag	FOM_8_00187
+			product	Cyclic-di-AMP phosphodiesterase GdpP
+			protein_id	gnl|Prokka|FOM_8_00187
+>Feature gnl|Prokka|FOM_8_75
+96	1070	gene
+			gene	flgL
+			locus_tag	FOM_8_00188
+96	1070	CDS
+			db_xref	COG:COG1344
+			gene	flgL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P16326
+			locus_tag	FOM_8_00188
+			product	Flagellar hook-associated protein 3
+			protein_id	gnl|Prokka|FOM_8_00188
+>Feature gnl|Prokka|FOM_8_76
+74	451	gene
+			locus_tag	FOM_8_00189
+74	451	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00189
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00189
+577	503	gene
+			locus_tag	FOM_8_00190
+577	503	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	FOM_8_00190
+			product	tRNA-Arg(ccg)
+988	596	gene
+			locus_tag	FOM_8_00191
+988	596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00191
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00191
+>Feature gnl|Prokka|FOM_8_77
+1134	67	gene
+			gene	mprF
+			locus_tag	FOM_8_00192
+1134	67	CDS
+			EC_number	2.3.2.3
+			gene	mprF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:C0H3X7
+			locus_tag	FOM_8_00192
+			product	Phosphatidylglycerol lysyltransferase
+			protein_id	gnl|Prokka|FOM_8_00192
+>Feature gnl|Prokka|FOM_8_78
+763	92	gene
+			gene	nnr
+			locus_tag	FOM_8_00193
+763	92	CDS
+			db_xref	COG:COG0062
+			gene	nnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31806
+			locus_tag	FOM_8_00193
+			product	Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+			protein_id	gnl|Prokka|FOM_8_00193
+>Feature gnl|Prokka|FOM_8_79
+1313	765	gene
+			gene	lemA
+			locus_tag	FOM_8_00194
+1313	765	CDS
+			db_xref	COG:COG1704
+			gene	lemA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A8AVK0
+			locus_tag	FOM_8_00194
+			product	Protein LemA
+			protein_id	gnl|Prokka|FOM_8_00194
+>Feature gnl|Prokka|FOM_8_80
+649	275	gene
+			gene	rimI
+			locus_tag	FOM_8_00195
+649	275	CDS
+			EC_number	2.3.1.255
+			db_xref	COG:COG0456
+			gene	rimI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:I6YG32
+			locus_tag	FOM_8_00195
+			product	N-alpha-acetyltransferase RimI
+			protein_id	gnl|Prokka|FOM_8_00195
+1217	660	gene
+			locus_tag	FOM_8_00196
+1217	660	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00196
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00196
+>Feature gnl|Prokka|FOM_8_81
+>Feature gnl|Prokka|FOM_8_82
+>Feature gnl|Prokka|FOM_8_83
+28	693	gene
+			locus_tag	FOM_8_00197
+28	693	CDS
+			EC_number	2.1.1.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A794
+			locus_tag	FOM_8_00197
+			product	Putative TrmH family tRNA/rRNA methyltransferase
+			protein_id	gnl|Prokka|FOM_8_00197
+>Feature gnl|Prokka|FOM_8_84
+>Feature gnl|Prokka|FOM_8_85
+858	508	gene
+			locus_tag	FOM_8_00198
+858	508	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00198
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00198
+1243	866	gene
+			locus_tag	FOM_8_00199
+1243	866	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00199
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00199
+>Feature gnl|Prokka|FOM_8_86
+>Feature gnl|Prokka|FOM_8_87
+856	350	gene
+			locus_tag	FOM_8_00200
+856	350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00200
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00200
+1422	868	gene
+			locus_tag	FOM_8_00201
+1422	868	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00201
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00201
+>Feature gnl|Prokka|FOM_8_88
+>Feature gnl|Prokka|FOM_8_89
+48	290	gene
+			locus_tag	FOM_8_00202
+48	290	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00202
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00202
+475	957	gene
+			locus_tag	FOM_8_00203
+475	957	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00203
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00203
+947	2827	gene
+			locus_tag	FOM_8_00204
+947	2827	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00204
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00204
+3036	4199	gene
+			locus_tag	FOM_8_00205
+3036	4199	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00205
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00205
+4186	4887	gene
+			gene	clpP_2
+			locus_tag	FOM_8_00206
+4186	4887	CDS
+			EC_number	3.4.21.92
+			gene	clpP_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00444
+			locus_tag	FOM_8_00206
+			product	ATP-dependent Clp protease proteolytic subunit
+			protein_id	gnl|Prokka|FOM_8_00206
+4907	6133	gene
+			locus_tag	FOM_8_00207
+4907	6133	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00207
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00207
+6156	6473	gene
+			locus_tag	FOM_8_00208
+6156	6473	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00208
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00208
+6460	6798	gene
+			locus_tag	FOM_8_00209
+6460	6798	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00209
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00209
+6802	7245	gene
+			locus_tag	FOM_8_00210
+6802	7245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00210
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00210
+7242	7613	gene
+			locus_tag	FOM_8_00211
+7242	7613	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00211
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00211
+7641	8264	gene
+			locus_tag	FOM_8_00212
+7641	8264	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00212
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00212
+8358	8741	gene
+			locus_tag	FOM_8_00213
+8358	8741	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00213
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00213
+8786	8929	gene
+			locus_tag	FOM_8_00214
+8786	8929	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00214
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00214
+>Feature gnl|Prokka|FOM_8_90
+>Feature gnl|Prokka|FOM_8_91
+2226	1294	gene
+			gene	tdh
+			locus_tag	FOM_8_00215
+2226	1294	CDS
+			EC_number	1.1.1.103
+			gene	tdh
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00627
+			locus_tag	FOM_8_00215
+			product	L-threonine 3-dehydrogenase
+			protein_id	gnl|Prokka|FOM_8_00215
+2395	2207	gene
+			locus_tag	FOM_8_00216
+2395	2207	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00216
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00216
+>Feature gnl|Prokka|FOM_8_92
+2	400	gene
+			gene	iolU
+			locus_tag	FOM_8_00217
+2	400	CDS
+			EC_number	1.1.1.371
+			db_xref	COG:COG0673
+			gene	iolU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05265
+			locus_tag	FOM_8_00217
+			product	scyllo-inositol 2-dehydrogenase (NADP(+)) IolU
+			protein_id	gnl|Prokka|FOM_8_00217
+404	1708	gene
+			gene	deaD
+			locus_tag	FOM_8_00218
+404	1708	CDS
+			EC_number	3.6.4.13
+			gene	deaD
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00964
+			locus_tag	FOM_8_00218
+			product	ATP-dependent RNA helicase DeaD
+			protein_id	gnl|Prokka|FOM_8_00218
+>Feature gnl|Prokka|FOM_8_93
+429	887	gene
+			locus_tag	FOM_8_00219
+429	887	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00219
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00219
+1792	1493	gene
+			locus_tag	FOM_8_00220
+1792	1493	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00220
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00220
+>Feature gnl|Prokka|FOM_8_94
+983	111	gene
+			locus_tag	FOM_8_00221
+983	111	CDS
+			EC_number	5.1.3.21
+			db_xref	COG:COG2017
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q03PA4
+			locus_tag	FOM_8_00221
+			product	Maltose epimerase
+			protein_id	gnl|Prokka|FOM_8_00221
+>Feature gnl|Prokka|FOM_8_95
+>Feature gnl|Prokka|FOM_8_96
+>Feature gnl|Prokka|FOM_8_97
+1067	75	gene
+			locus_tag	FOM_8_00222
+1067	75	CDS
+			EC_number	2.4.1.7
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q59495
+			locus_tag	FOM_8_00222
+			product	Sucrose phosphorylase
+			protein_id	gnl|Prokka|FOM_8_00222
+>Feature gnl|Prokka|FOM_8_98
+850	302	gene
+			locus_tag	FOM_8_00223
+850	302	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00223
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00223
+1241	852	gene
+			locus_tag	FOM_8_00224
+1241	852	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00224
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00224
+>Feature gnl|Prokka|FOM_8_99
+1250	516	gene
+			gene	ftsK_1
+			locus_tag	FOM_8_00225
+1250	516	CDS
+			db_xref	COG:COG1674
+			gene	ftsK_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RJB8
+			locus_tag	FOM_8_00225
+			product	DNA translocase FtsK
+			protein_id	gnl|Prokka|FOM_8_00225
+>Feature gnl|Prokka|FOM_8_100
+174	1163	gene
+			gene	pta
+			locus_tag	FOM_8_00226
+174	1163	CDS
+			EC_number	2.3.1.8
+			db_xref	COG:COG0280
+			gene	pta
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39646
+			locus_tag	FOM_8_00226
+			product	Phosphate acetyltransferase
+			protein_id	gnl|Prokka|FOM_8_00226
+>Feature gnl|Prokka|FOM_8_101
+18	392	gene
+			gene	proB
+			locus_tag	FOM_8_00227
+18	392	CDS
+			EC_number	2.7.2.11
+			db_xref	COG:COG0263
+			gene	proB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A7B5
+			locus_tag	FOM_8_00227
+			product	Glutamate 5-kinase
+			protein_id	gnl|Prokka|FOM_8_00227
+398	1645	gene
+			gene	proA
+			locus_tag	FOM_8_00228
+398	1645	CDS
+			EC_number	1.2.1.41
+			db_xref	COG:COG0014
+			gene	proA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9WYC9
+			locus_tag	FOM_8_00228
+			product	Gamma-glutamyl phosphate reductase
+			protein_id	gnl|Prokka|FOM_8_00228
+2063	1680	gene
+			gene	rihB
+			locus_tag	FOM_8_00229
+2063	1680	CDS
+			EC_number	3.2.2.8
+			db_xref	COG:COG1957
+			gene	rihB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33022
+			locus_tag	FOM_8_00229
+			product	Pyrimidine-specific ribonucleoside hydrolase RihB
+			protein_id	gnl|Prokka|FOM_8_00229
+>Feature gnl|Prokka|FOM_8_102
+1268	1014	gene
+			locus_tag	FOM_8_00230
+1268	1014	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00230
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00230
+>Feature gnl|Prokka|FOM_8_103
+61	1125	gene
+			gene	hisS
+			locus_tag	FOM_8_00231
+61	1125	CDS
+			EC_number	6.1.1.21
+			gene	hisS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P30053
+			locus_tag	FOM_8_00231
+			product	Histidine--tRNA ligase
+			protein_id	gnl|Prokka|FOM_8_00231
+1136	2941	gene
+			gene	aspS
+			locus_tag	FOM_8_00232
+1136	2941	CDS
+			EC_number	6.1.1.12
+			gene	aspS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67015
+			locus_tag	FOM_8_00232
+			product	Aspartate--tRNA ligase
+			protein_id	gnl|Prokka|FOM_8_00232
+>Feature gnl|Prokka|FOM_8_104
+28	465	gene
+			locus_tag	FOM_8_00233
+28	465	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00233
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00233
+1637	804	gene
+			gene	gtfB
+			locus_tag	FOM_8_00234
+1637	804	CDS
+			gene	gtfB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01473
+			locus_tag	FOM_8_00234
+			product	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase stabilizing protein GtfB
+			protein_id	gnl|Prokka|FOM_8_00234
+1915	1634	gene
+			gene	gtfA_2
+			locus_tag	FOM_8_00235
+1915	1634	CDS
+			EC_number	2.4.1.-
+			gene	gtfA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01472
+			locus_tag	FOM_8_00235
+			product	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+			protein_id	gnl|Prokka|FOM_8_00235
+>Feature gnl|Prokka|FOM_8_105
+137	634	gene
+			gene	queT
+			locus_tag	FOM_8_00236
+137	634	CDS
+			db_xref	COG:COG4708
+			gene	queT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RM05
+			locus_tag	FOM_8_00236
+			product	Queuosine precursor transporter QueT
+			protein_id	gnl|Prokka|FOM_8_00236
+>Feature gnl|Prokka|FOM_8_106
+514	2058	gene
+			locus_tag	FOM_8_00237
+514	2058	rRNA
+			locus_tag	FOM_8_00237
+			product	16S ribosomal RNA
+			score	0
+>Feature gnl|Prokka|FOM_8_107
+>Feature gnl|Prokka|FOM_8_108
+1241	738	gene
+			gene	yafV
+			locus_tag	FOM_8_00238
+1241	738	CDS
+			EC_number	3.5.1.3
+			gene	yafV
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0DP65
+			locus_tag	FOM_8_00238
+			product	Omega-amidase YafV
+			protein_id	gnl|Prokka|FOM_8_00238
+>Feature gnl|Prokka|FOM_8_109
+1058	837	gene
+			locus_tag	FOM_8_00239
+1058	837	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00239
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00239
+1624	1181	gene
+			gene	lysP
+			locus_tag	FOM_8_00240
+1624	1181	CDS
+			db_xref	COG:COG0833
+			gene	lysP
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P25737
+			locus_tag	FOM_8_00240
+			product	Lysine-specific permease
+			protein_id	gnl|Prokka|FOM_8_00240
+>Feature gnl|Prokka|FOM_8_110
+70	477	gene
+			locus_tag	FOM_8_00241
+70	477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00241
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00241
+482	868	gene
+			locus_tag	FOM_8_00242
+482	868	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00242
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00242
+>Feature gnl|Prokka|FOM_8_111
+133	1443	gene
+			gene	aroA1_1
+			locus_tag	FOM_8_00243
+133	1443	CDS
+			EC_number	2.5.1.19
+			db_xref	COG:COG0128
+			gene	aroA1_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KCA6
+			locus_tag	FOM_8_00243
+			product	3-phosphoshikimate 1-carboxyvinyltransferase 1
+			protein_id	gnl|Prokka|FOM_8_00243
+>Feature gnl|Prokka|FOM_8_112
+787	50	gene
+			locus_tag	FOM_8_00244
+787	50	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:IS1163
+			locus_tag	FOM_8_00244
+			product	IS3 family transposase IS1163
+			protein_id	gnl|Prokka|FOM_8_00244
+1134	862	gene
+			locus_tag	FOM_8_00245
+1134	862	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00245
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00245
+>Feature gnl|Prokka|FOM_8_113
+48	467	gene
+			locus_tag	FOM_8_00246
+48	467	CDS
+			EC_number	2.1.1.-
+			db_xref	COG:COG2265
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97R12
+			locus_tag	FOM_8_00246
+			product	putative RNA methyltransferase
+			protein_id	gnl|Prokka|FOM_8_00246
+>Feature gnl|Prokka|FOM_8_114
+70	477	gene
+			locus_tag	FOM_8_00247
+70	477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00247
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00247
+482	868	gene
+			locus_tag	FOM_8_00248
+482	868	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00248
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00248
+>Feature gnl|Prokka|FOM_8_115
+133	864	gene
+			gene	aroA
+			locus_tag	FOM_8_00249
+133	864	CDS
+			EC_number	2.5.1.19
+			db_xref	COG:COG0128
+			gene	aroA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9S400
+			locus_tag	FOM_8_00249
+			product	3-phosphoshikimate 1-carboxyvinyltransferase
+			protein_id	gnl|Prokka|FOM_8_00249
+880	1443	gene
+			gene	aroA1_2
+			locus_tag	FOM_8_00250
+880	1443	CDS
+			EC_number	2.5.1.19
+			db_xref	COG:COG0128
+			gene	aroA1_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9KCA6
+			locus_tag	FOM_8_00250
+			product	3-phosphoshikimate 1-carboxyvinyltransferase 1
+			protein_id	gnl|Prokka|FOM_8_00250
+>Feature gnl|Prokka|FOM_8_116
+40	552	gene
+			locus_tag	FOM_8_00251
+40	552	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00251
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00251
+601	1218	gene
+			locus_tag	FOM_8_00252
+601	1218	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00252
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00252
+1268	1438	gene
+			locus_tag	FOM_8_00253
+1268	1438	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00253
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00253
+1573	1686	gene
+			locus_tag	FOM_8_00254
+1573	1686	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00254
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00254
+1728	1916	gene
+			locus_tag	FOM_8_00255
+1728	1916	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00255
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00255
+>Feature gnl|Prokka|FOM_8_117
+13	414	gene
+			locus_tag	FOM_8_00256
+13	414	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00256
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00256
+>Feature gnl|Prokka|FOM_8_118
+65	1003	gene
+			gene	mgtE
+			locus_tag	FOM_8_00257
+65	1003	CDS
+			db_xref	COG:COG2239
+			gene	mgtE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q830V1
+			locus_tag	FOM_8_00257
+			product	Magnesium transporter MgtE
+			protein_id	gnl|Prokka|FOM_8_00257
+>Feature gnl|Prokka|FOM_8_119
+259	669	gene
+			locus_tag	FOM_8_00258
+259	669	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00258
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00258
+1640	1170	gene
+			locus_tag	FOM_8_00259
+1640	1170	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00259
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00259
+>Feature gnl|Prokka|FOM_8_120
+1088	396	gene
+			locus_tag	FOM_8_00260
+1088	396	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00260
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00260
+>Feature gnl|Prokka|FOM_8_121
+90	458	gene
+			locus_tag	FOM_8_00261
+90	458	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00261
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00261
+471	1067	gene
+			locus_tag	FOM_8_00262
+471	1067	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00262
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00262
+1110	1559	gene
+			locus_tag	FOM_8_00263
+1110	1559	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00263
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00263
+1604	1888	gene
+			locus_tag	FOM_8_00264
+1604	1888	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00264
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00264
+2140	1934	gene
+			locus_tag	FOM_8_00265
+2140	1934	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00265
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00265
+>Feature gnl|Prokka|FOM_8_122
+48	248	gene
+			gene	ftsK_2
+			locus_tag	FOM_8_00266
+48	248	CDS
+			gene	ftsK_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P64165
+			locus_tag	FOM_8_00266
+			product	DNA translocase FtsK
+			protein_id	gnl|Prokka|FOM_8_00266
+767	276	gene
+			locus_tag	FOM_8_00267
+767	276	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00267
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00267
+1231	770	gene
+			gene	ade
+			locus_tag	FOM_8_00268
+1231	770	CDS
+			EC_number	3.5.4.2
+			db_xref	COG:COG1001
+			gene	ade
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q72EX7
+			locus_tag	FOM_8_00268
+			product	Adenine deaminase
+			protein_id	gnl|Prokka|FOM_8_00268
+>Feature gnl|Prokka|FOM_8_123
+85	1239	gene
+			locus_tag	FOM_8_00269
+85	1239	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00269
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00269
+>Feature gnl|Prokka|FOM_8_124
+941	624	gene
+			gene	rmlB
+			locus_tag	FOM_8_00270
+941	624	CDS
+			EC_number	4.2.1.46
+			db_xref	COG:COG1088
+			gene	rmlB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P95780
+			locus_tag	FOM_8_00270
+			product	dTDP-glucose 4,6-dehydratase
+			protein_id	gnl|Prokka|FOM_8_00270
+>Feature gnl|Prokka|FOM_8_125
+33	446	gene
+			gene	rpsL
+			locus_tag	FOM_8_00271
+33	446	CDS
+			db_xref	COG:COG0048
+			gene	rpsL
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A2RP74
+			locus_tag	FOM_8_00271
+			product	30S ribosomal protein S12
+			protein_id	gnl|Prokka|FOM_8_00271
+464	934	gene
+			gene	rpsG
+			locus_tag	FOM_8_00272
+464	934	CDS
+			db_xref	COG:COG0049
+			gene	rpsG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P21469
+			locus_tag	FOM_8_00272
+			product	30S ribosomal protein S7
+			protein_id	gnl|Prokka|FOM_8_00272
+>Feature gnl|Prokka|FOM_8_126
+24	1082	gene
+			locus_tag	FOM_8_00273
+24	1082	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00273
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00273
+1072	1284	gene
+			locus_tag	FOM_8_00274
+1072	1284	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00274
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00274
+>Feature gnl|Prokka|FOM_8_127
+714	974	gene
+			locus_tag	FOM_8_00275
+714	974	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00275
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00275
+1022	1816	gene
+			locus_tag	FOM_8_00276
+1022	1816	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:ISfinder:ISWci2
+			locus_tag	FOM_8_00276
+			product	IS3 family transposase ISWci2
+			protein_id	gnl|Prokka|FOM_8_00276
+>Feature gnl|Prokka|FOM_8_128
+226	1377	gene
+			locus_tag	FOM_8_00277
+226	1377	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00277
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00277
+>Feature gnl|Prokka|FOM_8_129
+55	477	gene
+			locus_tag	FOM_8_00278
+55	477	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00278
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00278
+>Feature gnl|Prokka|FOM_8_130
+1926	703	gene
+			gene	adhE
+			locus_tag	FOM_8_00279
+1926	703	CDS
+			db_xref	COG:COG1012
+			gene	adhE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P0A9Q7
+			locus_tag	FOM_8_00279
+			product	Aldehyde-alcohol dehydrogenase
+			protein_id	gnl|Prokka|FOM_8_00279
+>Feature gnl|Prokka|FOM_8_131
+2004	520	gene
+			gene	asp1
+			locus_tag	FOM_8_00280
+2004	520	CDS
+			gene	asp1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9AET9
+			locus_tag	FOM_8_00280
+			product	Accessory Sec system protein Asp1
+			protein_id	gnl|Prokka|FOM_8_00280
+2789	2160	gene
+			locus_tag	FOM_8_00281
+2789	2160	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00281
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00281
+>Feature gnl|Prokka|FOM_8_132
+>Feature gnl|Prokka|FOM_8_133
+>Feature gnl|Prokka|FOM_8_134
+83	688	gene
+			gene	scpA
+			locus_tag	FOM_8_00282
+83	688	CDS
+			db_xref	COG:COG1354
+			gene	scpA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P35154
+			locus_tag	FOM_8_00282
+			product	Segregation and condensation protein A
+			protein_id	gnl|Prokka|FOM_8_00282
+675	1280	gene
+			gene	scpB
+			locus_tag	FOM_8_00283
+675	1280	CDS
+			gene	scpB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:C1CMI5
+			locus_tag	FOM_8_00283
+			product	Segregation and condensation protein B
+			protein_id	gnl|Prokka|FOM_8_00283
+>Feature gnl|Prokka|FOM_8_135
+12	452	gene
+			locus_tag	FOM_8_00284
+12	452	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00284
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00284
+427	807	gene
+			locus_tag	FOM_8_00285
+427	807	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00285
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00285
+924	1490	gene
+			locus_tag	FOM_8_00286
+924	1490	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00286
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00286
+1505	2014	gene
+			locus_tag	FOM_8_00287
+1505	2014	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00287
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00287
+>Feature gnl|Prokka|FOM_8_136
+>Feature gnl|Prokka|FOM_8_137
+802	221	gene
+			locus_tag	FOM_8_00288
+802	221	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00288
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00288
+1439	795	gene
+			gene	nadD
+			locus_tag	FOM_8_00289
+1439	795	CDS
+			EC_number	2.7.7.18
+			db_xref	COG:COG1057
+			gene	nadD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54455
+			locus_tag	FOM_8_00289
+			product	Nicotinate-nucleotide adenylyltransferase
+			protein_id	gnl|Prokka|FOM_8_00289
+1680	1453	gene
+			locus_tag	FOM_8_00290
+1680	1453	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00290
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00290
+>Feature gnl|Prokka|FOM_8_138
+10	891	gene
+			locus_tag	FOM_8_00291
+10	891	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00291
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00291
+>Feature gnl|Prokka|FOM_8_139
+914	246	gene
+			locus_tag	FOM_8_00292
+914	246	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00292
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00292
+>Feature gnl|Prokka|FOM_8_140
+4	798	gene
+			gene	citC
+			locus_tag	FOM_8_00293
+4	798	CDS
+			EC_number	6.2.1.22
+			gene	citC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O53076
+			locus_tag	FOM_8_00293
+			product	[Citrate [pro-3S]-lyase] ligase
+			protein_id	gnl|Prokka|FOM_8_00293
+788	1081	gene
+			gene	citD
+			locus_tag	FOM_8_00294
+788	1081	CDS
+			db_xref	COG:COG3052
+			gene	citD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P69330
+			locus_tag	FOM_8_00294
+			product	Citrate lyase acyl carrier protein
+			protein_id	gnl|Prokka|FOM_8_00294
+>Feature gnl|Prokka|FOM_8_141
+38	835	gene
+			gene	ntpJ
+			locus_tag	FOM_8_00295
+38	835	CDS
+			gene	ntpJ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P43440
+			locus_tag	FOM_8_00295
+			product	Potassium/sodium uptake protein NtpJ
+			protein_id	gnl|Prokka|FOM_8_00295
+>Feature gnl|Prokka|FOM_8_142
+948	607	gene
+			gene	crcB_1
+			locus_tag	FOM_8_00296
+948	607	CDS
+			gene	crcB_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00454
+			locus_tag	FOM_8_00296
+			product	Putative fluoride ion transporter CrcB
+			protein_id	gnl|Prokka|FOM_8_00296
+1343	945	gene
+			gene	crcB_2
+			locus_tag	FOM_8_00297
+1343	945	CDS
+			gene	crcB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_00454
+			locus_tag	FOM_8_00297
+			product	Putative fluoride ion transporter CrcB
+			protein_id	gnl|Prokka|FOM_8_00297
+1718	1440	gene
+			locus_tag	FOM_8_00298
+1718	1440	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00298
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00298
+>Feature gnl|Prokka|FOM_8_143
+336	193	gene
+			locus_tag	FOM_8_00299
+336	193	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00299
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00299
+>Feature gnl|Prokka|FOM_8_144
+795	430	gene
+			gene	ndoA
+			locus_tag	FOM_8_00300
+795	430	CDS
+			EC_number	3.1.27.-
+			db_xref	COG:COG2337
+			gene	ndoA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P96622
+			locus_tag	FOM_8_00300
+			product	Endoribonuclease EndoA
+			protein_id	gnl|Prokka|FOM_8_00300
+1962	835	gene
+			gene	alr
+			locus_tag	FOM_8_00301
+1962	835	CDS
+			EC_number	5.1.1.1
+			gene	alr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9S5V6
+			locus_tag	FOM_8_00301
+			product	Alanine racemase
+			protein_id	gnl|Prokka|FOM_8_00301
+>Feature gnl|Prokka|FOM_8_145
+46	120	gene
+			locus_tag	FOM_8_00302
+46	120	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	FOM_8_00302
+			product	tRNA-Thr(cgt)
+188	499	gene
+			locus_tag	FOM_8_00303
+188	499	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00303
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00303
+906	556	gene
+			locus_tag	FOM_8_00304
+906	556	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00304
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00304
+1069	1320	gene
+			locus_tag	FOM_8_00305
+1069	1320	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00305
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00305
+1491	2315	gene
+			locus_tag	FOM_8_00306
+1491	2315	CDS
+			EC_number	1.-.-.-
+			db_xref	COG:COG0656
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QV10
+			locus_tag	FOM_8_00306
+			product	putative oxidoreductase/MSMEI_2347
+			protein_id	gnl|Prokka|FOM_8_00306
+2322	2981	gene
+			locus_tag	FOM_8_00307
+2322	2981	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00307
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00307
+3869	3027	gene
+			gene	hexR
+			locus_tag	FOM_8_00308
+3869	3027	CDS
+			db_xref	COG:COG1737
+			gene	hexR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q88P32
+			locus_tag	FOM_8_00308
+			product	HTH-type transcriptional regulator HexR
+			protein_id	gnl|Prokka|FOM_8_00308
+4079	4987	gene
+			locus_tag	FOM_8_00309
+4079	4987	CDS
+			EC_number	1.1.1.343
+			db_xref	COG:COG1023
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:G5EBD7
+			locus_tag	FOM_8_00309
+			product	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+			protein_id	gnl|Prokka|FOM_8_00309
+5347	6054	gene
+			gene	xylB
+			locus_tag	FOM_8_00310
+5347	6054	CDS
+			EC_number	2.7.1.17
+			gene	xylB
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_02220
+			locus_tag	FOM_8_00310
+			product	Xylulose kinase
+			protein_id	gnl|Prokka|FOM_8_00310
+6839	19960	gene
+			locus_tag	FOM_8_00311
+6839	19960	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00311
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00311
+20172	28316	gene
+			locus_tag	FOM_8_00312
+20172	28316	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00312
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00312
+28419	28784	gene
+			locus_tag	FOM_8_00313
+28419	28784	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00313
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00313
+28838	29473	gene
+			locus_tag	FOM_8_00314
+28838	29473	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00314
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00314
+29968	30873	gene
+			locus_tag	FOM_8_00315
+29968	30873	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00315
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00315
+31270	32529	gene
+			gene	tyrS1
+			locus_tag	FOM_8_00316
+31270	32529	CDS
+			EC_number	6.1.1.1
+			db_xref	COG:COG0162
+			gene	tyrS1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P22326
+			locus_tag	FOM_8_00316
+			product	Tyrosine--tRNA ligase 1
+			protein_id	gnl|Prokka|FOM_8_00316
+33762	32569	gene
+			locus_tag	FOM_8_00317
+33762	32569	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00317
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00317
+33992	34936	gene
+			gene	qorA
+			locus_tag	FOM_8_00318
+33992	34936	CDS
+			EC_number	1.6.5.5
+			db_xref	COG:COG0604
+			gene	qorA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28304
+			locus_tag	FOM_8_00318
+			product	Quinone oxidoreductase 1
+			protein_id	gnl|Prokka|FOM_8_00318
+35078	35254	gene
+			locus_tag	FOM_8_00319
+35078	35254	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00319
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00319
+35262	35828	gene
+			locus_tag	FOM_8_00320
+35262	35828	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00320
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00320
+>Feature gnl|Prokka|FOM_8_146
+1632	1045	gene
+			locus_tag	FOM_8_00321
+1632	1045	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00321
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00321
+>Feature gnl|Prokka|FOM_8_147
+554	45	gene
+			locus_tag	FOM_8_00322
+554	45	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00322
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00322
+1096	569	gene
+			locus_tag	FOM_8_00323
+1096	569	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00323
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00323
+1590	1270	gene
+			locus_tag	FOM_8_00324
+1590	1270	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00324
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00324
+2266	1541	gene
+			locus_tag	FOM_8_00325
+2266	1541	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00325
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00325
+3146	2277	gene
+			locus_tag	FOM_8_00326
+3146	2277	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00326
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00326
+4057	3158	gene
+			locus_tag	FOM_8_00327
+4057	3158	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00327
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00327
+4149	4054	gene
+			locus_tag	FOM_8_00328
+4149	4054	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00328
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00328
+4285	4139	gene
+			locus_tag	FOM_8_00329
+4285	4139	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00329
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00329
+4894	4367	gene
+			locus_tag	FOM_8_00330
+4894	4367	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00330
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00330
+5072	4884	gene
+			locus_tag	FOM_8_00331
+5072	4884	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00331
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00331
+5286	5062	gene
+			locus_tag	FOM_8_00332
+5286	5062	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00332
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00332
+5437	5273	gene
+			locus_tag	FOM_8_00333
+5437	5273	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00333
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00333
+5717	5430	gene
+			locus_tag	FOM_8_00334
+5717	5430	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00334
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00334
+6073	5720	gene
+			locus_tag	FOM_8_00335
+6073	5720	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00335
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00335
+>Feature gnl|Prokka|FOM_8_148
+1005	112	gene
+			gene	atpG
+			locus_tag	FOM_8_00336
+1005	112	CDS
+			db_xref	COG:COG0224
+			gene	atpG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7CRB2
+			locus_tag	FOM_8_00336
+			product	ATP synthase gamma chain
+			protein_id	gnl|Prokka|FOM_8_00336
+2432	1038	gene
+			gene	atpA_2
+			locus_tag	FOM_8_00337
+2432	1038	CDS
+			EC_number	7.1.2.2
+			db_xref	COG:COG0056
+			gene	atpA_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5FKY2
+			locus_tag	FOM_8_00337
+			product	ATP synthase subunit alpha
+			protein_id	gnl|Prokka|FOM_8_00337
+>Feature gnl|Prokka|FOM_8_149
+41	730	gene
+			gene	yvgN
+			locus_tag	FOM_8_00338
+41	730	CDS
+			EC_number	1.1.1.-
+			db_xref	COG:COG0656
+			gene	yvgN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32210
+			locus_tag	FOM_8_00338
+			product	Glyoxal reductase
+			protein_id	gnl|Prokka|FOM_8_00338
+1478	810	gene
+			locus_tag	FOM_8_00339
+1478	810	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00339
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00339
+>Feature gnl|Prokka|FOM_8_150
+25	219	gene
+			locus_tag	FOM_8_00340
+25	219	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00340
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00340
+>Feature gnl|Prokka|FOM_8_151
+>Feature gnl|Prokka|FOM_8_152
+>Feature gnl|Prokka|FOM_8_153
+>Feature gnl|Prokka|FOM_8_154
+1310	399	gene
+			locus_tag	FOM_8_00341
+1310	399	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00341
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00341
+>Feature gnl|Prokka|FOM_8_155
+>Feature gnl|Prokka|FOM_8_156
+>Feature gnl|Prokka|FOM_8_157
+42	1925	gene
+			gene	bglF
+			locus_tag	FOM_8_00342
+42	1925	CDS
+			db_xref	COG:COG1263
+			gene	bglF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P08722
+			locus_tag	FOM_8_00342
+			product	PTS system beta-glucoside-specific EIIBCA component
+			protein_id	gnl|Prokka|FOM_8_00342
+>Feature gnl|Prokka|FOM_8_158
+47	370	gene
+			locus_tag	FOM_8_00343
+47	370	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00343
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00343
+>Feature gnl|Prokka|FOM_8_159
+25	795	gene
+			gene	thiD
+			locus_tag	FOM_8_00344
+25	795	CDS
+			EC_number	2.7.1.49
+			gene	thiD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P99124
+			locus_tag	FOM_8_00344
+			product	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+			protein_id	gnl|Prokka|FOM_8_00344
+>Feature gnl|Prokka|FOM_8_160
+1562	207	gene
+			gene	idnT
+			locus_tag	FOM_8_00345
+1562	207	CDS
+			db_xref	COG:COG2610
+			gene	idnT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39344
+			locus_tag	FOM_8_00345
+			product	Gnt-II system L-idonate transporter
+			protein_id	gnl|Prokka|FOM_8_00345
+>Feature gnl|Prokka|FOM_8_161
+1191	568	gene
+			gene	resE
+			locus_tag	FOM_8_00346
+1191	568	CDS
+			EC_number	2.7.13.3
+			gene	resE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P35164
+			locus_tag	FOM_8_00346
+			product	Sensor histidine kinase ResE
+			protein_id	gnl|Prokka|FOM_8_00346
+>Feature gnl|Prokka|FOM_8_162
+942	622	gene
+			locus_tag	FOM_8_00347
+942	622	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00347
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00347
+1096	929	gene
+			locus_tag	FOM_8_00348
+1096	929	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00348
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00348
+>Feature gnl|Prokka|FOM_8_163
+1325	414	gene
+			gene	citF
+			locus_tag	FOM_8_00349
+1325	414	CDS
+			EC_number	4.1.3.6
+			db_xref	COG:COG3051
+			gene	citF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75726
+			locus_tag	FOM_8_00349
+			product	Citrate lyase alpha chain
+			protein_id	gnl|Prokka|FOM_8_00349
+>Feature gnl|Prokka|FOM_8_164
+606	923	gene
+			locus_tag	FOM_8_00350
+606	923	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00350
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00350
+920	1309	gene
+			locus_tag	FOM_8_00351
+920	1309	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00351
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00351
+1574	1996	gene
+			locus_tag	FOM_8_00352
+1574	1996	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00352
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00352
+>Feature gnl|Prokka|FOM_8_165
+1039	597	gene
+			locus_tag	FOM_8_00353
+1039	597	rRNA
+			locus_tag	FOM_8_00353
+			note	aligned only 27 percent of the 16S ribosomal RNA
+			product	16S ribosomal RNA (partial)
+			score	3e-91
+>Feature gnl|Prokka|FOM_8_166
+878	312	gene
+			locus_tag	FOM_8_00354
+878	312	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00354
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00354
+>Feature gnl|Prokka|FOM_8_167
+607	137	gene
+			gene	argR
+			locus_tag	FOM_8_00355
+607	137	CDS
+			db_xref	COG:COG1438
+			gene	argR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9K973
+			locus_tag	FOM_8_00355
+			product	Arginine repressor
+			protein_id	gnl|Prokka|FOM_8_00355
+1208	672	gene
+			gene	argS
+			locus_tag	FOM_8_00356
+1208	672	CDS
+			EC_number	6.1.1.19
+			db_xref	COG:COG0018
+			gene	argS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q54869
+			locus_tag	FOM_8_00356
+			product	Arginine--tRNA ligase
+			protein_id	gnl|Prokka|FOM_8_00356
+>Feature gnl|Prokka|FOM_8_168
+>Feature gnl|Prokka|FOM_8_169
+1369	632	gene
+			gene	glnQ
+			locus_tag	FOM_8_00357
+1369	632	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1126
+			gene	glnQ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34677
+			locus_tag	FOM_8_00357
+			product	Glutamine transport ATP-binding protein GlnQ
+			protein_id	gnl|Prokka|FOM_8_00357
+3284	1581	gene
+			gene	yheH
+			locus_tag	FOM_8_00358
+3284	1581	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1132
+			gene	yheH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O07549
+			locus_tag	FOM_8_00358
+			product	putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+			protein_id	gnl|Prokka|FOM_8_00358
+>Feature gnl|Prokka|FOM_8_170
+64	510	gene
+			locus_tag	FOM_8_00359
+64	510	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00359
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00359
+>Feature gnl|Prokka|FOM_8_171
+34	360	gene
+			gene	wbbI
+			locus_tag	FOM_8_00360
+34	360	CDS
+			EC_number	2.4.1.-
+			gene	wbbI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37749
+			locus_tag	FOM_8_00360
+			product	Beta-1,6-galactofuranosyltransferase WbbI
+			protein_id	gnl|Prokka|FOM_8_00360
+466	396	gene
+			locus_tag	FOM_8_00361
+466	396	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	FOM_8_00361
+			product	tRNA-Cys(gca)
+982	587	gene
+			locus_tag	FOM_8_00362
+982	587	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00362
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00362
+1210	1049	gene
+			locus_tag	FOM_8_00363
+1210	1049	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00363
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00363
+>Feature gnl|Prokka|FOM_8_172
+48	401	gene
+			gene	ybjI
+			locus_tag	FOM_8_00364
+48	401	CDS
+			EC_number	3.1.3.104
+			db_xref	COG:COG0561
+			gene	ybjI
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75809
+			locus_tag	FOM_8_00364
+			product	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI
+			protein_id	gnl|Prokka|FOM_8_00364
+1303	398	gene
+			gene	aes
+			locus_tag	FOM_8_00365
+1303	398	CDS
+			EC_number	3.1.1.-
+			gene	aes
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01958
+			locus_tag	FOM_8_00365
+			product	Acetyl esterase
+			protein_id	gnl|Prokka|FOM_8_00365
+>Feature gnl|Prokka|FOM_8_173
+1089	364	gene
+			locus_tag	FOM_8_00366
+1089	364	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00366
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00366
+>Feature gnl|Prokka|FOM_8_174
+1216	626	gene
+			gene	engB
+			locus_tag	FOM_8_00367
+1216	626	CDS
+			db_xref	COG:COG0218
+			gene	engB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P38424
+			locus_tag	FOM_8_00367
+			product	putative GTP-binding protein EngB
+			protein_id	gnl|Prokka|FOM_8_00367
+>Feature gnl|Prokka|FOM_8_175
+>Feature gnl|Prokka|FOM_8_176
+1032	166	gene
+			gene	gmuE
+			locus_tag	FOM_8_00368
+1032	166	CDS
+			EC_number	2.7.1.4
+			db_xref	COG:COG1940
+			gene	gmuE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O05510
+			locus_tag	FOM_8_00368
+			product	Putative fructokinase
+			protein_id	gnl|Prokka|FOM_8_00368
+>Feature gnl|Prokka|FOM_8_177
+937	494	gene
+			locus_tag	FOM_8_00369
+937	494	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00369
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00369
+1158	940	gene
+			locus_tag	FOM_8_00370
+1158	940	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00370
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00370
+1350	1177	gene
+			locus_tag	FOM_8_00371
+1350	1177	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00371
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00371
+>Feature gnl|Prokka|FOM_8_178
+>Feature gnl|Prokka|FOM_8_179
+>Feature gnl|Prokka|FOM_8_180
+994	140	gene
+			gene	secY_2
+			locus_tag	FOM_8_00372
+994	140	CDS
+			gene	secY_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A468
+			locus_tag	FOM_8_00372
+			product	Protein translocase subunit SecY
+			protein_id	gnl|Prokka|FOM_8_00372
+>Feature gnl|Prokka|FOM_8_181
+20	1318	gene
+			gene	mutS2
+			locus_tag	FOM_8_00373
+20	1318	CDS
+			EC_number	3.1.-.-
+			gene	mutS2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65496
+			locus_tag	FOM_8_00373
+			product	Endonuclease MutS2
+			protein_id	gnl|Prokka|FOM_8_00373
+>Feature gnl|Prokka|FOM_8_182
+24	1304	gene
+			gene	pepF1_2
+			locus_tag	FOM_8_00374
+24	1304	CDS
+			EC_number	3.4.24.-
+			gene	pepF1_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P54124
+			locus_tag	FOM_8_00374
+			product	Oligoendopeptidase F, plasmid
+			protein_id	gnl|Prokka|FOM_8_00374
+>Feature gnl|Prokka|FOM_8_183
+1223	354	gene
+			gene	rluD
+			locus_tag	FOM_8_00375
+1223	354	CDS
+			EC_number	5.4.99.23
+			db_xref	COG:COG0564
+			gene	rluD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P33643
+			locus_tag	FOM_8_00375
+			product	Ribosomal large subunit pseudouridine synthase D
+			protein_id	gnl|Prokka|FOM_8_00375
+>Feature gnl|Prokka|FOM_8_184
+7082	3501	gene
+			gene	rpoB
+			locus_tag	FOM_8_00376
+7082	3501	CDS
+			EC_number	2.7.7.6
+			db_xref	COG:COG0085
+			gene	rpoB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37870
+			locus_tag	FOM_8_00376
+			product	DNA-directed RNA polymerase subunit beta
+			protein_id	gnl|Prokka|FOM_8_00376
+9855	7390	gene
+			gene	clpC_1
+			locus_tag	FOM_8_00377
+9855	7390	CDS
+			db_xref	COG:COG0542
+			gene	clpC_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37571
+			locus_tag	FOM_8_00377
+			product	Negative regulator of genetic competence ClpC/MecB
+			protein_id	gnl|Prokka|FOM_8_00377
+10347	9880	gene
+			gene	ctsR
+			locus_tag	FOM_8_00378
+10347	9880	CDS
+			db_xref	COG:COG4463
+			gene	ctsR
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q88XZ6
+			locus_tag	FOM_8_00378
+			product	Transcriptional regulator CtsR
+			protein_id	gnl|Prokka|FOM_8_00378
+10574	10498	gene
+			locus_tag	FOM_8_00379
+10574	10498	tRNA
+			inference	COORDINATES:profile:Aragorn:001002
+			locus_tag	FOM_8_00379
+			product	tRNA-Arg(acg)
+>Feature gnl|Prokka|FOM_8_185
+37	885	gene
+			gene	nadC
+			locus_tag	FOM_8_00380
+37	885	CDS
+			EC_number	2.4.2.19
+			db_xref	COG:COG0157
+			gene	nadC
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P39666
+			locus_tag	FOM_8_00380
+			product	putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+			protein_id	gnl|Prokka|FOM_8_00380
+>Feature gnl|Prokka|FOM_8_186
+1617	268	gene
+			gene	rnr
+			locus_tag	FOM_8_00381
+1617	268	CDS
+			EC_number	3.1.13.1
+			db_xref	COG:COG0557
+			gene	rnr
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32231
+			locus_tag	FOM_8_00381
+			product	Ribonuclease R
+			protein_id	gnl|Prokka|FOM_8_00381
+>Feature gnl|Prokka|FOM_8_187
+2833	332	gene
+			locus_tag	FOM_8_00382
+2833	332	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00382
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00382
+>Feature gnl|Prokka|FOM_8_188
+>Feature gnl|Prokka|FOM_8_189
+524	336	gene
+			locus_tag	FOM_8_00383
+524	336	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00383
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00383
+>Feature gnl|Prokka|FOM_8_190
+1097	285	gene
+			gene	hag_2
+			locus_tag	FOM_8_00384
+1097	285	CDS
+			db_xref	COG:COG1344
+			gene	hag_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P02968
+			locus_tag	FOM_8_00384
+			product	Flagellin
+			protein_id	gnl|Prokka|FOM_8_00384
+>Feature gnl|Prokka|FOM_8_191
+>Feature gnl|Prokka|FOM_8_192
+33	578	gene
+			gene	infB
+			locus_tag	FOM_8_00385
+33	578	CDS
+			gene	infB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04766
+			locus_tag	FOM_8_00385
+			product	Translation initiation factor IF-2
+			protein_id	gnl|Prokka|FOM_8_00385
+626	979	gene
+			gene	rbfA
+			locus_tag	FOM_8_00386
+626	979	CDS
+			gene	rbfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P65967
+			locus_tag	FOM_8_00386
+			product	Ribosome-binding factor A
+			protein_id	gnl|Prokka|FOM_8_00386
+>Feature gnl|Prokka|FOM_8_193
+>Feature gnl|Prokka|FOM_8_194
+583	110	gene
+			locus_tag	FOM_8_00387
+583	110	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00387
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00387
+1334	681	gene
+			gene	glmU
+			locus_tag	FOM_8_00388
+1334	681	CDS
+			db_xref	COG:COG1207
+			gene	glmU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q97R46
+			locus_tag	FOM_8_00388
+			product	Bifunctional protein GlmU
+			protein_id	gnl|Prokka|FOM_8_00388
+>Feature gnl|Prokka|FOM_8_195
+1089	256	gene
+			gene	menB
+			locus_tag	FOM_8_00389
+1089	256	CDS
+			EC_number	4.1.3.36
+			db_xref	COG:COG0447
+			gene	menB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23966
+			locus_tag	FOM_8_00389
+			product	1,4-dihydroxy-2-naphthoyl-CoA synthase
+			protein_id	gnl|Prokka|FOM_8_00389
+1126	1500	gene
+			locus_tag	FOM_8_00390
+1126	1500	CDS
+			EC_number	3.1.2.-
+			db_xref	COG:COG2050
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P45083
+			locus_tag	FOM_8_00390
+			product	Putative esterase
+			protein_id	gnl|Prokka|FOM_8_00390
+2305	1520	gene
+			locus_tag	FOM_8_00391
+2305	1520	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00391
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00391
+>Feature gnl|Prokka|FOM_8_196
+>Feature gnl|Prokka|FOM_8_197
+>Feature gnl|Prokka|FOM_8_198
+>Feature gnl|Prokka|FOM_8_199
+1632	715	gene
+			gene	oppB
+			locus_tag	FOM_8_00392
+1632	715	CDS
+			db_xref	COG:COG0601
+			gene	oppB
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P24138
+			locus_tag	FOM_8_00392
+			product	Oligopeptide transport system permease protein OppB
+			protein_id	gnl|Prokka|FOM_8_00392
+2412	1720	gene
+			locus_tag	FOM_8_00393
+2412	1720	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00393
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00393
+>Feature gnl|Prokka|FOM_8_200
+298	1236	gene
+			gene	glyQ_1
+			locus_tag	FOM_8_00394
+298	1236	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0752
+			gene	glyQ_1
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67081
+			locus_tag	FOM_8_00394
+			product	Glycine--tRNA ligase alpha subunit
+			protein_id	gnl|Prokka|FOM_8_00394
+>Feature gnl|Prokka|FOM_8_201
+1020	235	gene
+			locus_tag	FOM_8_00395
+1020	235	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00395
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00395
+1366	1040	gene
+			locus_tag	FOM_8_00396
+1366	1040	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00396
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00396
+>Feature gnl|Prokka|FOM_8_202
+1019	282	gene
+			gene	trmD
+			locus_tag	FOM_8_00397
+1019	282	CDS
+			EC_number	2.1.1.228
+			gene	trmD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q6GHJ5
+			locus_tag	FOM_8_00397
+			product	tRNA (guanine-N(1)-)-methyltransferase
+			protein_id	gnl|Prokka|FOM_8_00397
+1210	1019	gene
+			gene	rimM
+			locus_tag	FOM_8_00398
+1210	1019	CDS
+			gene	rimM
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P66656
+			locus_tag	FOM_8_00398
+			product	Ribosome maturation factor RimM
+			protein_id	gnl|Prokka|FOM_8_00398
+>Feature gnl|Prokka|FOM_8_203
+2198	2422	gene
+			locus_tag	FOM_8_00399
+2198	2422	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00399
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00399
+>Feature gnl|Prokka|FOM_8_204
+970	89	gene
+			gene	pdxS
+			locus_tag	FOM_8_00400
+970	89	CDS
+			EC_number	4.3.3.6
+			db_xref	COG:COG0214
+			gene	pdxS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P37527
+			locus_tag	FOM_8_00400
+			product	Pyridoxal 5'-phosphate synthase subunit PdxS
+			protein_id	gnl|Prokka|FOM_8_00400
+>Feature gnl|Prokka|FOM_8_205
+276	1214	gene
+			locus_tag	FOM_8_00401
+276	1214	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00401
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00401
+1494	1243	gene
+			locus_tag	FOM_8_00402
+1494	1243	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00402
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00402
+>Feature gnl|Prokka|FOM_8_206
+>Feature gnl|Prokka|FOM_8_207
+1	1278	gene
+			gene	ileS
+			locus_tag	FOM_8_00403
+1	1278	CDS
+			EC_number	6.1.1.5
+			db_xref	COG:COG0060
+			gene	ileS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P41972
+			locus_tag	FOM_8_00403
+			product	Isoleucine--tRNA ligase
+			protein_id	gnl|Prokka|FOM_8_00403
+>Feature gnl|Prokka|FOM_8_208
+123	713	gene
+			locus_tag	FOM_8_00404
+123	713	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00404
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00404
+>Feature gnl|Prokka|FOM_8_209
+81	590	gene
+			gene	atpF
+			locus_tag	FOM_8_00405
+81	590	CDS
+			db_xref	COG:COG0711
+			gene	atpF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGY5
+			locus_tag	FOM_8_00405
+			product	ATP synthase subunit b
+			protein_id	gnl|Prokka|FOM_8_00405
+603	1145	gene
+			gene	atpH
+			locus_tag	FOM_8_00406
+603	1145	CDS
+			db_xref	COG:COG0712
+			gene	atpH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9RGY4
+			locus_tag	FOM_8_00406
+			product	ATP synthase subunit delta
+			protein_id	gnl|Prokka|FOM_8_00406
+>Feature gnl|Prokka|FOM_8_210
+761	120	gene
+			locus_tag	FOM_8_00407
+761	120	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00407
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00407
+2192	789	gene
+			gene	hsrA
+			locus_tag	FOM_8_00408
+2192	789	CDS
+			gene	hsrA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P31474
+			locus_tag	FOM_8_00408
+			product	putative transport protein HsrA
+			protein_id	gnl|Prokka|FOM_8_00408
+2983	2180	gene
+			gene	fpgS
+			locus_tag	FOM_8_00409
+2983	2180	CDS
+			EC_number	6.3.2.17
+			gene	fpgS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P15925
+			locus_tag	FOM_8_00409
+			product	Folylpolyglutamate synthase
+			protein_id	gnl|Prokka|FOM_8_00409
+>Feature gnl|Prokka|FOM_8_211
+17	184	gene
+			locus_tag	FOM_8_00410
+17	184	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00410
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00410
+300	1301	gene
+			locus_tag	FOM_8_00411
+300	1301	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00411
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00411
+>Feature gnl|Prokka|FOM_8_212
+638	153	gene
+			locus_tag	FOM_8_00412
+638	153	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00412
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00412
+686	1087	gene
+			locus_tag	FOM_8_00413
+686	1087	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00413
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00413
+>Feature gnl|Prokka|FOM_8_213
+88	411	gene
+			locus_tag	FOM_8_00414
+88	411	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00414
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00414
+398	805	gene
+			locus_tag	FOM_8_00415
+398	805	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00415
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00415
+885	3350	gene
+			locus_tag	FOM_8_00416
+885	3350	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00416
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00416
+>Feature gnl|Prokka|FOM_8_214
+29	826	gene
+			gene	rbsA
+			locus_tag	FOM_8_00417
+29	826	CDS
+			EC_number	7.5.2.7
+			db_xref	COG:COG1129
+			gene	rbsA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P04983
+			locus_tag	FOM_8_00417
+			product	Ribose import ATP-binding protein RbsA
+			protein_id	gnl|Prokka|FOM_8_00417
+>Feature gnl|Prokka|FOM_8_215
+2467	1340	gene
+			gene	recF
+			locus_tag	FOM_8_00418
+2467	1340	CDS
+			db_xref	COG:COG1195
+			gene	recF
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8RDL3
+			locus_tag	FOM_8_00418
+			product	DNA replication and repair protein RecF
+			protein_id	gnl|Prokka|FOM_8_00418
+2703	2449	gene
+			locus_tag	FOM_8_00419
+2703	2449	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00419
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00419
+>Feature gnl|Prokka|FOM_8_216
+47	1126	gene
+			locus_tag	FOM_8_00420
+47	1126	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00420
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00420
+1128	1322	gene
+			locus_tag	FOM_8_00421
+1128	1322	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00421
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00421
+>Feature gnl|Prokka|FOM_8_217
+109	1062	gene
+			locus_tag	FOM_8_00422
+109	1062	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00422
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00422
+>Feature gnl|Prokka|FOM_8_218
+1337	192	gene
+			locus_tag	FOM_8_00423
+1337	192	CDS
+			db_xref	COG:COG1132
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P9WQJ1
+			locus_tag	FOM_8_00423
+			product	putative ABC transporter ATP-binding protein
+			protein_id	gnl|Prokka|FOM_8_00423
+>Feature gnl|Prokka|FOM_8_219
+1089	331	gene
+			locus_tag	FOM_8_00424
+1089	331	CDS
+			EC_number	1.-.-.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A3L9
+			locus_tag	FOM_8_00424
+			product	putative oxidoreductase
+			protein_id	gnl|Prokka|FOM_8_00424
+1268	1606	gene
+			locus_tag	FOM_8_00425
+1268	1606	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00425
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00425
+>Feature gnl|Prokka|FOM_8_220
+1460	1359	gene
+			locus_tag	FOM_8_00426
+1460	1359	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00426
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00426
+>Feature gnl|Prokka|FOM_8_221
+624	70	gene
+			locus_tag	FOM_8_00427
+624	70	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00427
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00427
+1896	853	gene
+			locus_tag	FOM_8_00428
+1896	853	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00428
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00428
+2429	1893	gene
+			locus_tag	FOM_8_00429
+2429	1893	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00429
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00429
+>Feature gnl|Prokka|FOM_8_222
+>Feature gnl|Prokka|FOM_8_223
+1049	807	gene
+			locus_tag	FOM_8_00430
+1049	807	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00430
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00430
+>Feature gnl|Prokka|FOM_8_224
+194	634	gene
+			gene	iscU
+			locus_tag	FOM_8_00431
+194	634	CDS
+			db_xref	COG:COG0822
+			gene	iscU
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9A1G2
+			locus_tag	FOM_8_00431
+			product	Iron-sulfur cluster assembly scaffold protein IscU
+			protein_id	gnl|Prokka|FOM_8_00431
+634	2064	gene
+			locus_tag	FOM_8_00432
+634	2064	CDS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A6L4
+			locus_tag	FOM_8_00432
+			note	UPF0051 protein SA0778
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00432
+2067	2372	gene
+			gene	sufT
+			locus_tag	FOM_8_00433
+2067	2372	CDS
+			gene	sufT
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0A0H2XI17
+			locus_tag	FOM_8_00433
+			product	Fe-S protein maturation auxiliary factor SufT
+			protein_id	gnl|Prokka|FOM_8_00433
+>Feature gnl|Prokka|FOM_8_225
+>Feature gnl|Prokka|FOM_8_226
+619	1056	gene
+			locus_tag	FOM_8_00434
+619	1056	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00434
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00434
+1666	1523	gene
+			gene	eno2
+			locus_tag	FOM_8_00435
+1666	1523	CDS
+			EC_number	4.2.1.11
+			db_xref	COG:COG0148
+			gene	eno2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q042F4
+			locus_tag	FOM_8_00435
+			product	Enolase 2
+			protein_id	gnl|Prokka|FOM_8_00435
+>Feature gnl|Prokka|FOM_8_227
+>Feature gnl|Prokka|FOM_8_228
+112	780	gene
+			gene	adh
+			locus_tag	FOM_8_00436
+112	780	CDS
+			EC_number	1.1.1.1
+			gene	adh
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A742
+			locus_tag	FOM_8_00436
+			product	Alcohol dehydrogenase
+			protein_id	gnl|Prokka|FOM_8_00436
+>Feature gnl|Prokka|FOM_8_229
+48	245	gene
+			locus_tag	FOM_8_00437
+48	245	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00437
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00437
+297	1061	gene
+			locus_tag	FOM_8_00438
+297	1061	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00438
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00438
+>Feature gnl|Prokka|FOM_8_230
+225	1163	gene
+			locus_tag	FOM_8_00439
+225	1163	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00439
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00439
+1605	1207	gene
+			gene	lagD
+			locus_tag	FOM_8_00440
+1605	1207	CDS
+			EC_number	3.4.22.-
+			gene	lagD
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P59852
+			locus_tag	FOM_8_00440
+			product	Lactococcin-G-processing and transport ATP-binding protein LagD
+			protein_id	gnl|Prokka|FOM_8_00440
+>Feature gnl|Prokka|FOM_8_231
+1226	81	gene
+			locus_tag	FOM_8_00441
+1226	81	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00441
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00441
+>Feature gnl|Prokka|FOM_8_232
+>Feature gnl|Prokka|FOM_8_233
+755	93	gene
+			locus_tag	FOM_8_00442
+755	93	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00442
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00442
+>Feature gnl|Prokka|FOM_8_234
+>Feature gnl|Prokka|FOM_8_235
+1844	972	gene
+			gene	yifK
+			locus_tag	FOM_8_00443
+1844	972	CDS
+			db_xref	COG:COG1113
+			gene	yifK
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P27837
+			locus_tag	FOM_8_00443
+			product	putative transport protein YifK
+			protein_id	gnl|Prokka|FOM_8_00443
+>Feature gnl|Prokka|FOM_8_236
+1466	606	gene
+			locus_tag	FOM_8_00444
+1466	606	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00444
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00444
+1744	1481	gene
+			locus_tag	FOM_8_00445
+1744	1481	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00445
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00445
+>Feature gnl|Prokka|FOM_8_237
+>Feature gnl|Prokka|FOM_8_238
+50	502	gene
+			locus_tag	FOM_8_00446
+50	502	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00446
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00446
+550	1044	gene
+			locus_tag	FOM_8_00447
+550	1044	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00447
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00447
+>Feature gnl|Prokka|FOM_8_239
+16	381	gene
+			gene	folB_2
+			locus_tag	FOM_8_00448
+16	381	CDS
+			EC_number	4.1.2.25
+			db_xref	COG:COG1539
+			gene	folB_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P56740
+			locus_tag	FOM_8_00448
+			product	Dihydroneopterin aldolase
+			protein_id	gnl|Prokka|FOM_8_00448
+374	877	gene
+			locus_tag	FOM_8_00449
+374	877	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00449
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00449
+870	1439	gene
+			gene	folE_2
+			locus_tag	FOM_8_00450
+870	1439	CDS
+			EC_number	3.5.4.16
+			db_xref	COG:COG0302
+			gene	folE_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P19465
+			locus_tag	FOM_8_00450
+			product	GTP cyclohydrolase 1
+			protein_id	gnl|Prokka|FOM_8_00450
+>Feature gnl|Prokka|FOM_8_240
+1517	1098	gene
+			locus_tag	FOM_8_00451
+1517	1098	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00451
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00451
+>Feature gnl|Prokka|FOM_8_241
+>Feature gnl|Prokka|FOM_8_242
+>Feature gnl|Prokka|FOM_8_243
+710	1051	gene
+			locus_tag	FOM_8_00452
+710	1051	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00452
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00452
+>Feature gnl|Prokka|FOM_8_244
+1149	445	gene
+			gene	ribZ
+			locus_tag	FOM_8_00453
+1149	445	CDS
+			gene	ribZ
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q180E3
+			locus_tag	FOM_8_00453
+			product	Riboflavin transporter RibZ
+			protein_id	gnl|Prokka|FOM_8_00453
+>Feature gnl|Prokka|FOM_8_245
+175	909	gene
+			locus_tag	FOM_8_00454
+175	909	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00454
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00454
+>Feature gnl|Prokka|FOM_8_246
+>Feature gnl|Prokka|FOM_8_247
+1019	327	gene
+			gene	clpC_2
+			locus_tag	FOM_8_00455
+1019	327	CDS
+			gene	clpC_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q5XCL7
+			locus_tag	FOM_8_00455
+			product	putative ATP-dependent Clp protease ATP-binding subunit
+			protein_id	gnl|Prokka|FOM_8_00455
+>Feature gnl|Prokka|FOM_8_248
+1141	257	gene
+			locus_tag	FOM_8_00456
+1141	257	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00456
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00456
+1578	1138	gene
+			locus_tag	FOM_8_00457
+1578	1138	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00457
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00457
+>Feature gnl|Prokka|FOM_8_249
+2307	1060	gene
+			gene	tyrS
+			locus_tag	FOM_8_00458
+2307	1060	CDS
+			EC_number	6.1.1.1
+			gene	tyrS
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A537
+			locus_tag	FOM_8_00458
+			product	Tyrosine--tRNA ligase
+			protein_id	gnl|Prokka|FOM_8_00458
+>Feature gnl|Prokka|FOM_8_250
+>Feature gnl|Prokka|FOM_8_251
+64	1002	gene
+			gene	glyQ_2
+			locus_tag	FOM_8_00459
+64	1002	CDS
+			EC_number	6.1.1.14
+			db_xref	COG:COG0752
+			gene	glyQ_2
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O67081
+			locus_tag	FOM_8_00459
+			product	Glycine--tRNA ligase alpha subunit
+			protein_id	gnl|Prokka|FOM_8_00459
+>Feature gnl|Prokka|FOM_8_252
+826	200	gene
+			locus_tag	FOM_8_00460
+826	200	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00460
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00460
+1329	1105	gene
+			locus_tag	FOM_8_00461
+1329	1105	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00461
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00461
+>Feature gnl|Prokka|FOM_8_253
+>Feature gnl|Prokka|FOM_8_254
+312	82	gene
+			locus_tag	FOM_8_00462
+312	82	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00462
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00462
+573	325	gene
+			locus_tag	FOM_8_00463
+573	325	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00463
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00463
+730	560	gene
+			locus_tag	FOM_8_00464
+730	560	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00464
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00464
+3735	742	gene
+			locus_tag	FOM_8_00465
+3735	742	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00465
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00465
+4457	3732	gene
+			locus_tag	FOM_8_00466
+4457	3732	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00466
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00466
+8402	4476	gene
+			locus_tag	FOM_8_00467
+8402	4476	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00467
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00467
+9064	8627	gene
+			locus_tag	FOM_8_00468
+9064	8627	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00468
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00468
+9722	9114	gene
+			locus_tag	FOM_8_00469
+9722	9114	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00469
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00469
+10144	9758	gene
+			locus_tag	FOM_8_00470
+10144	9758	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00470
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00470
+10620	10144	gene
+			locus_tag	FOM_8_00471
+10620	10144	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00471
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00471
+10959	10624	gene
+			locus_tag	FOM_8_00472
+10959	10624	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00472
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00472
+11252	10959	gene
+			locus_tag	FOM_8_00473
+11252	10959	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00473
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00473
+12647	11394	gene
+			locus_tag	FOM_8_00474
+12647	11394	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00474
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00474
+13271	12687	gene
+			locus_tag	FOM_8_00475
+13271	12687	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00475
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00475
+14382	13273	gene
+			locus_tag	FOM_8_00476
+14382	13273	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00476
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00476
+14540	14379	gene
+			locus_tag	FOM_8_00477
+14540	14379	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00477
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00477
+16463	14652	gene
+			locus_tag	FOM_8_00478
+16463	14652	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00478
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00478
+16948	16463	gene
+			locus_tag	FOM_8_00479
+16948	16463	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00479
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00479
+17882	17406	gene
+			locus_tag	FOM_8_00480
+17882	17406	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00480
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00480
+18563	17991	gene
+			locus_tag	FOM_8_00481
+18563	17991	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00481
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00481
+18845	18696	gene
+			locus_tag	FOM_8_00482
+18845	18696	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00482
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00482
+19651	18851	gene
+			locus_tag	FOM_8_00483
+19651	18851	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00483
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00483
+20565	19807	gene
+			locus_tag	FOM_8_00484
+20565	19807	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00484
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00484
+20907	20668	gene
+			locus_tag	FOM_8_00485
+20907	20668	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00485
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00485
+22838	21222	gene
+			gene	recD2
+			locus_tag	FOM_8_00486
+22838	21222	CDS
+			EC_number	3.6.4.12
+			gene	recD2
+			inference	ab initio prediction:Prodigal:002006
+			inference	protein motif:HAMAP:MF_01488
+			locus_tag	FOM_8_00486
+			product	ATP-dependent RecD-like DNA helicase
+			protein_id	gnl|Prokka|FOM_8_00486
+23646	23365	gene
+			locus_tag	FOM_8_00487
+23646	23365	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00487
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00487
+24049	24189	gene
+			locus_tag	FOM_8_00488
+24049	24189	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00488
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00488
+24553	24428	gene
+			locus_tag	FOM_8_00489
+24553	24428	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00489
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00489
+24968	24558	gene
+			locus_tag	FOM_8_00490
+24968	24558	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00490
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00490
+25478	25152	gene
+			locus_tag	FOM_8_00491
+25478	25152	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00491
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00491
+26014	25499	gene
+			locus_tag	FOM_8_00492
+26014	25499	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00492
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00492
+28778	27528	gene
+			locus_tag	FOM_8_00493
+28778	27528	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00493
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00493
+29100	28780	gene
+			locus_tag	FOM_8_00494
+29100	28780	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00494
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00494
+>Feature gnl|Prokka|FOM_8_255
+489	1403	gene
+			locus_tag	FOM_8_00495
+489	1403	CDS
+			EC_number	1.1.1.-
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P14295
+			locus_tag	FOM_8_00495
+			product	L-2-hydroxyisocaproate dehydrogenase
+			protein_id	gnl|Prokka|FOM_8_00495
+2670	1447	gene
+			gene	nupG
+			locus_tag	FOM_8_00496
+2670	1447	CDS
+			db_xref	COG:COG1972
+			gene	nupG
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P42312
+			locus_tag	FOM_8_00496
+			product	Purine nucleoside transport protein NupG
+			protein_id	gnl|Prokka|FOM_8_00496
+3800	2886	gene
+			locus_tag	FOM_8_00497
+3800	2886	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00497
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00497
+>Feature gnl|Prokka|FOM_8_256
+1141	593	gene
+			locus_tag	FOM_8_00498
+1141	593	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00498
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00498
+1701	1321	gene
+			locus_tag	FOM_8_00499
+1701	1321	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00499
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00499
+2606	1713	gene
+			locus_tag	FOM_8_00500
+2606	1713	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00500
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00500
+3675	2596	gene
+			locus_tag	FOM_8_00501
+3675	2596	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00501
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00501
+4144	3824	gene
+			gene	senX3
+			locus_tag	FOM_8_00502
+4144	3824	CDS
+			EC_number	2.7.13.3
+			gene	senX3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:A0QR01
+			locus_tag	FOM_8_00502
+			product	Signal-transduction histidine kinase senX3
+			protein_id	gnl|Prokka|FOM_8_00502
+>Feature gnl|Prokka|FOM_8_257
+22	942	gene
+			locus_tag	FOM_8_00503
+22	942	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00503
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00503
+>Feature gnl|Prokka|FOM_8_258
+205	594	gene
+			locus_tag	FOM_8_00504
+205	594	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00504
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00504
+>Feature gnl|Prokka|FOM_8_259
+13	1086	gene
+			gene	purH
+			locus_tag	FOM_8_00505
+13	1086	CDS
+			gene	purH
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P67544
+			locus_tag	FOM_8_00505
+			product	Bifunctional purine biosynthesis protein PurH
+			protein_id	gnl|Prokka|FOM_8_00505
+>Feature gnl|Prokka|FOM_8_260
+>Feature gnl|Prokka|FOM_8_261
+1808	735	gene
+			gene	prfA
+			locus_tag	FOM_8_00506
+1808	735	CDS
+			db_xref	COG:COG0216
+			gene	prfA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q8DU64
+			locus_tag	FOM_8_00506
+			product	Peptide chain release factor 1
+			protein_id	gnl|Prokka|FOM_8_00506
+2508	1903	gene
+			gene	tdk
+			locus_tag	FOM_8_00507
+2508	1903	CDS
+			EC_number	2.7.1.21
+			gene	tdk
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P75070
+			locus_tag	FOM_8_00507
+			product	Thymidine kinase
+			protein_id	gnl|Prokka|FOM_8_00507
+>Feature gnl|Prokka|FOM_8_262
+171	1715	gene
+			gene	gtfA_3
+			locus_tag	FOM_8_00508
+171	1715	CDS
+			EC_number	2.4.1.-
+			db_xref	COG:COG0438
+			gene	gtfA_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q9AET5
+			locus_tag	FOM_8_00508
+			product	UDP-N-acetylglucosamine--peptide N-acetylglucosaminyltransferase GtfA subunit
+			protein_id	gnl|Prokka|FOM_8_00508
+>Feature gnl|Prokka|FOM_8_263
+>Feature gnl|Prokka|FOM_8_264
+1456	1028	gene
+			gene	cah
+			locus_tag	FOM_8_00509
+1456	1028	CDS
+			EC_number	4.2.1.1
+			db_xref	COG:COG3338
+			gene	cah
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q50940
+			locus_tag	FOM_8_00509
+			product	Carbonic anhydrase
+			protein_id	gnl|Prokka|FOM_8_00509
+>Feature gnl|Prokka|FOM_8_265
+1120	29	gene
+			gene	secY_3
+			locus_tag	FOM_8_00510
+1120	29	CDS
+			gene	secY_3
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:Q7A468
+			locus_tag	FOM_8_00510
+			product	Protein translocase subunit SecY
+			protein_id	gnl|Prokka|FOM_8_00510
+>Feature gnl|Prokka|FOM_8_266
+1139	255	gene
+			gene	metN
+			locus_tag	FOM_8_00511
+1139	255	CDS
+			EC_number	3.6.3.-
+			db_xref	COG:COG1135
+			gene	metN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O32169
+			locus_tag	FOM_8_00511
+			product	Methionine import ATP-binding protein MetN
+			protein_id	gnl|Prokka|FOM_8_00511
+>Feature gnl|Prokka|FOM_8_267
+115	1563	gene
+			gene	menE
+			locus_tag	FOM_8_00512
+115	1563	CDS
+			EC_number	6.2.1.26
+			db_xref	COG:COG0318
+			gene	menE
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P23971
+			locus_tag	FOM_8_00512
+			product	2-succinylbenzoate--CoA ligase
+			protein_id	gnl|Prokka|FOM_8_00512
+>Feature gnl|Prokka|FOM_8_268
+>Feature gnl|Prokka|FOM_8_269
+18	593	gene
+			locus_tag	FOM_8_00513
+18	593	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00513
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00513
+>Feature gnl|Prokka|FOM_8_270
+17	238	gene
+			gene	secA
+			locus_tag	FOM_8_00514
+17	238	CDS
+			db_xref	COG:COG0653
+			gene	secA
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:P28366
+			locus_tag	FOM_8_00514
+			product	Protein translocase subunit SecA
+			protein_id	gnl|Prokka|FOM_8_00514
+>Feature gnl|Prokka|FOM_8_271
+1002	424	gene
+			locus_tag	FOM_8_00515
+1002	424	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00515
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00515
+>Feature gnl|Prokka|FOM_8_272
+437	625	gene
+			locus_tag	FOM_8_00516
+437	625	CDS
+			inference	ab initio prediction:Prodigal:002006
+			locus_tag	FOM_8_00516
+			product	hypothetical protein
+			protein_id	gnl|Prokka|FOM_8_00516
+>Feature gnl|Prokka|FOM_8_273
+48	527	gene
+			gene	yfkN
+			locus_tag	FOM_8_00517
+48	527	CDS
+			db_xref	COG:COG0737
+			gene	yfkN
+			inference	ab initio prediction:Prodigal:002006
+			inference	similar to AA sequence:UniProtKB:O34313
+			locus_tag	FOM_8_00517
+			product	Trifunctional nucleotide phosphoesterase protein YfkN
+			protein_id	gnl|Prokka|FOM_8_00517

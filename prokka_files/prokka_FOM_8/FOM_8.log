@@ -1,0 +1,166 @@
+[10:27:21] This is prokka 1.14.6
+[10:27:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[10:27:21] Homepage is https://github.com/tseemann/prokka
+[10:27:21] Local time is Thu Oct 30 10:27:21 2025
+[10:27:21] You are diego
+[10:27:21] Operating system is linux
+[10:27:21] You have BioPerl 1.7.8
+[10:27:21] System has 20 cores.
+[10:27:21] Will use maximum of 20 cores.
+[10:27:21] Annotating as >>> Bacteria <<<
+[10:27:21] Enabling options to ensure Genbank/ENA/DDJB submission compliance.
+[10:27:21] Creating new output folder: prokka_FOM_8
+[10:27:21] Running: mkdir -p prokka_FOM_8
+[10:27:21] Using filename prefix: FOM_8.XXX
+[10:27:21] Setting HMMER_NCPU=1
+[10:27:21] Writing log to: prokka_FOM_8/FOM_8.log
+[10:27:21] Command: /home/diego/miniconda3/envs/prokka_env/bin/prokka FOM_8.fasta --outdir prokka_FOM_8 --prefix FOM_8 --compliant --cpus 20 --locustag FOM_8
+[10:27:21] Appending to PATH: /home/diego/miniconda3/envs/prokka_env/bin
+[10:27:21] Looking for 'aragorn' - found /home/diego/miniconda3/envs/prokka_env/bin/aragorn
+[10:27:21] Determined aragorn version is 001002 from 'ARAGORN v1.2.41 Dean Laslett'
+[10:27:21] Looking for 'barrnap' - found /home/diego/miniconda3/envs/prokka_env/bin/barrnap
+[10:27:21] Determined barrnap version is 000009 from 'barrnap 0.9'
+[10:27:21] Looking for 'blastp' - found /home/diego/miniconda3/envs/prokka_env/bin/blastp
+[10:27:21] Determined blastp version is 002015 from 'blastp: 2.15.0+'
+[10:27:21] Looking for 'cmpress' - found /home/diego/miniconda3/envs/prokka_env/bin/cmpress
+[10:27:21] Determined cmpress version is 001001 from '# INFERNAL 1.1.5 (Sep 2023)'
+[10:27:21] Looking for 'cmscan' - found /home/diego/miniconda3/envs/prokka_env/bin/cmscan
+[10:27:21] Determined cmscan version is 001001 from '# INFERNAL 1.1.5 (Sep 2023)'
+[10:27:21] Looking for 'egrep' - found /usr/bin/egrep
+[10:27:21] Looking for 'find' - found /usr/bin/find
+[10:27:21] Looking for 'grep' - found /usr/bin/grep
+[10:27:21] Looking for 'hmmpress' - found /home/diego/miniconda3/envs/prokka_env/bin/hmmpress
+[10:27:21] Determined hmmpress version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[10:27:21] Looking for 'hmmscan' - found /home/diego/miniconda3/envs/prokka_env/bin/hmmscan
+[10:27:21] Determined hmmscan version is 003004 from '# HMMER 3.4 (Aug 2023); http://hmmer.org/'
+[10:27:21] Looking for 'java' - found /home/diego/miniconda3/envs/prokka_env/bin/java
+[10:27:21] Looking for 'makeblastdb' - found /home/diego/miniconda3/envs/prokka_env/bin/makeblastdb
+[10:27:21] Determined makeblastdb version is 002015 from 'makeblastdb: 2.15.0+'
+[10:27:21] Looking for 'minced' - found /home/diego/miniconda3/envs/prokka_env/bin/minced
+[10:27:21] Determined minced version is 004002 from 'minced 0.4.2'
+[10:27:21] Looking for 'parallel' - found /home/diego/miniconda3/envs/prokka_env/bin/parallel
+[10:27:21] Determined parallel version is 20240122 from 'GNU parallel 20240122'
+[10:27:21] Looking for 'prodigal' - found /home/diego/miniconda3/envs/prokka_env/bin/prodigal
+[10:27:21] Determined prodigal version is 002006 from 'Prodigal V2.6.3: February, 2016'
+[10:27:21] Looking for 'prokka-genbank_to_fasta_db' - found /home/diego/miniconda3/envs/prokka_env/bin/prokka-genbank_to_fasta_db
+[10:27:21] Looking for 'rnammer' - found /home/diego/rnammer-1.2.src/rnammer
+[10:27:21] Determined rnammer version is 001002 from 'This rnammer 1.2, running from '/home/diego/rnammer-1.2.src/''
+[10:27:21] Looking for 'sed' - found /usr/bin/sed
+[10:27:21] Looking for 'tbl2asn' - found /home/diego/miniconda3/envs/prokka_env/bin/tbl2asn
+[10:27:21] Determined tbl2asn version is 025007 from 'tbl2asn 25.7   arguments:'
+[10:27:21] Using genetic code table 11.
+[10:27:21] Loading and checking input file: FOM_8.fasta
+[10:27:21] Wrote 273 contigs totalling 576278 bp.
+[10:27:21] Predicting tRNAs and tmRNAs
+[10:27:21] Running: aragorn -l -gc11  -w prokka_FOM_8\/FOM_8\.fna
+[10:27:21] 1 tRNA-Leu c[1410,1496] 36 (caa)
+[10:27:21] 1 tRNA-Arg c[503,577] 35 (ccg)
+[10:27:21] 1 tRNA-Thr [46,120] 35 (cgt)
+[10:27:21] 1 tRNA-Cys c[396,466] 33 (gca)
+[10:27:21] 1 tRNA-Arg c[10498,10574] 36 (acg)
+[10:27:21] Found 5 tRNAs
+[10:27:21] Predicting Ribosomal RNAs
+[10:27:21] Running Barrnap with 20 threads
+[10:27:22] 1 gnl|Prokka|FOM_8_106 514 16S ribosomal RNA
+[10:27:22] 2 gnl|Prokka|FOM_8_165 597 16S ribosomal RNA (partial)
+[10:27:22] Found 2 rRNAs
+[10:27:22] Skipping ncRNA search, enable with --rfam if desired.
+[10:27:22] Total of 7 tRNA + rRNA features
+[10:27:22] Searching for CRISPR repeats
+[10:27:22] Found 0 CRISPRs
+[10:27:22] Predicting coding sequences
+[10:27:22] Contigs total 576278 bp, so using single mode
+[10:27:22] Running: prodigal -i prokka_FOM_8\/FOM_8\.fna -c -m -g 11 -p single -f sco -q
+[10:27:22] Found 510 CDS
+[10:27:22] Connecting features back to sequences
+[10:27:22] Not using genus-specific database. Try --usegenus to enable it.
+[10:27:22] Annotating CDS, please be patient.
+[10:27:22] Will use 20 CPUs for similarity searching.
+[10:27:22] There are still 510 unannotated CDS left (started with 510)
+[10:27:22] Will use blast to search against /home/diego/miniconda3/envs/prokka_env/db/kingdom/Bacteria/IS with 20 CPUs
+[10:27:22] Running: cat prokka_FOM_8\/FOM_8\.IS\.tmp\.114939\.faa | parallel --gnu --plain -j 20 --block 3046 --recstart '>' --pipe blastp -query - -db /home/diego/miniconda3/envs/prokka_env/db/kingdom/Bacteria/IS -evalue 1e-30 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_FOM_8\/FOM_8\.IS\.tmp\.114939\.blast 2> /dev/null
+[10:27:24] Deleting unwanted file: prokka_FOM_8/FOM_8.IS.tmp.114939.faa
+[10:27:24] Deleting unwanted file: prokka_FOM_8/FOM_8.IS.tmp.114939.blast
+[10:27:24] There are still 508 unannotated CDS left (started with 510)
+[10:27:24] Will use blast to search against /home/diego/miniconda3/envs/prokka_env/db/kingdom/Bacteria/AMR with 20 CPUs
+[10:27:24] Running: cat prokka_FOM_8\/FOM_8\.AMR\.tmp\.114939\.faa | parallel --gnu --plain -j 20 --block 3033 --recstart '>' --pipe blastp -query - -db /home/diego/miniconda3/envs/prokka_env/db/kingdom/Bacteria/AMR -evalue 1e-300 -qcov_hsp_perc 90 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_FOM_8\/FOM_8\.AMR\.tmp\.114939\.blast 2> /dev/null
+[10:27:25] Deleting unwanted file: prokka_FOM_8/FOM_8.AMR.tmp.114939.faa
+[10:27:25] Deleting unwanted file: prokka_FOM_8/FOM_8.AMR.tmp.114939.blast
+[10:27:25] There are still 508 unannotated CDS left (started with 510)
+[10:27:25] Will use blast to search against /home/diego/miniconda3/envs/prokka_env/db/kingdom/Bacteria/sprot with 20 CPUs
+[10:27:25] Running: cat prokka_FOM_8\/FOM_8\.sprot\.tmp\.114939\.faa | parallel --gnu --plain -j 20 --block 3033 --recstart '>' --pipe blastp -query - -db /home/diego/miniconda3/envs/prokka_env/db/kingdom/Bacteria/sprot -evalue 1e-09 -qcov_hsp_perc 80 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > prokka_FOM_8\/FOM_8\.sprot\.tmp\.114939\.blast 2> /dev/null
+[10:27:29] Modify product: Uncharacterized oxidoreductase MSMEG_2408/MSMEI_2347 => putative oxidoreductase/MSMEI_2347
+[10:27:29] Modify product: Uncharacterized RNA methyltransferase SP_1029 => putative RNA methyltransferase
+[10:27:29] Modify product: UPF0122 protein SP_1288 => hypothetical protein
+[10:27:29] Modify product: Uncharacterized amino acid permease YhdG => putative amino acid permease YhdG
+[10:27:29] Modify product: UPF0051 protein SA0778 => hypothetical protein
+[10:27:29] Modify product: Probable transport protein YifK => putative transport protein YifK
+[10:27:29] Modify product: Probable ATP-dependent Clp protease ATP-binding subunit => putative ATP-dependent Clp protease ATP-binding subunit
+[10:27:29] Modify product: Probable transport protein HsrA => putative transport protein HsrA
+[10:27:29] Modify product: Uncharacterized ABC transporter ATP-binding protein Rv1273c => putative ABC transporter ATP-binding protein
+[10:27:29] Modify product: Uncharacterized oxidoreductase SA2266 => putative oxidoreductase
+[10:27:29] Modify product: Putative esterase HI_1161 => Putative esterase
+[10:27:29] Modify product: Probable multidrug resistance ABC transporter ATP-binding/permease protein YheH => putative multidrug resistance ABC transporter ATP-binding/permease protein YheH
+[10:27:29] Modify product: Probable GTP-binding protein EngB => putative GTP-binding protein EngB
+[10:27:29] Modify product: Probable nicotinate-nucleotide pyrophosphorylase [carboxylating] => putative nicotinate-nucleotide pyrophosphorylase [carboxylating]
+[10:27:29] Cleaned 14 /product names
+[10:27:29] Deleting unwanted file: prokka_FOM_8/FOM_8.sprot.tmp.114939.faa
+[10:27:29] Deleting unwanted file: prokka_FOM_8/FOM_8.sprot.tmp.114939.blast
+[10:27:29] There are still 308 unannotated CDS left (started with 510)
+[10:27:29] Will use hmmer3 to search against /home/diego/miniconda3/envs/prokka_env/db/hmm/HAMAP.hmm with 20 CPUs
+[10:27:29] Running: cat prokka_FOM_8\/FOM_8\.HAMAP\.hmm\.tmp\.114939\.faa | parallel --gnu --plain -j 20 --block 1717 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-09 --cpu 1 /home/diego/miniconda3/envs/prokka_env/db/hmm/HAMAP.hmm /dev/stdin > prokka_FOM_8\/FOM_8\.HAMAP\.hmm\.tmp\.114939\.hmmer3 2> /dev/null
+[10:27:31] Modify product: Uncharacterized MFS-type transporter YfcJ => putative MFS-type transporter YfcJ
+[10:27:31] Cleaned 1 /product names
+[10:27:31] Deleting unwanted file: prokka_FOM_8/FOM_8.HAMAP.hmm.tmp.114939.faa
+[10:27:31] Deleting unwanted file: prokka_FOM_8/FOM_8.HAMAP.hmm.tmp.114939.hmmer3
+[10:27:31] Labelling remaining 290 proteins as 'hypothetical protein'
+[10:27:31] Possible /pseudo 'Putative fluoride ion transporter CrcB' at gnl|Prokka|FOM_8_142 position 945
+[10:27:31] Found 188 unique /gene codes.
+[10:27:31] Fixed 2 duplicate /gene - atpA_1 atpA_2
+[10:27:31] Fixed 2 duplicate /gene - clpP_1 clpP_2
+[10:27:31] Fixed 3 duplicate /gene - gtfA_1 gtfA_2 gtfA_3
+[10:27:31] Fixed 2 duplicate /gene - glyQ_1 glyQ_2
+[10:27:31] Fixed 2 duplicate /gene - folE_1 folE_2
+[10:27:31] Fixed 2 duplicate /gene - aroA1_1 aroA1_2
+[10:27:31] Fixed 2 duplicate /gene - ftsK_1 ftsK_2
+[10:27:31] Fixed 2 duplicate /gene - acpP_1 acpP_2
+[10:27:31] Fixed 2 duplicate /gene - crcB_1 crcB_2
+[10:27:31] Fixed 3 duplicate /gene - secY_1 secY_2 secY_3
+[10:27:31] Fixed 2 duplicate /gene - hag_1 hag_2
+[10:27:31] Fixed 2 duplicate /gene - clpC_1 clpC_2
+[10:27:31] Fixed 2 duplicate /gene - folB_1 folB_2
+[10:27:31] Fixed 2 duplicate /gene - pepF1_1 pepF1_2
+[10:27:31] Fixed 14 colliding /gene names.
+[10:27:31] Adding /locus_tag identifiers
+[10:27:31] Assigned 517 locus_tags to CDS and RNA features.
+[10:27:31] Writing outputs to prokka_FOM_8/
+[10:27:31] Generating annotation statistics file
+[10:27:31] Generating Genbank and Sequin files
+[10:27:31] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.14.6 from https://github.com/tseemann/prokka' -Z prokka_FOM_8\/FOM_8\.err -i prokka_FOM_8\/FOM_8\.fsa 2> /dev/null
+[10:27:32] Deleting unwanted file: prokka_FOM_8/errorsummary.val
+[10:27:32] Deleting unwanted file: prokka_FOM_8/FOM_8.dr
+[10:27:32] Deleting unwanted file: prokka_FOM_8/FOM_8.fixedproducts
+[10:27:32] Deleting unwanted file: prokka_FOM_8/FOM_8.ecn
+[10:27:32] Deleting unwanted file: prokka_FOM_8/FOM_8.val
+[10:27:32] Repairing broken .GBK output that tbl2asn produces...
+[10:27:32] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < prokka_FOM_8\/FOM_8\.gbf > prokka_FOM_8\/FOM_8\.gbk
+[10:27:32] Deleting unwanted file: prokka_FOM_8/FOM_8.gbf
+[10:27:32] Output files:
+[10:27:32] prokka_FOM_8/FOM_8.err
+[10:27:32] prokka_FOM_8/FOM_8.tbl
+[10:27:32] prokka_FOM_8/FOM_8.log
+[10:27:32] prokka_FOM_8/FOM_8.txt
+[10:27:32] prokka_FOM_8/FOM_8.fsa
+[10:27:32] prokka_FOM_8/FOM_8.tsv
+[10:27:32] prokka_FOM_8/FOM_8.ffn
+[10:27:32] prokka_FOM_8/FOM_8.fna
+[10:27:32] prokka_FOM_8/FOM_8.sqn
+[10:27:32] prokka_FOM_8/FOM_8.gff
+[10:27:32] prokka_FOM_8/FOM_8.gbk
+[10:27:32] prokka_FOM_8/FOM_8.faa
+[10:27:32] Annotation finished successfully.
+[10:27:32] Walltime used: 0.18 minutes
+[10:27:32] If you use this result please cite the Prokka paper:
+[10:27:32] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[10:27:32] Type 'prokka --citation' for more details.
+[10:27:32] Share and enjoy!
